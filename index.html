@@ -65,10 +65,18 @@
 				<pre><code><span style="color: #001080">npm</span><span style="color: #000000"> </span><span style="color: #001080">install</span><span style="color: #000000"> --</span><span style="color: #001080">save</span><span style="color: #000000"> @</span><span style="color: #001080">rpglogs</span><span style="color: #000000">/</span><span style="color: #001080">api</span><span style="color: #000000">-</span><span style="color: #001080">sdk</span>
 </code></pre>
 				<p>Import the SDK builder function:</p>
-				<pre><code class="language-js"><span style="color: #AF00DB">import</span><span style="color: #000000"> { </span><span style="color: #001080">buildWarcraftLogsSdk</span><span style="color: #000000"> } </span><span style="color: #AF00DB">from</span><span style="color: #000000"> </span><span style="color: #A31515">&quot;@rpglogs/api-sdk&quot;</span><span style="color: #000000">;</span>
+				<pre><code class="language-js"><span style="color: #AF00DB">import</span><span style="color: #000000"> { </span><span style="color: #001080">buildSdk</span><span style="color: #000000"> } </span><span style="color: #AF00DB">from</span><span style="color: #000000"> </span><span style="color: #A31515">&quot;@rpglogs/api-sdk&quot;</span><span style="color: #000000">;</span>
 </code></pre>
 				<p>Build an SDK by providing an access token:</p>
-				<pre><code class="language-js"><span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">sdk</span><span style="color: #000000"> = </span><span style="color: #795E26">buildWarcraftLogsSdk</span><span style="color: #000000">(</span><span style="color: #001080">accessToken</span><span style="color: #000000">);</span>
+				<pre><code class="language-js"><span style="color: #008000">// Default game is Retail Warcraft</span>
+<span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">retailWarcraftSdk</span><span style="color: #000000"> = </span><span style="color: #795E26">buildSdk</span><span style="color: #000000">(</span><span style="color: #001080">accessToken</span><span style="color: #000000">);</span>
+
+<span style="color: #008000">// But you can specify particular games</span>
+<span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">classicWarcraftSdk</span><span style="color: #000000"> = </span><span style="color: #795E26">buildSdk</span><span style="color: #000000">(</span><span style="color: #001080">accessToken</span><span style="color: #000000">, </span><span style="color: #A31515">&#039;classic.warcraft&#039;</span><span style="color: #000000">);</span>
+<span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">vanillaWarcraftSdk</span><span style="color: #000000"> = </span><span style="color: #795E26">buildSdk</span><span style="color: #000000">(</span><span style="color: #001080">accessToken</span><span style="color: #000000">, </span><span style="color: #A31515">&#039;vanilla.warcraft&#039;</span><span style="color: #000000">);</span>
+<span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">ffSdk</span><span style="color: #000000"> = </span><span style="color: #795E26">buildSdk</span><span style="color: #000000">(</span><span style="color: #001080">accessToken</span><span style="color: #000000">, </span><span style="color: #A31515">&#039;ff&#039;</span><span style="color: #000000">);</span>
+<span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">esoSdk</span><span style="color: #000000"> = </span><span style="color: #795E26">buildSdk</span><span style="color: #000000">(</span><span style="color: #001080">accessToken</span><span style="color: #000000">, </span><span style="color: #A31515">&#039;eso&#039;</span><span style="color: #000000">);</span>
+<span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">swtorSdk</span><span style="color: #000000"> = </span><span style="color: #795E26">buildSdk</span><span style="color: #000000">(</span><span style="color: #001080">accessToken</span><span style="color: #000000">, </span><span style="color: #A31515">&#039;swtor&#039;</span><span style="color: #000000">);</span>
 </code></pre>
 				<p>Use methods on the SDK to call the RPGLogs API:</p>
 				<pre><code class="language-js"><span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">response</span><span style="color: #000000"> = </span><span style="color: #AF00DB">await</span><span style="color: #000000"> </span><span style="color: #001080">sdk</span><span style="color: #000000">.</span><span style="color: #795E26">guildData</span><span style="color: #000000">({</span>
@@ -507,7 +515,7 @@
 						<a href="modules.html#guildreportsdocument" class="tsd-kind-icon">Guild<wbr>Reports<wbr>Document</a>
 					</li>
 					<li class=" tsd-kind-function">
-						<a href="modules.html#buildwarcraftlogssdk" class="tsd-kind-icon">build<wbr>Warcraft<wbr>Logs<wbr>Sdk</a>
+						<a href="modules.html#buildsdk" class="tsd-kind-icon">build<wbr>Sdk</a>
 					</li>
 					<li class=" tsd-kind-function">
 						<a href="modules.html#getsdk" class="tsd-kind-icon">get<wbr>Sdk</a>
