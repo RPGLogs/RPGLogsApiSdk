@@ -1,6 +1,6 @@
 {
   "name": "@rpglogs/api-sdk",
-  "version": "0.5.3",
+  "version": "1.0.0",
   "description": "Sends HTTP requests to the RPGLogs v2 API.",
   "author": "RPGLogs LLC",
   "repository": "https://github.com/RPGLogs/RPGLogsApiSdk",
