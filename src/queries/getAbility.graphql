@@ -1,0 +1,9 @@
+query getAbility($id: Int!) {
+  gameData {
+    ability(id: $id) {
+      id
+      name
+      icon
+    }
+  }
+}

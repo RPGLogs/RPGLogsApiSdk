@@ -1,0 +1,8 @@
+query getEnchant($id: Int!) {
+  gameData {
+    enchant(id: $id) {
+      id
+      name
+    }
+  }
+}

@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`returns data 1`] = `
+Object {
+  "id": 100,
+  "name": "+6 Versatility",
+}
+`;

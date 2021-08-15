@@ -1,0 +1,30 @@
+query getEncounterFightRankings(
+  $encounterId: Int!,
+  $metric: FightRankingMetricType,
+  $page: Int,
+  $difficulty: Int,
+  $size: Int,
+  $partition: Int,
+  $bracket: Int,
+  $serverRegion: String,
+  $serverSlug: String,
+  $filter: String
+) {
+  worldData {
+    encounter(id: $encounterId) {
+      id
+      name
+      fightRankings(
+        metric: $metric,
+        page: $page,
+        difficulty: $difficulty,
+        size: $size,
+        partition: $partition,
+        bracket: $bracket,
+        serverRegion: $serverRegion,
+        serverSlug: $serverSlug,
+        filter: $filter
+      )
+    }
+  }
+}

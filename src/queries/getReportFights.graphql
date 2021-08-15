@@ -1,0 +1,89 @@
+query getReportFights(
+  $code: String!,
+  $encounterId: Int,
+  $difficulty: Int,
+  $fightIds: [Int],
+  $killType: KillType,
+  $translate: Boolean,
+
+  $includeNpcs: Boolean!,
+  $includePlayers: Boolean!,
+  $includeDungeonPulls: Boolean!
+) {
+  reportData {
+    report(code: $code) {
+      code
+      fights(
+        encounterID: $encounterId,
+        difficulty: $difficulty,
+        fightIDs: $fightIds,
+        killType: $killType,
+        translate: $translate
+      ) {
+        id
+        encounterID
+        name
+        difficulty
+        size
+        startTime
+        endTime
+        fightPercentage
+        bossPercentage
+        lastPhase
+        lastPhaseIsIntermission
+        kill
+        friendlyNPCs @include(if: $includeNpcs) {
+          id
+          gameID
+          instanceCount
+          groupCount
+        }
+        enemyNPCs @include(if: $includeNpcs) {
+          id
+          gameID
+          instanceCount
+          groupCount
+        }
+        friendlyPlayers @include(if: $includePlayers)
+        enemyPlayers @include(if: $includePlayers)
+        averageItemLevel
+        wipeCalledTime
+        completeRaid
+        gameZone {
+          id
+          name
+        }
+        maps {
+          id
+        }
+        keystoneAffixes
+        keystoneBonus
+        keystoneLevel
+        keystoneTime
+        rating
+        dungeonPulls @include(if: $includeDungeonPulls) {
+          id
+          encounterID
+          name
+          startTime
+          endTime
+          kill
+          enemyNPCs {
+            id
+            gameID
+            minimumInstanceID
+            maximumInstanceID
+            minimumInstanceGroupID
+            maximumInstanceGroupID
+          }
+          maps {
+            id
+          }
+          x
+          y
+        }
+        layer
+      }
+    }
+  }
+}

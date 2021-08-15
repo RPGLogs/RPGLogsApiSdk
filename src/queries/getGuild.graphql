@@ -1,0 +1,102 @@
+query getGuild(
+  $guildId: Int,
+  $guildName: String,
+  $guildServerSlug: String,
+  $guildServerRegion: String,
+
+  $includeServer: Boolean!,
+
+  $includeMembers: Boolean!,
+  $membersLimit: Int,
+  $membersPage: Int,
+
+  $includeAttendance: Boolean!,
+  $attendanceLimit: Int,
+  $attendancePage: Int,
+  $attendanceZoneId: Int,
+  $attendanceGuildTagId: Int,
+
+  $includeTags: Boolean!
+) {
+  guildData {
+    guild(
+      id: $guildId,
+      name: $guildName,
+      serverSlug: $guildServerSlug,
+      serverRegion: $guildServerRegion
+    ) {
+      id
+      name
+      description
+      competitionMode
+      stealthMode
+      faction {
+        id
+        name
+      }
+
+      server @include(if: $includeServer) {
+        id
+        name
+        region {
+          id
+          name
+          compactName
+        }
+      }
+
+      members(
+        limit: $membersLimit,
+        page: $membersPage
+      ) @include(if: $includeMembers) {
+        current_page
+        from
+        to
+        per_page
+        has_more_pages
+        last_page
+        total
+        data {
+          id
+          name
+          guildRank
+          level
+          classID
+        }
+      }
+
+      attendance(
+        limit: $attendanceLimit,
+        page: $attendancePage,
+        zoneID: $attendanceZoneId,
+        guildTagID: $attendanceGuildTagId
+      ) @include(if: $includeAttendance) {
+        current_page
+        from
+        to
+        per_page
+        has_more_pages
+        last_page
+        total
+        data {
+          code
+          startTime
+          zone {
+            id
+            name
+          }
+          players {
+            name
+            type
+            presence
+          }
+        }
+      }
+
+      tags @include(if: $includeTags) {
+        id
+        name
+      }
+    }
+  }
+}

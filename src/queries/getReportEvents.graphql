@@ -1,0 +1,58 @@
+query getReportEvents(
+  $code: String!,
+  $startTime: Float,
+  $endTime: Float,
+  $wipeCutoff: Int,
+  $filterExpression: String,
+  $limit: Int,
+  $abilityId: Float,
+  $dataType: EventDataType,
+  $death: Int,
+  $hostilityType: HostilityType,
+  $includeResources: Boolean,
+  $sourceClass: String,
+  $sourceId: Int,
+  $sourceInstanceId: Int,
+  $targetClass: String,
+  $targetId: Int,
+  $targetInstanceId: Int,
+  $viewOptions: Int,
+  $encounterId: Int,
+  $difficulty: Int,
+  $fightIds: [Int],
+  $killType: KillType,
+  $translate: Boolean,
+) {
+  reportData {
+    report(code: $code) {
+      code
+      events(
+        startTime: $startTime,
+        endTime: $endTime,
+        wipeCutoff: $wipeCutoff
+        filterExpression: $filterExpression,
+        limit: $limit,
+        abilityID: $abilityId,
+        dataType: $dataType,
+        death: $death,
+        hostilityType: $hostilityType,
+        includeResources: $includeResources,
+        sourceClass: $sourceClass,
+        sourceID: $sourceId,
+        sourceInstanceID: $sourceInstanceId,
+        targetClass: $targetClass,
+        targetID: $targetId,
+        targetInstanceID: $targetInstanceId,
+        viewOptions: $viewOptions,
+        encounterID: $encounterId,
+        difficulty: $difficulty,
+        fightIDs: $fightIds,
+        killType: $killType,
+        translate: $translate,
+      ) {
+        nextPageTimestamp
+        data
+      }
+    }
+  }
+}

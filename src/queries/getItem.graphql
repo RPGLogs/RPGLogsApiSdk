@@ -1,0 +1,9 @@
+query getItem($id: Int!) {
+  gameData {
+    item(id: $id) {
+      id
+      name
+      icon
+    }
+  }
+}

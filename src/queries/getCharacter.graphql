@@ -1,0 +1,47 @@
+query getCharacter(
+  $characterId: Int,
+  $characterName: String,
+  $characterServerSlug: String,
+  $characterServerRegion: String,
+
+  $includeServer: Boolean!,
+  $includeGuilds: Boolean!,
+  $includeGameData: Boolean!
+) {
+  characterData {
+    character(
+      id: $characterId,
+      name: $characterName,
+      serverSlug: $characterServerSlug,
+      serverRegion: $characterServerRegion
+    ) {
+      id
+      name
+      level
+      classID
+      faction {
+        id
+        name
+      }
+      guildRank
+      hidden
+
+      server @include(if: $includeServer) {
+        id
+        name
+        region {
+          id
+          name
+          compactName
+        }
+      }
+
+      guilds @include(if: $includeGuilds) {
+        id
+        name
+      }
+
+      gameData @include(if: $includeGameData)
+    }
+  }
+}

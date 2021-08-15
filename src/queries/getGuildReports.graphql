@@ -1,0 +1,94 @@
+query getGuildReports(
+  $guildId: Int,
+  $guildName: String,
+  $guildServerSlug: String,
+  $guildServerRegion: String,
+  $guildTagId: Int,
+  $zoneId: Int,
+  $limit: Int!,
+  $page: Int,
+  $startTime: Float,
+  $endTime: Float,
+
+  $includeFights: Boolean!
+  $fightsEncounterId: Int,
+  $fightsDifficulty: Int,
+  $fightsFightIds: [Int],
+  $fightsKillType: KillType,
+  $fightsTranslate: Boolean
+) {
+  reportData {
+    reports(
+      guildID: $guildId,
+      guildName: $guildName,
+      guildServerSlug: $guildServerSlug,
+      guildServerRegion: $guildServerRegion,
+      guildTagID: $guildTagId,
+      zoneID: $zoneId,
+      limit: $limit,
+      page: $page,
+      startTime: $startTime,
+      endTime: $endTime
+    ) {
+      current_page
+      has_more_pages
+      last_page
+      per_page
+      total
+      from
+      to
+      data {
+        code
+        visibility
+        title
+        owner {
+          id
+          name
+        }
+        zone {
+          id
+          name
+        }
+        startTime
+        endTime
+        guildTag {
+          id
+          name
+        }
+        revision
+        segments
+        exportedSegments
+
+        fights(
+          encounterID: $fightsEncounterId,
+          difficulty: $fightsDifficulty,
+          fightIDs: $fightsFightIds,
+          killType: $fightsKillType,
+          translate: $fightsTranslate
+        ) @include(if: $includeFights) {
+          id
+          encounterID
+          name
+          difficulty
+          size
+          startTime
+          endTime
+          fightPercentage
+          bossPercentage
+          lastPhase
+          lastPhaseIsIntermission
+          kill
+          averageItemLevel
+          wipeCalledTime
+          completeRaid
+          keystoneAffixes
+          keystoneBonus
+          keystoneLevel
+          keystoneTime
+          rating
+          layer
+        }
+      }
+    }
+  }
+}

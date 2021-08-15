@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`returns data 1`] = `
+Object {
+  "icon": "inv_misc_bag_07_red.jpg",
+  "id": 109076,
+  "name": "Goblin Glider Kit",
+}
+`;

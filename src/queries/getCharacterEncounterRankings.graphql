@@ -1,0 +1,43 @@
+query getCharacterEncounterRankings(
+  $encounterId: Int!,
+  $characterId: Int,
+  $characterName: String,
+  $characterServerSlug: String,
+  $characterRegion: String,
+  $metric: CharacterRankingMetricType,
+  $difficulty: Int,
+  $size: Int,
+  $partition: Int,
+  $byBracket: Boolean,
+  $specName: String,
+  $role: RoleType,
+  $compare: RankingCompareType,
+  $timeframe: RankingTimeframeType,
+  $includeCombatantInfo: Boolean,
+  $includePrivateLogs: Boolean
+) {
+  characterData {
+    character(
+      id: $characterId,
+      name: $characterName,
+      serverSlug: $characterServerSlug,
+      serverRegion: $characterRegion) {
+      id
+      name
+      encounterRankings(
+        encounterID: $encounterId,
+        metric: $metric,
+        difficulty: $difficulty,
+        size: $size,
+        partition: $partition,
+        byBracket: $byBracket,
+        specName: $specName,
+        role: $role,
+        compare: $compare,
+        timeframe: $timeframe,
+        includeCombatantInfo: $includeCombatantInfo,
+        includePrivateLogs: $includePrivateLogs
+      )
+    }
+  }
+}

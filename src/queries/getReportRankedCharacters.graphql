@@ -1,0 +1,42 @@
+query getReportRankedCharacters(
+  $code: String,
+
+  $includeServer: Boolean!,
+  $includeGuilds: Boolean!,
+  $includeGameData: Boolean!
+) {
+  reportData {
+    report(code: $code) {
+      code
+      rankedCharacters {
+        id
+        name
+        level
+        classID
+        faction {
+          id
+          name
+        }
+        guildRank
+        hidden
+
+        server @include(if: $includeServer) {
+          id
+          name
+          region {
+            id
+            name
+            compactName
+          }
+        }
+
+        guilds @include(if: $includeGuilds) {
+          id
+          name
+        }
+
+        gameData @include(if: $includeGameData)
+      }
+    }
+  }
+}

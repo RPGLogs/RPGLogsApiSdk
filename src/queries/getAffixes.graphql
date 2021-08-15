@@ -1,0 +1,9 @@
+query getAffixes {
+  gameData {
+    affixes {
+      id
+      name
+      icon
+    }
+  }
+}

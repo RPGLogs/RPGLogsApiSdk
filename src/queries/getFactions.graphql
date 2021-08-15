@@ -1,0 +1,8 @@
+query getFactions {
+  gameData {
+    factions {
+      id
+      name
+    }
+  }
+}

@@ -1,0 +1,9 @@
+schema:
+  - src/schema.json
+documents: src/queries/**/*.graphql
+generates:
+  src/sdk.ts:
+    plugins:
+      - typescript
+      - typescript-operations
+      - typescript-graphql-request

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`returns data 1`] = `
+Object {
+  "icon": "spell_shadow_twistedfaith.jpg",
+  "id": 964,
+  "name": "Going Down?",
+}
+`;

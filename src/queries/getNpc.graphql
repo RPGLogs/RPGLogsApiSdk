@@ -1,0 +1,8 @@
+query getNpc($id: Int!) {
+  gameData {
+    npc(id: $id) {
+      id
+      name
+    }
+  }
+}

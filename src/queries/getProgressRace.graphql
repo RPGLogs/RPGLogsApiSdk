@@ -1,0 +1,5 @@
+query getProgressRace($serverSlug: String, $serverRegion: String, $zoneId: Int) {
+  progressRaceData {
+    progressRace(serverSlug: $serverSlug, serverRegion: $serverRegion, zoneID: $zoneId)
+  }
+}

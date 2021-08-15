@@ -1,0 +1,9 @@
+query getAchievement($id: Int!) {
+  gameData {
+    achievement(id: $id) {
+      id
+      name
+      icon
+    }
+  }
+}

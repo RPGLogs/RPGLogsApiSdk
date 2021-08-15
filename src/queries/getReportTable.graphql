@@ -1,0 +1,53 @@
+query getReportTable(
+  $code: String!,
+  $startTime: Float,
+  $endTime: Float,
+  $wipeCutoff: Int,
+  $filterExpression: String,
+  $viewBy: ViewType,
+  $abilityId: Float,
+  $dataType: TableDataType,
+  $death: Int,
+  $hostilityType: HostilityType,
+  $sourceClass: String,
+  $sourceId: Int,
+  $sourceInstanceId: Int,
+  $targetClass: String,
+  $targetId: Int,
+  $targetInstanceId: Int,
+  $viewOptions: Int,
+  $encounterId: Int,
+  $difficulty: Int,
+  $fightIds: [Int],
+  $killType: KillType,
+  $translate: Boolean,
+) {
+  reportData {
+    report(code: $code) {
+      code
+      table(
+        startTime: $startTime,
+        endTime: $endTime,
+        wipeCutoff: $wipeCutoff
+        filterExpression: $filterExpression,
+        viewBy: $viewBy,
+        abilityID: $abilityId,
+        dataType: $dataType,
+        death: $death,
+        hostilityType: $hostilityType,
+        sourceClass: $sourceClass,
+        sourceID: $sourceId,
+        sourceInstanceID: $sourceInstanceId,
+        targetClass: $targetClass,
+        targetID: $targetId,
+        targetInstanceID: $targetInstanceId,
+        viewOptions: $viewOptions,
+        encounterID: $encounterId,
+        difficulty: $difficulty,
+        fightIDs: $fightIds,
+        killType: $killType,
+        translate: $translate,
+      )
+    }
+  }
+}

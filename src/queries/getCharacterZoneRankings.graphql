@@ -1,0 +1,41 @@
+query getCharacterZoneRankings(
+  $zoneId: Int!,
+  $characterId: Int,
+  $characterName: String,
+  $characterServerSlug: String,
+  $characterRegion: String,
+  $metric: CharacterRankingMetricType,
+  $difficulty: Int,
+  $size: Int,
+  $partition: Int,
+  $byBracket: Boolean,
+  $specName: String,
+  $role: RoleType,
+  $compare: RankingCompareType,
+  $timeframe: RankingTimeframeType,
+  $includePrivateLogs: Boolean
+) {
+  characterData {
+    character(
+      id: $characterId,
+      name: $characterName,
+      serverSlug: $characterServerSlug,
+      serverRegion: $characterRegion) {
+      id
+      name
+      zoneRankings(
+        zoneID: $zoneId,
+        metric: $metric,
+        difficulty: $difficulty,
+        size: $size,
+        partition: $partition,
+        byBracket: $byBracket,
+        specName: $specName,
+        role: $role,
+        compare: $compare,
+        timeframe: $timeframe,
+        includePrivateLogs: $includePrivateLogs
+      )
+    }
+  }
+}

@@ -1,0 +1,16 @@
+/node_modules/
+/build/
+/lib/
+/dist/
+/docs/
+.idea/*
+
+.DS_Store
+coverage
+*.log
+/src/credentials.js
+/src/schema.json
+/src/sdk.ts
+src/credentials.ts
+src/queries/.graphqlconfig
+src/queries/schema.graphql

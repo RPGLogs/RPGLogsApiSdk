@@ -1,0 +1,28 @@
+query getZones {
+  worldData {
+    zones {
+      id
+      name
+      frozen
+      brackets {
+        type
+        min
+        max
+        bucket
+      }
+      encounters {
+        id
+        name
+      }
+      difficulties {
+        id
+        name
+        sizes
+      }
+      expansion {
+        id
+        name
+      }
+    }
+  }
+}

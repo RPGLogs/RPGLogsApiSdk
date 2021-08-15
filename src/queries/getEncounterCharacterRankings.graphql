@@ -1,0 +1,36 @@
+query getEncounterCharacterRankings(
+  $encounterId: Int!,
+  $metric: CharacterRankingMetricType,
+  $page: Int,
+  $difficulty: Int,
+  $size: Int,
+  $partition: Int,
+  $bracket: Int,
+  $serverRegion: String,
+  $serverSlug: String,
+  $filter: String,
+  $className: String,
+  $specName: String,
+  $includeCombatantInfo: Boolean
+) {
+  worldData {
+    encounter(id: $encounterId) {
+      id
+      name
+      characterRankings(
+        metric: $metric,
+        page: $page,
+        difficulty: $difficulty,
+        size: $size,
+        partition: $partition,
+        bracket: $bracket,
+        serverRegion: $serverRegion,
+        serverSlug: $serverSlug,
+        filter: $filter,
+        className: $className,
+        specName: $specName,
+        includeCombatantInfo: $includeCombatantInfo
+      )
+    }
+  }
+}
