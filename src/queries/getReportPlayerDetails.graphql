@@ -1,0 +1,25 @@
+query getReportPlayerDetails(
+  $code: String!,
+  $startTime: Float,
+  $endTime: Float,
+  $encounterId: Int,
+  $difficulty: Int,
+  $fightIds: [Int],
+  $killType: KillType,
+  $translate: Boolean,
+) {
+  reportData {
+    report(code: $code) {
+      code
+      playerDetails(
+        startTime: $startTime,
+        endTime: $endTime,
+        encounterID: $encounterId,
+        difficulty: $difficulty,
+        fightIDs: $fightIds,
+        killType: $killType,
+        translate: $translate,
+      )
+    }
+  }
+}

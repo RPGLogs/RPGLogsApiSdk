@@ -74,6 +74,7 @@ This list of methods gives a good idea of what data you can retrieve:
 * `getReportGraph`
 * `getReportRankedCharacters`
 * `getReportTable`
+* `getReportPlayerDetails`
 * `getUserReports`
 * `getZones`
 
