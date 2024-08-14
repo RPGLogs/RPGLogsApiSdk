@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>ViewType | @rpglogs/api-sdk</title>
+	<title>GuildRank | @rpglogs/api-sdk</title>
 	<meta name="description" content="Documentation for @rpglogs/api-sdk">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="../assets/css/main.css">
@@ -55,10 +55,10 @@
 					<a href="../modules.html">@rpglogs/api-sdk</a>
 				</li>
 				<li>
-					<a href="viewtype.html">ViewType</a>
+					<a href="guildrank.html">GuildRank</a>
 				</li>
 			</ul>
-			<h1>Enumeration ViewType</h1>
+			<h1>Enumeration GuildRank</h1>
 		</div>
 	</div>
 </header>
@@ -68,7 +68,7 @@
 			<section class="tsd-panel tsd-comment">
 				<div class="tsd-comment tsd-typography">
 					<div class="lead">
-						<p>Whether the view is by source, target, or ability.</p>
+						<p>Rank within a guild or team on the website. This is separate from in-game ranks and does NOT correspond to the rank of the user or character in-game.</p>
 					</div>
 				</div>
 			</section>
@@ -79,10 +79,12 @@
 						<section class="tsd-index-section ">
 							<h3>Enumeration members</h3>
 							<ul class="tsd-index-list">
-								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="viewtype.html#ability" class="tsd-kind-icon">Ability</a></li>
-								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="viewtype.html#default" class="tsd-kind-icon">Default</a></li>
-								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="viewtype.html#source" class="tsd-kind-icon">Source</a></li>
-								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="viewtype.html#target" class="tsd-kind-icon">Target</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="guildrank.html#applicant" class="tsd-kind-icon">Applicant</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="guildrank.html#guildmaster" class="tsd-kind-icon">Guild<wbr>Master</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="guildrank.html#member" class="tsd-kind-icon">Member</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="guildrank.html#nonmember" class="tsd-kind-icon">Non<wbr>Member</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="guildrank.html#officer" class="tsd-kind-icon">Officer</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="guildrank.html#recruit" class="tsd-kind-icon">Recruit</a></li>
 							</ul>
 						</section>
 					</div>
@@ -91,64 +93,69 @@
 			<section class="tsd-panel-group tsd-member-group ">
 				<h2>Enumeration members</h2>
 				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
-					<a name="ability" class="tsd-anchor"></a>
-					<h3>Ability</h3>
-					<div class="tsd-signature tsd-kind-icon">Ability<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Ability&quot;</span></div>
+					<a name="applicant" class="tsd-anchor"></a>
+					<h3>Applicant</h3>
+					<div class="tsd-signature tsd-kind-icon">Applicant<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Applicant&quot;</span></div>
 					<aside class="tsd-sources">
 						<ul>
-							<li>Defined in sdk.ts:2073</li>
+							<li>Defined in sdk.ts:1137</li>
+						</ul>
+					</aside>
+				</section>
+				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
+					<a name="guildmaster" class="tsd-anchor"></a>
+					<h3>Guild<wbr>Master</h3>
+					<div class="tsd-signature tsd-kind-icon">Guild<wbr>Master<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;GuildMaster&quot;</span></div>
+					<aside class="tsd-sources">
+						<ul>
+							<li>Defined in sdk.ts:1141</li>
+						</ul>
+					</aside>
+				</section>
+				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
+					<a name="member" class="tsd-anchor"></a>
+					<h3>Member</h3>
+					<div class="tsd-signature tsd-kind-icon">Member<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Member&quot;</span></div>
+					<aside class="tsd-sources">
+						<ul>
+							<li>Defined in sdk.ts:1139</li>
+						</ul>
+					</aside>
+				</section>
+				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
+					<a name="nonmember" class="tsd-anchor"></a>
+					<h3>Non<wbr>Member</h3>
+					<div class="tsd-signature tsd-kind-icon">Non<wbr>Member<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;NonMember&quot;</span></div>
+					<aside class="tsd-sources">
+						<ul>
+							<li>Defined in sdk.ts:1136</li>
 						</ul>
 					</aside>
 					<div class="tsd-comment tsd-typography">
 						<div class="lead">
-							<p>View by ability.</p>
+							<p>The user is not a member of this guild or team.</p>
 						</div>
 					</div>
 				</section>
 				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
-					<a name="default" class="tsd-anchor"></a>
-					<h3>Default</h3>
-					<div class="tsd-signature tsd-kind-icon">Default<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Default&quot;</span></div>
+					<a name="officer" class="tsd-anchor"></a>
+					<h3>Officer</h3>
+					<div class="tsd-signature tsd-kind-icon">Officer<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Officer&quot;</span></div>
 					<aside class="tsd-sources">
 						<ul>
-							<li>Defined in sdk.ts:2071</li>
+							<li>Defined in sdk.ts:1140</li>
 						</ul>
 					</aside>
-					<div class="tsd-comment tsd-typography">
-						<div class="lead">
-							<p>Use the same default that the web site picks based off the other selected parameters.</p>
-						</div>
-					</div>
 				</section>
 				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
-					<a name="source" class="tsd-anchor"></a>
-					<h3>Source</h3>
-					<div class="tsd-signature tsd-kind-icon">Source<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Source&quot;</span></div>
+					<a name="recruit" class="tsd-anchor"></a>
+					<h3>Recruit</h3>
+					<div class="tsd-signature tsd-kind-icon">Recruit<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Recruit&quot;</span></div>
 					<aside class="tsd-sources">
 						<ul>
-							<li>Defined in sdk.ts:2075</li>
+							<li>Defined in sdk.ts:1138</li>
 						</ul>
 					</aside>
-					<div class="tsd-comment tsd-typography">
-						<div class="lead">
-							<p>View. by source.</p>
-						</div>
-					</div>
-				</section>
-				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
-					<a name="target" class="tsd-anchor"></a>
-					<h3>Target</h3>
-					<div class="tsd-signature tsd-kind-icon">Target<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Target&quot;</span></div>
-					<aside class="tsd-sources">
-						<ul>
-							<li>Defined in sdk.ts:2077</li>
-						</ul>
-					</aside>
-					<div class="tsd-comment tsd-typography">
-						<div class="lead">
-							<p>View by target.</p>
-						</div>
-					</div>
 				</section>
 			</section>
 		</div>
@@ -165,19 +172,25 @@
 				</ul>
 				<ul class="current">
 					<li class="current tsd-kind-enum">
-						<a href="viewtype.html" class="tsd-kind-icon">View<wbr>Type</a>
+						<a href="guildrank.html" class="tsd-kind-icon">Guild<wbr>Rank</a>
 						<ul>
 							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
-								<a href="viewtype.html#ability" class="tsd-kind-icon">Ability</a>
+								<a href="guildrank.html#applicant" class="tsd-kind-icon">Applicant</a>
 							</li>
 							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
-								<a href="viewtype.html#default" class="tsd-kind-icon">Default</a>
+								<a href="guildrank.html#guildmaster" class="tsd-kind-icon">Guild<wbr>Master</a>
 							</li>
 							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
-								<a href="viewtype.html#source" class="tsd-kind-icon">Source</a>
+								<a href="guildrank.html#member" class="tsd-kind-icon">Member</a>
 							</li>
 							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
-								<a href="viewtype.html#target" class="tsd-kind-icon">Target</a>
+								<a href="guildrank.html#nonmember" class="tsd-kind-icon">Non<wbr>Member</a>
+							</li>
+							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
+								<a href="guildrank.html#officer" class="tsd-kind-icon">Officer</a>
+							</li>
+							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
+								<a href="guildrank.html#recruit" class="tsd-kind-icon">Recruit</a>
 							</li>
 						</ul>
 					</li>

@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>RankingCompareType | @rpglogs/api-sdk</title>
+	<title>ExternalBuffRankFilter | @rpglogs/api-sdk</title>
 	<meta name="description" content="Documentation for @rpglogs/api-sdk">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="../assets/css/main.css">
@@ -55,10 +55,10 @@
 					<a href="../modules.html">@rpglogs/api-sdk</a>
 				</li>
 				<li>
-					<a href="rankingcomparetype.html">RankingCompareType</a>
+					<a href="externalbuffrankfilter.html">ExternalBuffRankFilter</a>
 				</li>
 			</ul>
-			<h1>Enumeration RankingCompareType</h1>
+			<h1>Enumeration ExternalBuffRankFilter</h1>
 		</div>
 	</div>
 </header>
@@ -68,7 +68,7 @@
 			<section class="tsd-panel tsd-comment">
 				<div class="tsd-comment tsd-typography">
 					<div class="lead">
-						<p>Whether or not rankings are compared against best scores for the entire tier or against all parses in a two week window.</p>
+						<p>Whether to include ranks with major external buffs. Not all metrics, zones and games support this. It will be ignored if unsupported.</p>
 					</div>
 				</div>
 			</section>
@@ -79,8 +79,9 @@
 						<section class="tsd-index-section ">
 							<h3>Enumeration members</h3>
 							<ul class="tsd-index-list">
-								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="rankingcomparetype.html#parses" class="tsd-kind-icon">Parses</a></li>
-								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="rankingcomparetype.html#rankings" class="tsd-kind-icon">Rankings</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="externalbuffrankfilter.html#any" class="tsd-kind-icon">Any</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="externalbuffrankfilter.html#exclude" class="tsd-kind-icon">Exclude</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="externalbuffrankfilter.html#require" class="tsd-kind-icon">Require</a></li>
 							</ul>
 						</section>
 					</div>
@@ -89,32 +90,47 @@
 			<section class="tsd-panel-group tsd-member-group ">
 				<h2>Enumeration members</h2>
 				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
-					<a name="parses" class="tsd-anchor"></a>
-					<h3>Parses</h3>
-					<div class="tsd-signature tsd-kind-icon">Parses<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Parses&quot;</span></div>
+					<a name="any" class="tsd-anchor"></a>
+					<h3>Any</h3>
+					<div class="tsd-signature tsd-kind-icon">Any<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Any&quot;</span></div>
 					<aside class="tsd-sources">
 						<ul>
-							<li>Defined in sdk.ts:1351</li>
+							<li>Defined in sdk.ts:491</li>
 						</ul>
 					</aside>
 					<div class="tsd-comment tsd-typography">
 						<div class="lead">
-							<p>Compare against all parses in a two week window.</p>
+							<p>Include all ranks, regardless of external buffs.</p>
 						</div>
 					</div>
 				</section>
 				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
-					<a name="rankings" class="tsd-anchor"></a>
-					<h3>Rankings</h3>
-					<div class="tsd-signature tsd-kind-icon">Rankings<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Rankings&quot;</span></div>
+					<a name="exclude" class="tsd-anchor"></a>
+					<h3>Exclude</h3>
+					<div class="tsd-signature tsd-kind-icon">Exclude<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Exclude&quot;</span></div>
 					<aside class="tsd-sources">
 						<ul>
-							<li>Defined in sdk.ts:1349</li>
+							<li>Defined in sdk.ts:495</li>
 						</ul>
 					</aside>
 					<div class="tsd-comment tsd-typography">
 						<div class="lead">
-							<p>Compare against rankings.</p>
+							<p>Only include ranks that DO NOT CONTAIN external buffs.</p>
+						</div>
+					</div>
+				</section>
+				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
+					<a name="require" class="tsd-anchor"></a>
+					<h3>Require</h3>
+					<div class="tsd-signature tsd-kind-icon">Require<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Require&quot;</span></div>
+					<aside class="tsd-sources">
+						<ul>
+							<li>Defined in sdk.ts:493</li>
+						</ul>
+					</aside>
+					<div class="tsd-comment tsd-typography">
+						<div class="lead">
+							<p>Only include ranks that DO CONTAIN external buffs.</p>
 						</div>
 					</div>
 				</section>
@@ -133,13 +149,16 @@
 				</ul>
 				<ul class="current">
 					<li class="current tsd-kind-enum">
-						<a href="rankingcomparetype.html" class="tsd-kind-icon">Ranking<wbr>Compare<wbr>Type</a>
+						<a href="externalbuffrankfilter.html" class="tsd-kind-icon">External<wbr>Buff<wbr>Rank<wbr>Filter</a>
 						<ul>
 							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
-								<a href="rankingcomparetype.html#parses" class="tsd-kind-icon">Parses</a>
+								<a href="externalbuffrankfilter.html#any" class="tsd-kind-icon">Any</a>
 							</li>
 							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
-								<a href="rankingcomparetype.html#rankings" class="tsd-kind-icon">Rankings</a>
+								<a href="externalbuffrankfilter.html#exclude" class="tsd-kind-icon">Exclude</a>
+							</li>
+							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
+								<a href="externalbuffrankfilter.html#require" class="tsd-kind-icon">Require</a>
 							</li>
 						</ul>
 					</li>

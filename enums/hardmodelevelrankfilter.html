@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>FightRankingMetricType | @rpglogs/api-sdk</title>
+	<title>HardModeLevelRankFilter | @rpglogs/api-sdk</title>
 	<meta name="description" content="Documentation for @rpglogs/api-sdk">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="../assets/css/main.css">
@@ -55,10 +55,10 @@
 					<a href="../modules.html">@rpglogs/api-sdk</a>
 				</li>
 				<li>
-					<a href="fightrankingmetrictype.html">FightRankingMetricType</a>
+					<a href="hardmodelevelrankfilter.html">HardModeLevelRankFilter</a>
 				</li>
 			</ul>
-			<h1>Enumeration FightRankingMetricType</h1>
+			<h1>Enumeration HardModeLevelRankFilter</h1>
 		</div>
 	</div>
 </header>
@@ -68,7 +68,7 @@
 			<section class="tsd-panel tsd-comment">
 				<div class="tsd-comment tsd-typography">
 					<div class="lead">
-						<p>All the possible metrics.</p>
+						<p>Hard mode level filter. Used for WoW Classic Hard Modes. For ESO hard modes, use <code>difficulty</code>. Hard mode levels range from 0-4, with 0 being normal mode and 4 being the highest hard mode.</p>
 					</div>
 				</div>
 			</section>
@@ -79,12 +79,14 @@
 						<section class="tsd-index-section ">
 							<h3>Enumeration members</h3>
 							<ul class="tsd-index-list">
-								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="fightrankingmetrictype.html#default" class="tsd-kind-icon">Default</a></li>
-								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="fightrankingmetrictype.html#execution" class="tsd-kind-icon">Execution</a></li>
-								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="fightrankingmetrictype.html#feats" class="tsd-kind-icon">Feats</a></li>
-								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="fightrankingmetrictype.html#progress" class="tsd-kind-icon">Progress</a></li>
-								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="fightrankingmetrictype.html#score" class="tsd-kind-icon">Score</a></li>
-								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="fightrankingmetrictype.html#speed" class="tsd-kind-icon">Speed</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="hardmodelevelrankfilter.html#any" class="tsd-kind-icon">Any</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="hardmodelevelrankfilter.html#highest" class="tsd-kind-icon">Highest</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="hardmodelevelrankfilter.html#level0" class="tsd-kind-icon">Level0</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="hardmodelevelrankfilter.html#level1" class="tsd-kind-icon">Level1</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="hardmodelevelrankfilter.html#level2" class="tsd-kind-icon">Level2</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="hardmodelevelrankfilter.html#level3" class="tsd-kind-icon">Level3</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="hardmodelevelrankfilter.html#level4" class="tsd-kind-icon">Level4</a></li>
+								<li class="tsd-kind-enum-member tsd-parent-kind-enum"><a href="hardmodelevelrankfilter.html#normalmode" class="tsd-kind-icon">Normal<wbr>Mode</a></li>
 							</ul>
 						</section>
 					</div>
@@ -93,92 +95,122 @@
 			<section class="tsd-panel-group tsd-member-group ">
 				<h2>Enumeration members</h2>
 				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
-					<a name="default" class="tsd-anchor"></a>
-					<h3>Default</h3>
-					<div class="tsd-signature tsd-kind-icon">Default<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;default&quot;</span></div>
+					<a name="any" class="tsd-anchor"></a>
+					<h3>Any</h3>
+					<div class="tsd-signature tsd-kind-icon">Any<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Any&quot;</span></div>
 					<aside class="tsd-sources">
 						<ul>
-							<li>Defined in sdk.ts:501</li>
+							<li>Defined in sdk.ts:1189</li>
 						</ul>
 					</aside>
 					<div class="tsd-comment tsd-typography">
 						<div class="lead">
-							<p>Choose an appropriate default depending on the other selected parameters.</p>
+							<p>Any hard mode level (including normal mode).</p>
 						</div>
 					</div>
 				</section>
 				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
-					<a name="execution" class="tsd-anchor"></a>
-					<h3>Execution</h3>
-					<div class="tsd-signature tsd-kind-icon">Execution<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;execution&quot;</span></div>
+					<a name="highest" class="tsd-anchor"></a>
+					<h3>Highest</h3>
+					<div class="tsd-signature tsd-kind-icon">Highest<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Highest&quot;</span></div>
 					<aside class="tsd-sources">
 						<ul>
-							<li>Defined in sdk.ts:503</li>
+							<li>Defined in sdk.ts:1191</li>
 						</ul>
 					</aside>
 					<div class="tsd-comment tsd-typography">
 						<div class="lead">
-							<p>A metric that rewards minimizing deaths and damage taken.</p>
+							<p>The highest hard mode level. Convenience alias for hard mode level 4.</p>
 						</div>
 					</div>
 				</section>
 				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
-					<a name="feats" class="tsd-anchor"></a>
-					<h3>Feats</h3>
-					<div class="tsd-signature tsd-kind-icon">Feats<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;feats&quot;</span></div>
+					<a name="level0" class="tsd-anchor"></a>
+					<h3>Level0</h3>
+					<div class="tsd-signature tsd-kind-icon">Level0<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Level0&quot;</span></div>
 					<aside class="tsd-sources">
 						<ul>
-							<li>Defined in sdk.ts:505</li>
+							<li>Defined in sdk.ts:1195</li>
 						</ul>
 					</aside>
 					<div class="tsd-comment tsd-typography">
 						<div class="lead">
-							<p>Feats of strength in WoW or Challenges in FF.</p>
+							<p>Hard mode level 0.</p>
 						</div>
 					</div>
 				</section>
 				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
-					<a name="progress" class="tsd-anchor"></a>
-					<h3>Progress</h3>
-					<div class="tsd-signature tsd-kind-icon">Progress<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;progress&quot;</span></div>
+					<a name="level1" class="tsd-anchor"></a>
+					<h3>Level1</h3>
+					<div class="tsd-signature tsd-kind-icon">Level1<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Level1&quot;</span></div>
 					<aside class="tsd-sources">
 						<ul>
-							<li>Defined in sdk.ts:511</li>
+							<li>Defined in sdk.ts:1197</li>
 						</ul>
 					</aside>
 					<div class="tsd-comment tsd-typography">
 						<div class="lead">
-							<p>Progress metric, based off when the fight was defeated.</p>
+							<p>Hard mode level 1.</p>
 						</div>
 					</div>
 				</section>
 				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
-					<a name="score" class="tsd-anchor"></a>
-					<h3>Score</h3>
-					<div class="tsd-signature tsd-kind-icon">Score<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;score&quot;</span></div>
+					<a name="level2" class="tsd-anchor"></a>
+					<h3>Level2</h3>
+					<div class="tsd-signature tsd-kind-icon">Level2<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Level2&quot;</span></div>
 					<aside class="tsd-sources">
 						<ul>
-							<li>Defined in sdk.ts:507</li>
+							<li>Defined in sdk.ts:1199</li>
 						</ul>
 					</aside>
 					<div class="tsd-comment tsd-typography">
 						<div class="lead">
-							<p>For Mythic+ dungeons in WoW, represents the team&#39;s score. Used for ESO trials and dungeons also.</p>
+							<p>Hard mode level 2.</p>
 						</div>
 					</div>
 				</section>
 				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
-					<a name="speed" class="tsd-anchor"></a>
-					<h3>Speed</h3>
-					<div class="tsd-signature tsd-kind-icon">Speed<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;speed&quot;</span></div>
+					<a name="level3" class="tsd-anchor"></a>
+					<h3>Level3</h3>
+					<div class="tsd-signature tsd-kind-icon">Level3<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Level3&quot;</span></div>
 					<aside class="tsd-sources">
 						<ul>
-							<li>Defined in sdk.ts:509</li>
+							<li>Defined in sdk.ts:1201</li>
 						</ul>
 					</aside>
 					<div class="tsd-comment tsd-typography">
 						<div class="lead">
-							<p>Speed metric, based off the duration of the fight.</p>
+							<p>Hard mode level 3.</p>
+						</div>
+					</div>
+				</section>
+				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
+					<a name="level4" class="tsd-anchor"></a>
+					<h3>Level4</h3>
+					<div class="tsd-signature tsd-kind-icon">Level4<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;Level4&quot;</span></div>
+					<aside class="tsd-sources">
+						<ul>
+							<li>Defined in sdk.ts:1203</li>
+						</ul>
+					</aside>
+					<div class="tsd-comment tsd-typography">
+						<div class="lead">
+							<p>Hard mode level 4.</p>
+						</div>
+					</div>
+				</section>
+				<section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum">
+					<a name="normalmode" class="tsd-anchor"></a>
+					<h3>Normal<wbr>Mode</h3>
+					<div class="tsd-signature tsd-kind-icon">Normal<wbr>Mode<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol"> = &quot;NormalMode&quot;</span></div>
+					<aside class="tsd-sources">
+						<ul>
+							<li>Defined in sdk.ts:1193</li>
+						</ul>
+					</aside>
+					<div class="tsd-comment tsd-typography">
+						<div class="lead">
+							<p>The normal (non-hard) mode level. Convenience alias for hard mode level 0.</p>
 						</div>
 					</div>
 				</section>
@@ -197,25 +229,31 @@
 				</ul>
 				<ul class="current">
 					<li class="current tsd-kind-enum">
-						<a href="fightrankingmetrictype.html" class="tsd-kind-icon">Fight<wbr>Ranking<wbr>Metric<wbr>Type</a>
+						<a href="hardmodelevelrankfilter.html" class="tsd-kind-icon">Hard<wbr>Mode<wbr>Level<wbr>Rank<wbr>Filter</a>
 						<ul>
 							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
-								<a href="fightrankingmetrictype.html#default" class="tsd-kind-icon">Default</a>
+								<a href="hardmodelevelrankfilter.html#any" class="tsd-kind-icon">Any</a>
 							</li>
 							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
-								<a href="fightrankingmetrictype.html#execution" class="tsd-kind-icon">Execution</a>
+								<a href="hardmodelevelrankfilter.html#highest" class="tsd-kind-icon">Highest</a>
 							</li>
 							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
-								<a href="fightrankingmetrictype.html#feats" class="tsd-kind-icon">Feats</a>
+								<a href="hardmodelevelrankfilter.html#level0" class="tsd-kind-icon">Level0</a>
 							</li>
 							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
-								<a href="fightrankingmetrictype.html#progress" class="tsd-kind-icon">Progress</a>
+								<a href="hardmodelevelrankfilter.html#level1" class="tsd-kind-icon">Level1</a>
 							</li>
 							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
-								<a href="fightrankingmetrictype.html#score" class="tsd-kind-icon">Score</a>
+								<a href="hardmodelevelrankfilter.html#level2" class="tsd-kind-icon">Level2</a>
 							</li>
 							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
-								<a href="fightrankingmetrictype.html#speed" class="tsd-kind-icon">Speed</a>
+								<a href="hardmodelevelrankfilter.html#level3" class="tsd-kind-icon">Level3</a>
+							</li>
+							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
+								<a href="hardmodelevelrankfilter.html#level4" class="tsd-kind-icon">Level4</a>
+							</li>
+							<li class=" tsd-kind-enum-member tsd-parent-kind-enum">
+								<a href="hardmodelevelrankfilter.html#normalmode" class="tsd-kind-icon">Normal<wbr>Mode</a>
 							</li>
 						</ul>
 					</li>
