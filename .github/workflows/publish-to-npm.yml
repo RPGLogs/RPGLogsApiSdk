@@ -25,6 +25,8 @@ jobs:
           access: public
 
       - run: yarn docs
+        env:
+          INPUT_TOKEN: ''
       - run: touch docs/.nojekyll
       - name: Deploy docs 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
