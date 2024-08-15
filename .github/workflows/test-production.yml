@@ -1,0 +1,21 @@
+name: Test Production
+
+on:
+  schedule:
+    # run every hour
+    - cron: '0 * * * *'
+  workflow_dispatch: {}
+
+jobs:
+  publish-to-npm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 20
+      - run: yarn install
+      - run: yarn lint
+      - run: "echo 'const credentials = { clientId: \"${{ secrets.RPGLOGS_API_CLIENT_ID }}\", clientSecret: \"${{ secrets.RPGLOGS_API_CLIENT_SECRET }}\" }; export default credentials;' > src/credentials.ts"
+      - run: yarn generate
+      - run: yarn test
