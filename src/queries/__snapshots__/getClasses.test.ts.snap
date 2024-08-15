@@ -266,5 +266,27 @@ Array [
       },
     ],
   },
+  Object {
+    "id": 13,
+    "name": "Evoker",
+    "slug": "Evoker",
+    "specs": Array [
+      Object {
+        "id": 1,
+        "name": "Devastation",
+        "slug": "Devastation",
+      },
+      Object {
+        "id": 2,
+        "name": "Preservation",
+        "slug": "Preservation",
+      },
+      Object {
+        "id": 3,
+        "name": "Augmentation",
+        "slug": "Augmentation",
+      },
+    ],
+  },
 ]
 `;

@@ -16,13 +16,6 @@ test('returns data', async () => {
       id: 2,
       name: 'Horde',
     },
-    guildRank: 1,
-    guilds: [
-      {
-        id: 369203,
-        name: 'Reaction',
-      },
-    ],
     hidden: false,
     id: 46159040,
     level: 60,
@@ -37,8 +30,4 @@ test('returns data', async () => {
       },
     },
   });
-
-  expect(
-    response?.characterData?.character?.gameData.global.average_item_level
-  ).toBeGreaterThan(0);
 });

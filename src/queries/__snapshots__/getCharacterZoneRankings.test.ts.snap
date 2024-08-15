@@ -18,6 +18,17 @@ Object {
         "total": 13189,
       },
       Object {
+        "partition": 2,
+        "points": 87.4102,
+        "possiblePoints": 1320,
+        "rank": 4815,
+        "rankPercent": 45.27057753524329,
+        "regionRank": 2143,
+        "serverRank": null,
+        "spec": "Vengeance",
+        "total": 8796,
+      },
+      Object {
         "partition": 3,
         "points": 111.307,
         "possiblePoints": 1080,
@@ -31,9 +42,9 @@ Object {
     ],
     "bestPerformanceAverage": 93.49076666666667,
     "difficulty": 5,
-    "medianPerformanceAverage": 65.75385555555555,
+    "medianPerformanceAverage": 65.55116666666666,
     "metric": "dps",
-    "partition": 3,
+    "partition": -1,
     "rankings": Array [
       Object {
         "allStars": Object {
@@ -54,10 +65,10 @@ Object {
         },
         "fastestKill": 127266,
         "lockedIn": true,
-        "medianPercent": 86.0455,
+        "medianPercent": 85.3273,
         "rankPercent": 99.3903,
         "spec": "Vengeance",
-        "totalKills": 19,
+        "totalKills": 20,
       },
       Object {
         "allStars": Object {
@@ -78,10 +89,10 @@ Object {
         },
         "fastestKill": 82616,
         "lockedIn": true,
-        "medianPercent": 83.2299,
+        "medianPercent": 82.1239,
         "rankPercent": 99.4233,
         "spec": "Vengeance",
-        "totalKills": 17,
+        "totalKills": 18,
       },
       Object {
         "allStars": Object {
@@ -102,10 +113,10 @@ Object {
         },
         "fastestKill": 99050,
         "lockedIn": true,
-        "medianPercent": 78.6404,
+        "medianPercent": 78.3728,
         "rankPercent": 95.2483,
         "spec": "Vengeance",
-        "totalKills": 18,
+        "totalKills": 19,
       },
       Object {
         "allStars": Object {

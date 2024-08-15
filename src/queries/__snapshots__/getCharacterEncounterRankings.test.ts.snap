@@ -9,12 +9,13 @@ Object {
     "fastestKill": 79259,
     "medianPerformance": 71.49022998782577,
     "metric": "dps",
-    "partition": 3,
+    "partition": -1,
     "ranks": Array [
       Object {
         "amount": 255365,
         "bestSpec": "Vengeance",
         "bracketData": 482,
+        "class": 12,
         "duration": 79259,
         "guild": Object {
           "faction": 1,
@@ -40,6 +41,7 @@ Object {
         "amount": 119065,
         "bestSpec": "Vengeance",
         "bracketData": 482,
+        "class": 12,
         "duration": 159698,
         "guild": Object {
           "faction": 1,
@@ -65,6 +67,7 @@ Object {
         "amount": 118174,
         "bestSpec": "Vengeance",
         "bracketData": 482,
+        "class": 12,
         "duration": 154152,
         "guild": Object {
           "faction": 1,
@@ -90,6 +93,7 @@ Object {
         "amount": 102224,
         "bestSpec": "Vengeance",
         "bracketData": 482,
+        "class": 12,
         "duration": 124528,
         "guild": Object {
           "faction": 1,
@@ -115,6 +119,7 @@ Object {
         "amount": 99913.6,
         "bestSpec": "Vengeance",
         "bracketData": 482,
+        "class": 12,
         "duration": 148862,
         "guild": Object {
           "faction": 1,
@@ -140,6 +145,7 @@ Object {
         "amount": 99480.6,
         "bestSpec": "Vengeance",
         "bracketData": 482,
+        "class": 12,
         "duration": 167505,
         "guild": Object {
           "faction": 1,
@@ -165,6 +171,7 @@ Object {
         "amount": 94270.7,
         "bestSpec": "Vengeance",
         "bracketData": 482,
+        "class": 12,
         "duration": 152267,
         "guild": Object {
           "faction": 1,
@@ -190,6 +197,7 @@ Object {
         "amount": 88940.1,
         "bestSpec": "Vengeance",
         "bracketData": 482,
+        "class": 12,
         "duration": 93608,
         "guild": Object {
           "faction": 1,
@@ -215,6 +223,7 @@ Object {
         "amount": 83378.5,
         "bestSpec": "Vengeance",
         "bracketData": 481,
+        "class": 12,
         "duration": 168555,
         "guild": Object {
           "faction": 1,
@@ -240,6 +249,7 @@ Object {
         "amount": 81635.1,
         "bestSpec": "Vengeance",
         "bracketData": 482,
+        "class": 12,
         "duration": 142274,
         "guild": Object {
           "faction": 1,
@@ -265,6 +275,7 @@ Object {
         "amount": 72266.5,
         "bestSpec": "Vengeance",
         "bracketData": 482,
+        "class": 12,
         "duration": 104770,
         "guild": Object {
           "faction": 1,
@@ -290,6 +301,7 @@ Object {
         "amount": 71664.7,
         "bestSpec": "Vengeance",
         "bracketData": 476,
+        "class": 12,
         "duration": 172698,
         "guild": Object {
           "faction": 1,
@@ -315,6 +327,7 @@ Object {
         "amount": 69915.1,
         "bestSpec": "Vengeance",
         "bracketData": 480,
+        "class": 12,
         "duration": 188375,
         "guild": Object {
           "faction": 1,
@@ -340,6 +353,7 @@ Object {
         "amount": 68095.1,
         "bestSpec": "Vengeance",
         "bracketData": 482,
+        "class": 12,
         "duration": 154647,
         "guild": Object {
           "faction": 1,
@@ -365,6 +379,7 @@ Object {
         "amount": 67423.1,
         "bestSpec": "Vengeance",
         "bracketData": 482,
+        "class": 12,
         "duration": 108960,
         "guild": Object {
           "faction": 1,
@@ -390,6 +405,7 @@ Object {
         "amount": 66312.1,
         "bestSpec": "Vengeance",
         "bracketData": 482,
+        "class": 12,
         "duration": 101795,
         "guild": Object {
           "faction": 1,
@@ -415,6 +431,7 @@ Object {
         "amount": 65746.1,
         "bestSpec": "Vengeance",
         "bracketData": 481,
+        "class": 12,
         "duration": 181446,
         "guild": Object {
           "faction": 1,
@@ -440,6 +457,7 @@ Object {
         "amount": 60595.1,
         "bestSpec": "Vengeance",
         "bracketData": 481,
+        "class": 12,
         "duration": 170086,
         "guild": Object {
           "faction": 1,
@@ -465,6 +483,7 @@ Object {
         "amount": 48619.4,
         "bestSpec": "Vengeance",
         "bracketData": 474,
+        "class": 12,
         "duration": 273679,
         "guild": Object {
           "faction": 1,

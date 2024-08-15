@@ -17,6 +17,7 @@ Object {
           "id": 369203,
           "name": "Reaction",
         },
+        "hardModeLevel": 0,
         "name": "Xyä",
         "report": Object {
           "code": "ANw6Fynq8W3P1Bkg",
@@ -41,6 +42,7 @@ Object {
           "id": 207999,
           "name": "NonSense",
         },
+        "hardModeLevel": 0,
         "name": "Twicedh",
         "report": Object {
           "code": "TMjv8cJ4qA6kYKLg",
@@ -65,6 +67,7 @@ Object {
           "id": 627,
           "name": "Resonate",
         },
+        "hardModeLevel": 0,
         "name": "Shadarek",
         "report": Object {
           "code": "QkrvdhT8NZbLM294",
@@ -89,6 +92,7 @@ Object {
           "id": 100393,
           "name": "xD",
         },
+        "hardModeLevel": 0,
         "name": "Metaclass",
         "report": Object {
           "code": "hzdRJmj96BZTcP2b",
@@ -113,6 +117,7 @@ Object {
           "id": 492201,
           "name": "Sanity",
         },
+        "hardModeLevel": 0,
         "name": "Nyqdh",
         "report": Object {
           "code": "Lx893NwdFHavKVWZ",
@@ -137,6 +142,7 @@ Object {
           "id": 33052,
           "name": "WindRose",
         },
+        "hardModeLevel": 0,
         "name": "可樂",
         "report": Object {
           "code": "TKnfYxaqv1PBwtgZ",
@@ -161,6 +167,7 @@ Object {
           "id": 489365,
           "name": "Limited Editíon",
         },
+        "hardModeLevel": 0,
         "name": "Samori",
         "report": Object {
           "code": "aTMv1PAfWCpBt7bJ",
@@ -180,6 +187,7 @@ Object {
         "bracketData": 476,
         "class": "DemonHunter",
         "duration": 206987,
+        "hardModeLevel": 0,
         "name": "녹차가루솔솔",
         "report": Object {
           "code": "JyaW94wxcgXAP78z",
@@ -204,6 +212,7 @@ Object {
           "id": 11574,
           "name": "Omnicide",
         },
+        "hardModeLevel": 0,
         "name": "Aíza",
         "report": Object {
           "code": "8fh1txBL2GjAkFRQ",
@@ -228,6 +237,7 @@ Object {
           "id": 374543,
           "name": "Seven Deadly Sins",
         },
+        "hardModeLevel": 0,
         "name": "Vaeb",
         "report": Object {
           "code": "nr9xALVT3ayZH4Bd",
@@ -252,6 +262,7 @@ Object {
           "id": 50905,
           "name": "No Consensus",
         },
+        "hardModeLevel": 0,
         "name": "Pretelethal",
         "report": Object {
           "code": "khBgHmnCxKc2JQvy",
@@ -271,11 +282,7 @@ Object {
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 204024,
-        "guild": Object {
-          "faction": 1,
-          "id": 309600,
-          "name": "Ðark inside",
-        },
+        "hardModeLevel": 0,
         "name": "Demonheer",
         "report": Object {
           "code": "7FWrYZmHR1h3PvAN",
@@ -300,6 +307,7 @@ Object {
           "id": 117213,
           "name": "Liege",
         },
+        "hardModeLevel": 0,
         "name": "Mackav",
         "report": Object {
           "code": "AK31dJQGMwnTcPyr",
@@ -319,6 +327,7 @@ Object {
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 145743,
+        "hardModeLevel": 0,
         "name": "Yuuyake",
         "report": Object {
           "code": "tR9LB2ANgaXyFHhb",
@@ -343,6 +352,7 @@ Object {
           "id": 474691,
           "name": "Sultans",
         },
+        "hardModeLevel": 0,
         "name": "Asyc",
         "report": Object {
           "code": "MWKAxz9HLvJk4w1V",
@@ -367,6 +377,7 @@ Object {
           "id": 121066,
           "name": "Unity",
         },
+        "hardModeLevel": 0,
         "name": "Ichigatsu",
         "report": Object {
           "code": "kGmgNzDjLCwRhpnZ",
@@ -391,6 +402,7 @@ Object {
           "id": 19537,
           "name": "Spike Flail",
         },
+        "hardModeLevel": 0,
         "name": "Tyroned",
         "report": Object {
           "code": "DdGRj8hJZ17WHPxg",
@@ -415,6 +427,7 @@ Object {
           "id": 456161,
           "name": "Midwinter",
         },
+        "hardModeLevel": 0,
         "name": "Piratemansam",
         "report": Object {
           "code": "dygKZnYXF2z8w3Lk",
@@ -439,6 +452,7 @@ Object {
           "id": 136876,
           "name": "Late Shift",
         },
+        "hardModeLevel": 0,
         "name": "Bloodheavy",
         "report": Object {
           "code": "VRNP1bmyDKkhdWY9",
@@ -463,6 +477,7 @@ Object {
           "id": 395,
           "name": "Vindicatum",
         },
+        "hardModeLevel": 0,
         "name": "Braille",
         "report": Object {
           "code": "gCfYhB8m2kap3cFn",
@@ -487,6 +502,7 @@ Object {
           "id": 556191,
           "name": "V O I D",
         },
+        "hardModeLevel": 0,
         "name": "Saddhmain",
         "report": Object {
           "code": "yxYj1bLg8hBF9R6t",
@@ -511,6 +527,7 @@ Object {
           "id": 96729,
           "name": "중화요리",
         },
+        "hardModeLevel": 0,
         "name": "셋져",
         "report": Object {
           "code": "VMWcyxXAK9CF2t4G",
@@ -535,6 +552,7 @@ Object {
           "id": 451483,
           "name": "Valkyrie",
         },
+        "hardModeLevel": 0,
         "name": "Massochist",
         "report": Object {
           "code": "ghtzW6yfYVc2L3CD",
@@ -559,6 +577,7 @@ Object {
           "id": 448969,
           "name": "Modus Operandi",
         },
+        "hardModeLevel": 0,
         "name": "Aardonyx",
         "report": Object {
           "code": "96KkFRn2LGcy3Zp1",
@@ -583,6 +602,7 @@ Object {
           "id": 556314,
           "name": "Pyrium",
         },
+        "hardModeLevel": 0,
         "name": "Honkdh",
         "report": Object {
           "code": "qVD9c7CJ3pr6MKRx",
@@ -607,6 +627,7 @@ Object {
           "id": 435761,
           "name": "Tramontinas Club",
         },
+        "hardModeLevel": 0,
         "name": "Ravenborn",
         "report": Object {
           "code": "zcHCjpXD8TB1ygtr",
@@ -631,6 +652,7 @@ Object {
           "id": 535734,
           "name": "Decode",
         },
+        "hardModeLevel": 0,
         "name": "Evodh",
         "report": Object {
           "code": "dYJfKzwZ3PLnR94W",
@@ -655,6 +677,7 @@ Object {
           "id": 463880,
           "name": "Autonomous Collective",
         },
+        "hardModeLevel": 0,
         "name": "Kyokuen",
         "report": Object {
           "code": "rGdkKQhM92W6ZzLb",
@@ -679,6 +702,7 @@ Object {
           "id": 336897,
           "name": "The Frozen Toiletpaper",
         },
+        "hardModeLevel": 0,
         "name": "Dåseåbneren",
         "report": Object {
           "code": "Cf1PwZra2DXzMbL9",
@@ -703,6 +727,7 @@ Object {
           "id": 2353,
           "name": "Tiger Rebels",
         },
+        "hardModeLevel": 0,
         "name": "Daemaya",
         "report": Object {
           "code": "PMvjbLF6QXwByYkV",
@@ -727,6 +752,7 @@ Object {
           "id": 501597,
           "name": "Bangerz",
         },
+        "hardModeLevel": 0,
         "name": "Swollrob",
         "report": Object {
           "code": "GfQMDxv7pzJa2gNV",
@@ -751,6 +777,7 @@ Object {
           "id": 41770,
           "name": "Insomnis Equitatus",
         },
+        "hardModeLevel": 0,
         "name": "Furor",
         "report": Object {
           "code": "XGTajfx3LpHFVWRb",
@@ -775,6 +802,7 @@ Object {
           "id": 1034,
           "name": "Ad Elysium",
         },
+        "hardModeLevel": 0,
         "name": "Salsaqt",
         "report": Object {
           "code": "h2KMaAZqH67kBDLQ",
@@ -794,6 +822,7 @@ Object {
         "bracketData": 476,
         "class": "DemonHunter",
         "duration": 194181,
+        "hardModeLevel": 0,
         "hidden": true,
         "name": "Anonymous",
         "report": Object {
@@ -809,6 +838,7 @@ Object {
         "bracketData": 476,
         "class": "DemonHunter",
         "duration": 196365,
+        "hardModeLevel": 0,
         "name": "Varinija",
         "report": Object {
           "code": "k8zpx2BZ9Nvbram6",
@@ -833,6 +863,7 @@ Object {
           "id": 552414,
           "name": "After",
         },
+        "hardModeLevel": 0,
         "name": "Barybadrnath",
         "report": Object {
           "code": "pAyL3ndrHcTm417K",
@@ -852,6 +883,12 @@ Object {
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 201638,
+        "guild": Object {
+          "faction": 0,
+          "id": 375885,
+          "name": "仙缘奇遇",
+        },
+        "hardModeLevel": 0,
         "name": "提刀书生",
         "report": Object {
           "code": "BzhRZ2PkyT41MDJf",
@@ -876,6 +913,7 @@ Object {
           "id": 1147,
           "name": "CATASTROPHE",
         },
+        "hardModeLevel": 0,
         "name": "Plausesdh",
         "report": Object {
           "code": "kjQm13V6hwqaDzBr",
@@ -900,6 +938,7 @@ Object {
           "id": 10210,
           "name": "Colour",
         },
+        "hardModeLevel": 0,
         "name": "Naztheridan",
         "report": Object {
           "code": "MPJpnbK1f4kaLrvm",
@@ -924,6 +963,7 @@ Object {
           "id": 448946,
           "name": "Consequence",
         },
+        "hardModeLevel": 0,
         "name": "Ickydari",
         "report": Object {
           "code": "2mWp4Ccfwv8NAGXV",
@@ -948,6 +988,7 @@ Object {
           "id": 100393,
           "name": "xD",
         },
+        "hardModeLevel": 0,
         "name": "Valsparadh",
         "report": Object {
           "code": "DKjrntp926J78kZN",
@@ -972,6 +1013,7 @@ Object {
           "id": 436914,
           "name": "Casual Elitists",
         },
+        "hardModeLevel": 0,
         "name": "Metaproc",
         "report": Object {
           "code": "qk8HrKndZx6hXmzc",
@@ -991,6 +1033,7 @@ Object {
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 191141,
+        "hardModeLevel": 0,
         "hidden": true,
         "name": "Anonymous",
         "report": Object {
@@ -1011,6 +1054,7 @@ Object {
           "id": 84352,
           "name": "집중해서 원트가요",
         },
+        "hardModeLevel": 0,
         "name": "Dingbba",
         "report": Object {
           "code": "B7Np34wHbtk9zYTm",
@@ -1035,6 +1079,7 @@ Object {
           "id": 59733,
           "name": "Superbia",
         },
+        "hardModeLevel": 0,
         "name": "Cainini",
         "report": Object {
           "code": "QFNypRXY3gDKxAPb",
@@ -1059,6 +1104,7 @@ Object {
           "id": 126,
           "name": "Get Well Soon",
         },
+        "hardModeLevel": 0,
         "name": "Muskari",
         "report": Object {
           "code": "vdr1q8C6AcyXmhKM",
@@ -1083,6 +1129,7 @@ Object {
           "id": 16639,
           "name": "Parallel",
         },
+        "hardModeLevel": 0,
         "name": "Théva",
         "report": Object {
           "code": "c1VXY3b2PQkTqxWK",
@@ -1107,6 +1154,7 @@ Object {
           "id": 22759,
           "name": "Continuum",
         },
+        "hardModeLevel": 0,
         "name": "Koshmor",
         "report": Object {
           "code": "Gz3g6qKdnCBDmL21",
@@ -1131,6 +1179,7 @@ Object {
           "id": 39130,
           "name": "Foundation",
         },
+        "hardModeLevel": 0,
         "name": "Grillixar",
         "report": Object {
           "code": "kRdVAWymQnjHJ24C",
@@ -1155,6 +1204,7 @@ Object {
           "id": 251,
           "name": "Avalerion",
         },
+        "hardModeLevel": 0,
         "name": "Valrenia",
         "report": Object {
           "code": "p8PbtWDZ3wdaMHTF",
@@ -1179,6 +1229,7 @@ Object {
           "id": 365352,
           "name": "자제요",
         },
+        "hardModeLevel": 0,
         "name": "악두목",
         "report": Object {
           "code": "6dwBZm3GRQkL8YgP",
@@ -1203,6 +1254,7 @@ Object {
           "id": 255851,
           "name": "Ginyu Force",
         },
+        "hardModeLevel": 0,
         "name": "Goatspin",
         "report": Object {
           "code": "KBC1zthm2y6g3Zfd",
@@ -1227,6 +1279,7 @@ Object {
           "id": 2856,
           "name": "SynergyMEOW",
         },
+        "hardModeLevel": 0,
         "name": "Minome",
         "report": Object {
           "code": "MTK7pAzqxjZ8rWya",
@@ -1251,6 +1304,7 @@ Object {
           "id": 455608,
           "name": "Crimson",
         },
+        "hardModeLevel": 0,
         "name": "Androdaddy",
         "report": Object {
           "code": "z9fMxWnTZDwd4arg",
@@ -1275,6 +1329,7 @@ Object {
           "id": 452555,
           "name": "Faded",
         },
+        "hardModeLevel": 0,
         "name": "Dvvo",
         "report": Object {
           "code": "9NMzVpWFt2hYGHJk",
@@ -1299,6 +1354,7 @@ Object {
           "id": 95343,
           "name": "vDo",
         },
+        "hardModeLevel": 0,
         "name": "Ararara",
         "report": Object {
           "code": "N3P2jnvgrV6Hc7zF",
@@ -1323,6 +1379,7 @@ Object {
           "id": 18391,
           "name": "League of Friends",
         },
+        "hardModeLevel": 0,
         "name": "Demonbum",
         "report": Object {
           "code": "xp3zDYVZc1Pj7AB8",
@@ -1347,6 +1404,7 @@ Object {
           "id": 408918,
           "name": "Wipeforged",
         },
+        "hardModeLevel": 0,
         "name": "Lightdh",
         "report": Object {
           "code": "tXWmCYkFZrgp2b8G",
@@ -1366,6 +1424,7 @@ Object {
         "bracketData": 483,
         "class": "DemonHunter",
         "duration": 182488,
+        "hardModeLevel": 0,
         "name": "Olen",
         "report": Object {
           "code": "WbmqPNYCBV8zaw63",
@@ -1390,6 +1449,7 @@ Object {
           "id": 380448,
           "name": "Oops",
         },
+        "hardModeLevel": 0,
         "name": "Achìllés",
         "report": Object {
           "code": "mKZx26XCQB1rPGjv",
@@ -1414,6 +1474,7 @@ Object {
           "id": 483186,
           "name": "You Hate to See It",
         },
+        "hardModeLevel": 0,
         "name": "Chillebeam",
         "report": Object {
           "code": "KcTLaWCzngd1wXAF",
@@ -1438,6 +1499,7 @@ Object {
           "id": 338398,
           "name": "Tactics",
         },
+        "hardModeLevel": 0,
         "name": "Blindasun",
         "report": Object {
           "code": "f2TBzr7JChVAMcFR",
@@ -1462,6 +1524,7 @@ Object {
           "id": 512504,
           "name": "Shadowmeld",
         },
+        "hardModeLevel": 0,
         "name": "Druffe",
         "report": Object {
           "code": "JNxHYCAVRtaGgKyv",
@@ -1484,8 +1547,9 @@ Object {
         "guild": Object {
           "faction": 1,
           "id": 412635,
-          "name": "Red Light District",
+          "name": "Dead Light District",
         },
+        "hardModeLevel": 0,
         "name": "Needeyedrops",
         "report": Object {
           "code": "k7Nw26MvHdcxgWfj",
@@ -1505,6 +1569,7 @@ Object {
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 191840,
+        "hardModeLevel": 0,
         "name": "Joelovessm",
         "report": Object {
           "code": "gGmTbPWzr82dJjxR",
@@ -1529,6 +1594,7 @@ Object {
           "id": 353327,
           "name": "Familiar with Drama",
         },
+        "hardModeLevel": 0,
         "name": "Demonnish",
         "report": Object {
           "code": "2ajxCLtKYnvJ7wPq",
@@ -1553,6 +1619,7 @@ Object {
           "id": 481381,
           "name": "La Familia",
         },
+        "hardModeLevel": 0,
         "name": "Glaivediggar",
         "report": Object {
           "code": "AaYCwqzMZm8kjnTF",
@@ -1577,6 +1644,7 @@ Object {
           "id": 219833,
           "name": "Mesmerize",
         },
+        "hardModeLevel": 0,
         "name": "Treptei",
         "report": Object {
           "code": "K9wd8ZzMGj6LHfWJ",
@@ -1601,6 +1669,7 @@ Object {
           "id": 10069,
           "name": "Innervision",
         },
+        "hardModeLevel": 0,
         "name": "Blindavocado",
         "report": Object {
           "code": "HKDWwpTf2bFRMyCz",
@@ -1625,6 +1694,7 @@ Object {
           "id": 114149,
           "name": "그래 우리 발꼬락으루 컨한다",
         },
+        "hardModeLevel": 0,
         "name": "애니멀린",
         "report": Object {
           "code": "QVGRMXLmpK1dFH39",
@@ -1644,6 +1714,7 @@ Object {
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 206006,
+        "hardModeLevel": 0,
         "name": "Deralanmao",
         "report": Object {
           "code": "n7VGq196d4ZMaRDj",
@@ -1663,6 +1734,7 @@ Object {
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 252643,
+        "hardModeLevel": 0,
         "name": "슈킹악",
         "report": Object {
           "code": "wRtxpBrv3kYVFjX1",
@@ -1685,8 +1757,9 @@ Object {
         "guild": Object {
           "faction": 1,
           "id": 263408,
-          "name": "Imagine",
+          "name": "Apes Together Strong",
         },
+        "hardModeLevel": 0,
         "name": "Captharambe",
         "report": Object {
           "code": "g9MWPTpq2yxfd6Fb",
@@ -1706,6 +1779,7 @@ Object {
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 203696,
+        "hardModeLevel": 0,
         "name": "Elliemvp",
         "report": Object {
           "code": "3xRyfrYvKP47ZjAG",
@@ -1730,6 +1804,7 @@ Object {
           "id": 486568,
           "name": "LEGOS",
         },
+        "hardModeLevel": 0,
         "name": "Käisa",
         "report": Object {
           "code": "PHdNZjJD3tA4fQcY",
@@ -1754,6 +1829,7 @@ Object {
           "id": 152263,
           "name": "Pixel Enthusiasts",
         },
+        "hardModeLevel": 0,
         "name": "Nietzchette",
         "report": Object {
           "code": "vb2Xa7frG6mwHzLP",
@@ -1776,8 +1852,9 @@ Object {
         "guild": Object {
           "faction": 1,
           "id": 17772,
-          "name": "BDGG",
+          "name": "BDG",
         },
+        "hardModeLevel": 0,
         "name": "Dbzydh",
         "report": Object {
           "code": "zZxRpcmhanY6Tb8v",
@@ -1802,6 +1879,7 @@ Object {
           "id": 4371,
           "name": "Aspects",
         },
+        "hardModeLevel": 0,
         "name": "Dhrix",
         "report": Object {
           "code": "JBWz2964GFZKgPyL",
@@ -1826,6 +1904,7 @@ Object {
           "id": 341226,
           "name": "Fire Dawn",
         },
+        "hardModeLevel": 0,
         "name": "Exträ",
         "report": Object {
           "code": "b7MCVa49mKrBAY2X",
@@ -1850,6 +1929,7 @@ Object {
           "id": 428238,
           "name": "Blacklisted",
         },
+        "hardModeLevel": 0,
         "name": "Dzoshua",
         "report": Object {
           "code": "pFxAzX94fktJW8jD",
@@ -1874,6 +1954,7 @@ Object {
           "id": 517468,
           "name": "Ookers",
         },
+        "hardModeLevel": 0,
         "name": "Silvikk",
         "report": Object {
           "code": "ZGxrMzwt8FbmHqQX",
@@ -1898,6 +1979,7 @@ Object {
           "id": 322593,
           "name": "Melee Mechanics",
         },
+        "hardModeLevel": 0,
         "name": "Solardh",
         "report": Object {
           "code": "CqXatLZ3wx8MVy29",
@@ -1922,6 +2004,7 @@ Object {
           "id": 538846,
           "name": "Mounstritos",
         },
+        "hardModeLevel": 0,
         "name": "Pleaides",
         "report": Object {
           "code": "7tFTnzg6Ja2B38wM",
@@ -1941,6 +2024,7 @@ Object {
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 188134,
+        "hardModeLevel": 0,
         "name": "Farplane",
         "report": Object {
           "code": "DwQZpY9TWBqAgNtd",
@@ -1965,6 +2049,7 @@ Object {
           "id": 290811,
           "name": "Royal Empire",
         },
+        "hardModeLevel": 0,
         "name": "Lilydana",
         "report": Object {
           "code": "d64pM231mb8zWDPG",
@@ -1987,8 +2072,9 @@ Object {
         "guild": Object {
           "faction": 1,
           "id": 470131,
-          "name": "Focus Up",
+          "name": "Meowdy",
         },
+        "hardModeLevel": 0,
         "name": "Hdh",
         "report": Object {
           "code": "DRYLrGBWh2HdyKQ1",
@@ -2013,6 +2099,7 @@ Object {
           "id": 479035,
           "name": "Pull bei Eins",
         },
+        "hardModeLevel": 0,
         "name": "Idrosdh",
         "report": Object {
           "code": "4VvPYbR1mt7rak3H",
@@ -2037,6 +2124,7 @@ Object {
           "id": 292362,
           "name": "Efficient",
         },
+        "hardModeLevel": 0,
         "name": "Citríné",
         "report": Object {
           "code": "BnZ3pcvF8C1GrQ96",
@@ -2061,6 +2149,7 @@ Object {
           "id": 1773,
           "name": "Slow Motion",
         },
+        "hardModeLevel": 0,
         "name": "Pyxs",
         "report": Object {
           "code": "YMVRFtQkGPTbnjL8",
@@ -2085,6 +2174,7 @@ Object {
           "id": 65,
           "name": "Daybreak",
         },
+        "hardModeLevel": 0,
         "name": "Mailbox",
         "report": Object {
           "code": "hTVq9nkwQbBgDKfA",
@@ -2104,6 +2194,7 @@ Object {
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 175587,
+        "hardModeLevel": 0,
         "name": "안녕난댕이",
         "report": Object {
           "code": "d3GJWYF2hN6vw9Va",
@@ -2128,6 +2219,7 @@ Object {
           "id": 219370,
           "name": "Greggs",
         },
+        "hardModeLevel": 0,
         "name": "Rásban",
         "report": Object {
           "code": "HAxP3MNb24rYF9cf",
@@ -2152,6 +2244,7 @@ Object {
           "id": 95684,
           "name": "Zeroes to Heroes",
         },
+        "hardModeLevel": 0,
         "name": "Elruth",
         "report": Object {
           "code": "MVFnjgctZ4AC1L3Q",
@@ -2176,6 +2269,7 @@ Object {
           "id": 29295,
           "name": "Nascent",
         },
+        "hardModeLevel": 0,
         "name": "Lanfelera",
         "report": Object {
           "code": "LAJPjHQ84Nv7YG2y",
@@ -2200,6 +2294,7 @@ Object {
           "id": 140757,
           "name": "Rumor Has It",
         },
+        "hardModeLevel": 0,
         "name": "Ligertron",
         "report": Object {
           "code": "JpR2trCymVKwQPhZ",
@@ -2224,6 +2319,7 @@ Object {
           "id": 79173,
           "name": "Chaos Reborn",
         },
+        "hardModeLevel": 0,
         "name": "Gesbane",
         "report": Object {
           "code": "c7Lm9h3JQ6qdkPCg",
@@ -2248,6 +2344,7 @@ Object {
           "id": 497031,
           "name": "SOS",
         },
+        "hardModeLevel": 0,
         "name": "Fèaver",
         "report": Object {
           "code": "KRMDz8Yjhav79xXn",
@@ -2267,6 +2364,7 @@ Object {
         "bracketData": 475,
         "class": "DemonHunter",
         "duration": 180042,
+        "hardModeLevel": 0,
         "name": "Paranoid",
         "report": Object {
           "code": "dQ79tChbyZ8k6Kcg",
@@ -2291,6 +2389,7 @@ Object {
           "id": 375210,
           "name": "Gamebreakers",
         },
+        "hardModeLevel": 0,
         "name": "Rívalthel",
         "report": Object {
           "code": "NayFpfXWjQBqbJL9",
@@ -2315,6 +2414,7 @@ Object {
           "id": 1662,
           "name": "Winters Heart",
         },
+        "hardModeLevel": 0,
         "name": "Aíza",
         "report": Object {
           "code": "mTX3GZk2c8CNrvPB",
