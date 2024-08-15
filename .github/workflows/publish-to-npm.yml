@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v1
       - uses: actions/setup-node@v1
         with:
-          node-version: 14
+          node-version: 20
       - run: yarn install
       - run: yarn lint
       - run: "echo 'const credentials = { clientId: \"${{ secrets.RPGLOGS_API_CLIENT_ID }}\", clientSecret: \"${{ secrets.RPGLOGS_API_CLIENT_SECRET }}\" }; export default credentials;' > src/credentials.ts"
@@ -23,3 +23,12 @@ jobs:
         with:
           token: ${{ secrets.NPM_TOKEN }}
           access: public
+
+      - run: yarn docs
+      - run: touch docs/.nojekyll
+      - name: Deploy docs 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: docs
