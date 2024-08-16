@@ -1,30 +1,30 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`returns data 1`] = `
-Object {
-  "characterRankings": Object {
+{
+  "characterRankings": {
     "count": 100,
     "hasMorePages": true,
     "page": 1,
-    "rankings": Array [
-      Object {
+    "rankings": [
+      {
         "amount": 255365,
         "bracketData": 482,
         "class": "DemonHunter",
         "duration": 79259,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
         },
         "hardModeLevel": 0,
         "name": "Xyä",
-        "report": Object {
+        "report": {
           "code": "ANw6Fynq8W3P1Bkg",
           "fightID": 15,
           "startTime": 1602092886405,
         },
-        "server": Object {
+        "server": {
           "id": 304,
           "name": "Kazzak",
           "region": "EU",
@@ -32,24 +32,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1602097935818,
       },
-      Object {
+      {
         "amount": 208342,
         "bracketData": 480,
         "class": "DemonHunter",
         "duration": 144291,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 207999,
           "name": "NonSense",
         },
         "hardModeLevel": 0,
         "name": "Twicedh",
-        "report": Object {
+        "report": {
           "code": "TMjv8cJ4qA6kYKLg",
           "fightID": 23,
           "startTime": 1596387404001,
         },
-        "server": Object {
+        "server": {
           "id": 408,
           "name": "Blackrock",
           "region": "EU",
@@ -57,24 +57,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1596391722365,
       },
-      Object {
+      {
         "amount": 204968,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 150914,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 627,
           "name": "Resonate",
         },
         "hardModeLevel": 0,
         "name": "Shadarek",
-        "report": Object {
+        "report": {
           "code": "QkrvdhT8NZbLM294",
           "fightID": 31,
           "startTime": 1594771680667,
         },
-        "server": Object {
+        "server": {
           "id": 38,
           "name": "Bleeding Hollow",
           "region": "US",
@@ -82,24 +82,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1594778754768,
       },
-      Object {
+      {
         "amount": 202495,
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 143045,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 100393,
           "name": "xD",
         },
         "hardModeLevel": 0,
         "name": "Metaclass",
-        "report": Object {
+        "report": {
           "code": "hzdRJmj96BZTcP2b",
           "fightID": 10,
           "startTime": 1598057491663,
         },
-        "server": Object {
+        "server": {
           "id": 18,
           "name": "Area 52",
           "region": "US",
@@ -107,24 +107,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1598060438255,
       },
-      Object {
+      {
         "amount": 196159,
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 132236,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 492201,
           "name": "Sanity",
         },
         "hardModeLevel": 0,
         "name": "Nyqdh",
-        "report": Object {
+        "report": {
           "code": "Lx893NwdFHavKVWZ",
           "fightID": 28,
           "startTime": 1597254958104,
         },
-        "server": Object {
+        "server": {
           "id": 283,
           "name": "Draenor",
           "region": "EU",
@@ -132,24 +132,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1597261188345,
       },
-      Object {
+      {
         "amount": 192007,
         "bracketData": 482,
         "class": "DemonHunter",
         "duration": 154304,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 33052,
           "name": "WindRose",
         },
         "hardModeLevel": 0,
         "name": "可樂",
-        "report": Object {
+        "report": {
           "code": "TKnfYxaqv1PBwtgZ",
           "fightID": 13,
           "startTime": 1599222931953,
         },
-        "server": Object {
+        "server": {
           "id": 544,
           "name": "寒冰皇冠",
           "region": "TW",
@@ -157,24 +157,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1599224305217,
       },
-      Object {
+      {
         "amount": 190888,
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 179418,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 489365,
           "name": "Limited Editíon",
         },
         "hardModeLevel": 0,
         "name": "Samori",
-        "report": Object {
+        "report": {
           "code": "aTMv1PAfWCpBt7bJ",
           "fightID": 9,
           "startTime": 1599157038269,
         },
-        "server": Object {
+        "server": {
           "id": 321,
           "name": "Ravencrest",
           "region": "EU",
@@ -182,19 +182,19 @@ Object {
         "spec": "Vengeance",
         "startTime": 1599162698412,
       },
-      Object {
+      {
         "amount": 189535,
         "bracketData": 476,
         "class": "DemonHunter",
         "duration": 206987,
         "hardModeLevel": 0,
         "name": "녹차가루솔솔",
-        "report": Object {
+        "report": {
           "code": "JyaW94wxcgXAP78z",
           "fightID": 18,
           "startTime": 1601895815194,
         },
-        "server": Object {
+        "server": {
           "id": 526,
           "name": "아즈샤라",
           "region": "KR",
@@ -202,24 +202,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1601898277736,
       },
-      Object {
+      {
         "amount": 188966,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 143412,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 11574,
           "name": "Omnicide",
         },
         "hardModeLevel": 0,
         "name": "Aíza",
-        "report": Object {
+        "report": {
           "code": "8fh1txBL2GjAkFRQ",
           "fightID": 19,
           "startTime": 1597860230408,
         },
-        "server": Object {
+        "server": {
           "id": 350,
           "name": "Twisting Nether",
           "region": "EU",
@@ -227,24 +227,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1597862877044,
       },
-      Object {
+      {
         "amount": 187141,
         "bracketData": 476,
         "class": "DemonHunter",
         "duration": 180814,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 374543,
           "name": "Seven Deadly Sins",
         },
         "hardModeLevel": 0,
         "name": "Vaeb",
-        "report": Object {
+        "report": {
           "code": "nr9xALVT3ayZH4Bd",
           "fightID": 16,
           "startTime": 1600392297262,
         },
-        "server": Object {
+        "server": {
           "id": 206,
           "name": "Stormrage",
           "region": "US",
@@ -252,24 +252,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1600395093970,
       },
-      Object {
+      {
         "amount": 186544,
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 182212,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 50905,
           "name": "No Consensus",
         },
         "hardModeLevel": 0,
         "name": "Pretelethal",
-        "report": Object {
+        "report": {
           "code": "khBgHmnCxKc2JQvy",
           "fightID": 20,
           "startTime": 1592502617400,
         },
-        "server": Object {
+        "server": {
           "id": 340,
           "name": "Tarren Mill",
           "region": "EU",
@@ -277,19 +277,19 @@ Object {
         "spec": "Vengeance",
         "startTime": 1592506814815,
       },
-      Object {
+      {
         "amount": 184226,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 204024,
         "hardModeLevel": 0,
         "name": "Demonheer",
-        "report": Object {
+        "report": {
           "code": "7FWrYZmHR1h3PvAN",
           "fightID": 18,
           "startTime": 1597966120451,
         },
-        "server": Object {
+        "server": {
           "id": 509,
           "name": "Sanguino",
           "region": "EU",
@@ -297,24 +297,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1597968271383,
       },
-      Object {
+      {
         "amount": 183775,
         "bracketData": 480,
         "class": "DemonHunter",
         "duration": 155199,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 117213,
           "name": "Liege",
         },
         "hardModeLevel": 0,
         "name": "Mackav",
-        "report": Object {
+        "report": {
           "code": "AK31dJQGMwnTcPyr",
           "fightID": 21,
           "startTime": 1598665735532,
         },
-        "server": Object {
+        "server": {
           "id": 18,
           "name": "Area 52",
           "region": "US",
@@ -322,19 +322,19 @@ Object {
         "spec": "Vengeance",
         "startTime": 1598668849365,
       },
-      Object {
+      {
         "amount": 183286,
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 145743,
         "hardModeLevel": 0,
         "name": "Yuuyake",
-        "report": Object {
+        "report": {
           "code": "tR9LB2ANgaXyFHhb",
           "fightID": 26,
           "startTime": 1594169964649,
         },
-        "server": Object {
+        "server": {
           "id": 207,
           "name": "Stormreaver",
           "region": "US",
@@ -342,24 +342,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1594178096619,
       },
-      Object {
+      {
         "amount": 183159,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 212267,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 474691,
           "name": "Sultans",
         },
         "hardModeLevel": 0,
         "name": "Asyc",
-        "report": Object {
+        "report": {
           "code": "MWKAxz9HLvJk4w1V",
           "fightID": 5,
           "startTime": 1601578546791,
         },
-        "server": Object {
+        "server": {
           "id": 509,
           "name": "Sanguino",
           "region": "EU",
@@ -367,24 +367,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1601588364732,
       },
-      Object {
+      {
         "amount": 182336,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 147236,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 121066,
           "name": "Unity",
         },
         "hardModeLevel": 0,
         "name": "Ichigatsu",
-        "report": Object {
+        "report": {
           "code": "kGmgNzDjLCwRhpnZ",
           "fightID": 36,
           "startTime": 1596588818645,
         },
-        "server": Object {
+        "server": {
           "id": 176,
           "name": "Ragnaros",
           "region": "US",
@@ -392,24 +392,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1596596582249,
       },
-      Object {
+      {
         "amount": 182270,
         "bracketData": 482,
         "class": "DemonHunter",
         "duration": 137881,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 19537,
           "name": "Spike Flail",
         },
         "hardModeLevel": 0,
         "name": "Tyroned",
-        "report": Object {
+        "report": {
           "code": "DdGRj8hJZ17WHPxg",
           "fightID": 23,
           "startTime": 1599090739861,
         },
-        "server": Object {
+        "server": {
           "id": 150,
           "name": "Mal'Ganis",
           "region": "US",
@@ -417,24 +417,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1599095936171,
       },
-      Object {
+      {
         "amount": 182063,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 143168,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 456161,
           "name": "Midwinter",
         },
         "hardModeLevel": 0,
         "name": "Piratemansam",
-        "report": Object {
+        "report": {
           "code": "dygKZnYXF2z8w3Lk",
           "fightID": 17,
           "startTime": 1594342253527,
         },
-        "server": Object {
+        "server": {
           "id": 18,
           "name": "Area 52",
           "region": "US",
@@ -442,24 +442,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1594344736816,
       },
-      Object {
+      {
         "amount": 181633,
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 188288,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 136876,
           "name": "Late Shift",
         },
         "hardModeLevel": 0,
         "name": "Bloodheavy",
-        "report": Object {
+        "report": {
           "code": "VRNP1bmyDKkhdWY9",
           "fightID": 1,
           "startTime": 1596433893771,
         },
-        "server": Object {
+        "server": {
           "id": 123,
           "name": "Illidan",
           "region": "US",
@@ -467,24 +467,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1596434086070,
       },
-      Object {
+      {
         "amount": 179580,
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 116016,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 395,
           "name": "Vindicatum",
         },
         "hardModeLevel": 0,
         "name": "Braille",
-        "report": Object {
+        "report": {
           "code": "gCfYhB8m2kap3cFn",
           "fightID": 44,
           "startTime": 1593993325338,
         },
-        "server": Object {
+        "server": {
           "id": 122,
           "name": "Icecrown",
           "region": "US",
@@ -492,24 +492,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1594003131806,
       },
-      Object {
+      {
         "amount": 179062,
         "bracketData": 476,
         "class": "DemonHunter",
         "duration": 175465,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 556191,
           "name": "V O I D",
         },
         "hardModeLevel": 0,
         "name": "Saddhmain",
-        "report": Object {
+        "report": {
           "code": "yxYj1bLg8hBF9R6t",
           "fightID": 13,
           "startTime": 1598404493565,
         },
-        "server": Object {
+        "server": {
           "id": 150,
           "name": "Mal'Ganis",
           "region": "US",
@@ -517,24 +517,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1598406771802,
       },
-      Object {
+      {
         "amount": 178305,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 256044,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 96729,
           "name": "중화요리",
         },
         "hardModeLevel": 0,
         "name": "셋져",
-        "report": Object {
+        "report": {
           "code": "VMWcyxXAK9CF2t4G",
           "fightID": 20,
           "startTime": 1597659795953,
         },
-        "server": Object {
+        "server": {
           "id": 526,
           "name": "아즈샤라",
           "region": "KR",
@@ -542,24 +542,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1597661867077,
       },
-      Object {
+      {
         "amount": 175851,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 169748,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 451483,
           "name": "Valkyrie",
         },
         "hardModeLevel": 0,
         "name": "Massochist",
-        "report": Object {
+        "report": {
           "code": "ghtzW6yfYVc2L3CD",
           "fightID": 13,
           "startTime": 1596326643276,
         },
-        "server": Object {
+        "server": {
           "id": 28,
           "name": "Baelgun",
           "region": "US",
@@ -567,24 +567,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1596328909863,
       },
-      Object {
+      {
         "amount": 174353,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 291532,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 448969,
           "name": "Modus Operandi",
         },
         "hardModeLevel": 0,
         "name": "Aardonyx",
-        "report": Object {
+        "report": {
           "code": "96KkFRn2LGcy3Zp1",
           "fightID": 23,
           "startTime": 1595385220131,
         },
-        "server": Object {
+        "server": {
           "id": 121,
           "name": "Hyjal",
           "region": "US",
@@ -592,24 +592,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1595389507018,
       },
-      Object {
+      {
         "amount": 173417,
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 186447,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 556314,
           "name": "Pyrium",
         },
         "hardModeLevel": 0,
         "name": "Honkdh",
-        "report": Object {
+        "report": {
           "code": "qVD9c7CJ3pr6MKRx",
           "fightID": 23,
           "startTime": 1598466336468,
         },
-        "server": Object {
+        "server": {
           "id": 340,
           "name": "Tarren Mill",
           "region": "EU",
@@ -617,24 +617,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1598470801216,
       },
-      Object {
+      {
         "amount": 171868,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 170011,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 435761,
           "name": "Tramontinas Club",
         },
         "hardModeLevel": 0,
         "name": "Ravenborn",
-        "report": Object {
+        "report": {
           "code": "zcHCjpXD8TB1ygtr",
           "fightID": 8,
           "startTime": 1600217407722,
         },
-        "server": Object {
+        "server": {
           "id": 25,
           "name": "Azralon",
           "region": "US",
@@ -642,24 +642,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1600223158626,
       },
-      Object {
+      {
         "amount": 171572,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 156804,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 535734,
           "name": "Decode",
         },
         "hardModeLevel": 0,
         "name": "Evodh",
-        "report": Object {
+        "report": {
           "code": "dYJfKzwZ3PLnR94W",
           "fightID": 20,
           "startTime": 1600620791875,
         },
-        "server": Object {
+        "server": {
           "id": 340,
           "name": "Tarren Mill",
           "region": "EU",
@@ -667,24 +667,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1600623460212,
       },
-      Object {
+      {
         "amount": 171180,
         "bracketData": 476,
         "class": "DemonHunter",
         "duration": 183228,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 463880,
           "name": "Autonomous Collective",
         },
         "hardModeLevel": 0,
         "name": "Kyokuen",
-        "report": Object {
+        "report": {
           "code": "rGdkKQhM92W6ZzLb",
           "fightID": 26,
           "startTime": 1597253673124,
         },
-        "server": Object {
+        "server": {
           "id": 321,
           "name": "Ravencrest",
           "region": "EU",
@@ -692,24 +692,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1597260830840,
       },
-      Object {
+      {
         "amount": 170423,
         "bracketData": 480,
         "class": "DemonHunter",
         "duration": 186562,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 336897,
           "name": "The Frozen Toiletpaper",
         },
         "hardModeLevel": 0,
         "name": "Dåseåbneren",
-        "report": Object {
+        "report": {
           "code": "Cf1PwZra2DXzMbL9",
           "fightID": 31,
           "startTime": 1594833679462,
         },
-        "server": Object {
+        "server": {
           "id": 350,
           "name": "Twisting Nether",
           "region": "EU",
@@ -717,24 +717,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1594929043572,
       },
-      Object {
+      {
         "amount": 169928,
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 129424,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 2353,
           "name": "Tiger Rebels",
         },
         "hardModeLevel": 0,
         "name": "Daemaya",
-        "report": Object {
+        "report": {
           "code": "PMvjbLF6QXwByYkV",
           "fightID": 4,
           "startTime": 1599933640841,
         },
-        "server": Object {
+        "server": {
           "id": 399,
           "name": "Antonidas",
           "region": "EU",
@@ -742,24 +742,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1599935997039,
       },
-      Object {
+      {
         "amount": 169080,
         "bracketData": 480,
         "class": "DemonHunter",
         "duration": 180412,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 501597,
           "name": "Bangerz",
         },
         "hardModeLevel": 0,
         "name": "Swollrob",
-        "report": Object {
+        "report": {
           "code": "GfQMDxv7pzJa2gNV",
           "fightID": 30,
           "startTime": 1599012317149,
         },
-        "server": Object {
+        "server": {
           "id": 123,
           "name": "Illidan",
           "region": "US",
@@ -767,24 +767,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1599021773895,
       },
-      Object {
+      {
         "amount": 168683,
         "bracketData": 476,
         "class": "DemonHunter",
         "duration": 245656,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 41770,
           "name": "Insomnis Equitatus",
         },
         "hardModeLevel": 0,
         "name": "Furor",
-        "report": Object {
+        "report": {
           "code": "XGTajfx3LpHFVWRb",
           "fightID": 40,
           "startTime": 1592416698066,
         },
-        "server": Object {
+        "server": {
           "id": 440,
           "name": "Krag'jin",
           "region": "EU",
@@ -792,24 +792,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1592425888912,
       },
-      Object {
+      {
         "amount": 168411,
         "bracketData": 480,
         "class": "DemonHunter",
         "duration": 175457,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 1034,
           "name": "Ad Elysium",
         },
         "hardModeLevel": 0,
         "name": "Salsaqt",
-        "report": Object {
+        "report": {
           "code": "h2KMaAZqH67kBDLQ",
           "fightID": 17,
           "startTime": 1593019377281,
         },
-        "server": Object {
+        "server": {
           "id": 283,
           "name": "Draenor",
           "region": "EU",
@@ -817,7 +817,7 @@ Object {
         "spec": "Vengeance",
         "startTime": 1593022276119,
       },
-      Object {
+      {
         "amount": 168366,
         "bracketData": 476,
         "class": "DemonHunter",
@@ -825,7 +825,7 @@ Object {
         "hardModeLevel": 0,
         "hidden": true,
         "name": "Anonymous",
-        "report": Object {
+        "report": {
           "code": "a:RY27B9jLNXGHVdJh",
           "fightID": 17,
           "startTime": 1593629952215,
@@ -833,19 +833,19 @@ Object {
         "spec": "Vengeance",
         "startTime": 1593632371595,
       },
-      Object {
+      {
         "amount": 168276,
         "bracketData": 476,
         "class": "DemonHunter",
         "duration": 196365,
         "hardModeLevel": 0,
         "name": "Varinija",
-        "report": Object {
+        "report": {
           "code": "k8zpx2BZ9Nvbram6",
           "fightID": 28,
           "startTime": 1601487775731,
         },
-        "server": Object {
+        "server": {
           "id": 431,
           "name": "Frostwolf",
           "region": "EU",
@@ -853,24 +853,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1601493409812,
       },
-      Object {
+      {
         "amount": 167644,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 185308,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 552414,
           "name": "After",
         },
         "hardModeLevel": 0,
         "name": "Barybadrnath",
-        "report": Object {
+        "report": {
           "code": "pAyL3ndrHcTm417K",
           "fightID": 50,
           "startTime": 1597817183817,
         },
-        "server": Object {
+        "server": {
           "id": 222,
           "name": "Tichondrius",
           "region": "US",
@@ -878,24 +878,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1597828314480,
       },
-      Object {
+      {
         "amount": 167635,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 201638,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 375885,
           "name": "仙缘奇遇",
         },
         "hardModeLevel": 0,
         "name": "提刀书生",
-        "report": Object {
+        "report": {
           "code": "BzhRZ2PkyT41MDJf",
           "fightID": 32,
           "startTime": 1593086382693,
         },
-        "server": Object {
+        "server": {
           "id": 770,
           "name": "白银之手",
           "region": "CN",
@@ -903,24 +903,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1593092893553,
       },
-      Object {
+      {
         "amount": 167064,
         "bracketData": 480,
         "class": "DemonHunter",
         "duration": 149537,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 1147,
           "name": "CATASTROPHE",
         },
         "hardModeLevel": 0,
         "name": "Plausesdh",
-        "report": Object {
+        "report": {
           "code": "kjQm13V6hwqaDzBr",
           "fightID": 44,
           "startTime": 1596645287359,
         },
-        "server": Object {
+        "server": {
           "id": 350,
           "name": "Twisting Nether",
           "region": "EU",
@@ -928,24 +928,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1596655233780,
       },
-      Object {
+      {
         "amount": 166511,
         "bracketData": 482,
         "class": "DemonHunter",
         "duration": 130069,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 10210,
           "name": "Colour",
         },
         "hardModeLevel": 0,
         "name": "Naztheridan",
-        "report": Object {
+        "report": {
           "code": "MPJpnbK1f4kaLrvm",
           "fightID": 22,
           "startTime": 1597340775177,
         },
-        "server": Object {
+        "server": {
           "id": 335,
           "name": "Stormreaver",
           "region": "EU",
@@ -953,24 +953,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1597344600615,
       },
-      Object {
+      {
         "amount": 165364,
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 103211,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 448946,
           "name": "Consequence",
         },
         "hardModeLevel": 0,
         "name": "Ickydari",
-        "report": Object {
+        "report": {
           "code": "2mWp4Ccfwv8NAGXV",
           "fightID": 38,
           "startTime": 1596589234979,
         },
-        "server": Object {
+        "server": {
           "id": 206,
           "name": "Stormrage",
           "region": "US",
@@ -978,24 +978,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1596596402670,
       },
-      Object {
+      {
         "amount": 165251,
         "bracketData": 482,
         "class": "DemonHunter",
         "duration": 126958,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 100393,
           "name": "xD",
         },
         "hardModeLevel": 0,
         "name": "Valsparadh",
-        "report": Object {
+        "report": {
           "code": "DKjrntp926J78kZN",
           "fightID": 30,
           "startTime": 1597193896124,
         },
-        "server": Object {
+        "server": {
           "id": 18,
           "name": "Area 52",
           "region": "US",
@@ -1003,24 +1003,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1597197741313,
       },
-      Object {
+      {
         "amount": 164748,
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 175932,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 436914,
           "name": "Casual Elitists",
         },
         "hardModeLevel": 0,
         "name": "Metaproc",
-        "report": Object {
+        "report": {
           "code": "qk8HrKndZx6hXmzc",
           "fightID": 2,
           "startTime": 1598576370124,
         },
-        "server": Object {
+        "server": {
           "id": 123,
           "name": "Illidan",
           "region": "US",
@@ -1028,7 +1028,7 @@ Object {
         "spec": "Vengeance",
         "startTime": 1598576829260,
       },
-      Object {
+      {
         "amount": 164669,
         "bracketData": 478,
         "class": "DemonHunter",
@@ -1036,7 +1036,7 @@ Object {
         "hardModeLevel": 0,
         "hidden": true,
         "name": "Anonymous",
-        "report": Object {
+        "report": {
           "code": "a:Jj1x7HLTz3W4DvaZ",
           "fightID": 11,
           "startTime": 1594227853404,
@@ -1044,24 +1044,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1594229195112,
       },
-      Object {
+      {
         "amount": 164418,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 162496,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 84352,
           "name": "집중해서 원트가요",
         },
         "hardModeLevel": 0,
         "name": "Dingbba",
-        "report": Object {
+        "report": {
           "code": "B7Np34wHbtk9zYTm",
           "fightID": 25,
           "startTime": 1595156487036,
         },
-        "server": Object {
+        "server": {
           "id": 526,
           "name": "아즈샤라",
           "region": "KR",
@@ -1069,24 +1069,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1595159831124,
       },
-      Object {
+      {
         "amount": 164142,
         "bracketData": 480,
         "class": "DemonHunter",
         "duration": 180628,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 59733,
           "name": "Superbia",
         },
         "hardModeLevel": 0,
         "name": "Cainini",
-        "report": Object {
+        "report": {
           "code": "QFNypRXY3gDKxAPb",
           "fightID": 33,
           "startTime": 1590599525448,
         },
-        "server": Object {
+        "server": {
           "id": 304,
           "name": "Kazzak",
           "region": "EU",
@@ -1094,24 +1094,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1590607724570,
       },
-      Object {
+      {
         "amount": 163639,
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 164082,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 126,
           "name": "Get Well Soon",
         },
         "hardModeLevel": 0,
         "name": "Muskari",
-        "report": Object {
+        "report": {
           "code": "vdr1q8C6AcyXmhKM",
           "fightID": 10,
           "startTime": 1594169789268,
         },
-        "server": Object {
+        "server": {
           "id": 182,
           "name": "Sargeras",
           "region": "US",
@@ -1119,24 +1119,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1594171293452,
       },
-      Object {
+      {
         "amount": 162906,
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 193774,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 16639,
           "name": "Parallel",
         },
         "hardModeLevel": 0,
         "name": "Théva",
-        "report": Object {
+        "report": {
           "code": "c1VXY3b2PQkTqxWK",
           "fightID": 1,
           "startTime": 1593887853354,
         },
-        "server": Object {
+        "server": {
           "id": 329,
           "name": "Silvermoon",
           "region": "EU",
@@ -1144,24 +1144,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1593888013472,
       },
-      Object {
+      {
         "amount": 162827,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 165890,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 22759,
           "name": "Continuum",
         },
         "hardModeLevel": 0,
         "name": "Koshmor",
-        "report": Object {
+        "report": {
           "code": "Gz3g6qKdnCBDmL21",
           "fightID": 28,
           "startTime": 1596076672779,
         },
-        "server": Object {
+        "server": {
           "id": 206,
           "name": "Stormrage",
           "region": "US",
@@ -1169,24 +1169,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1596080883041,
       },
-      Object {
+      {
         "amount": 162605,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 153724,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 39130,
           "name": "Foundation",
         },
         "hardModeLevel": 0,
         "name": "Grillixar",
-        "report": Object {
+        "report": {
           "code": "kRdVAWymQnjHJ24C",
           "fightID": 8,
           "startTime": 1594844832437,
         },
-        "server": Object {
+        "server": {
           "id": 283,
           "name": "Draenor",
           "region": "EU",
@@ -1194,24 +1194,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1594849058414,
       },
-      Object {
+      {
         "amount": 162021,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 133708,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 251,
           "name": "Avalerion",
         },
         "hardModeLevel": 0,
         "name": "Valrenia",
-        "report": Object {
+        "report": {
           "code": "p8PbtWDZ3wdaMHTF",
           "fightID": 25,
           "startTime": 1596046851812,
         },
-        "server": Object {
+        "server": {
           "id": 334,
           "name": "Stormrage",
           "region": "EU",
@@ -1219,24 +1219,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1596051677619,
       },
-      Object {
+      {
         "amount": 161982,
         "bracketData": 480,
         "class": "DemonHunter",
         "duration": 199594,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 365352,
           "name": "자제요",
         },
         "hardModeLevel": 0,
         "name": "악두목",
-        "report": Object {
+        "report": {
           "code": "6dwBZm3GRQkL8YgP",
           "fightID": 35,
           "startTime": 1598352785189,
         },
-        "server": Object {
+        "server": {
           "id": 526,
           "name": "아즈샤라",
           "region": "KR",
@@ -1244,24 +1244,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1598357502990,
       },
-      Object {
+      {
         "amount": 161955,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 210080,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 255851,
           "name": "Ginyu Force",
         },
         "hardModeLevel": 0,
         "name": "Goatspin",
-        "report": Object {
+        "report": {
           "code": "KBC1zthm2y6g3Zfd",
           "fightID": 3,
           "startTime": 1595479352612,
         },
-        "server": Object {
+        "server": {
           "id": 133,
           "name": "Kil'jaeden",
           "region": "US",
@@ -1269,24 +1269,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1595479755100,
       },
-      Object {
+      {
         "amount": 161537,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 215387,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 2856,
           "name": "SynergyMEOW",
         },
         "hardModeLevel": 0,
         "name": "Minome",
-        "report": Object {
+        "report": {
           "code": "MTK7pAzqxjZ8rWya",
           "fightID": 25,
           "startTime": 1594859825889,
         },
-        "server": Object {
+        "server": {
           "id": 214,
           "name": "The Forgotten Coast",
           "region": "US",
@@ -1294,24 +1294,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1594867172079,
       },
-      Object {
+      {
         "amount": 161417,
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 192947,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 455608,
           "name": "Crimson",
         },
         "hardModeLevel": 0,
         "name": "Androdaddy",
-        "report": Object {
+        "report": {
           "code": "z9fMxWnTZDwd4arg",
           "fightID": 26,
           "startTime": 1597569263309,
         },
-        "server": Object {
+        "server": {
           "id": 99,
           "name": "Frostmourne",
           "region": "US",
@@ -1319,24 +1319,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1597574272778,
       },
-      Object {
+      {
         "amount": 160385,
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 176920,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 452555,
           "name": "Faded",
         },
         "hardModeLevel": 0,
         "name": "Dvvo",
-        "report": Object {
+        "report": {
           "code": "9NMzVpWFt2hYGHJk",
           "fightID": 15,
           "startTime": 1600715950247,
         },
-        "server": Object {
+        "server": {
           "id": 392,
           "name": "Ysondre",
           "region": "EU",
@@ -1344,24 +1344,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1600889388163,
       },
-      Object {
+      {
         "amount": 159888,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 161707,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 95343,
           "name": "vDo",
         },
         "hardModeLevel": 0,
         "name": "Ararara",
-        "report": Object {
+        "report": {
           "code": "N3P2jnvgrV6Hc7zF",
           "fightID": 21,
           "startTime": 1597597864683,
         },
-        "server": Object {
+        "server": {
           "id": 469,
           "name": "Thrall",
           "region": "EU",
@@ -1369,24 +1369,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1597599796787,
       },
-      Object {
+      {
         "amount": 159612,
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 180796,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 18391,
           "name": "League of Friends",
         },
         "hardModeLevel": 0,
         "name": "Demonbum",
-        "report": Object {
+        "report": {
           "code": "xp3zDYVZc1Pj7AB8",
           "fightID": 27,
           "startTime": 1599610474422,
         },
-        "server": Object {
+        "server": {
           "id": 182,
           "name": "Sargeras",
           "region": "US",
@@ -1394,24 +1394,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1599617366622,
       },
-      Object {
+      {
         "amount": 159296,
         "bracketData": 475,
         "class": "DemonHunter",
         "duration": 187986,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 408918,
           "name": "Wipeforged",
         },
         "hardModeLevel": 0,
         "name": "Lightdh",
-        "report": Object {
+        "report": {
           "code": "tXWmCYkFZrgp2b8G",
           "fightID": 8,
           "startTime": 1595294792933,
         },
-        "server": Object {
+        "server": {
           "id": 176,
           "name": "Ragnaros",
           "region": "US",
@@ -1419,19 +1419,19 @@ Object {
         "spec": "Vengeance",
         "startTime": 1595297259423,
       },
-      Object {
+      {
         "amount": 157681,
         "bracketData": 483,
         "class": "DemonHunter",
         "duration": 182488,
         "hardModeLevel": 0,
         "name": "Olen",
-        "report": Object {
+        "report": {
           "code": "WbmqPNYCBV8zaw63",
           "fightID": 10,
           "startTime": 1597927672529,
         },
-        "server": Object {
+        "server": {
           "id": 670,
           "name": "希尔瓦娜斯",
           "region": "CN",
@@ -1439,24 +1439,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1598011970802,
       },
-      Object {
+      {
         "amount": 156809,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 160424,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 380448,
           "name": "Oops",
         },
         "hardModeLevel": 0,
         "name": "Achìllés",
-        "report": Object {
+        "report": {
           "code": "mKZx26XCQB1rPGjv",
           "fightID": 11,
           "startTime": 1598462545417,
         },
-        "server": Object {
+        "server": {
           "id": 408,
           "name": "Blackrock",
           "region": "EU",
@@ -1464,24 +1464,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1598463734239,
       },
-      Object {
+      {
         "amount": 156557,
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 177538,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 483186,
           "name": "You Hate to See It",
         },
         "hardModeLevel": 0,
         "name": "Chillebeam",
-        "report": Object {
+        "report": {
           "code": "KcTLaWCzngd1wXAF",
           "fightID": 8,
           "startTime": 1593140051229,
         },
-        "server": Object {
+        "server": {
           "id": 123,
           "name": "Illidan",
           "region": "US",
@@ -1489,24 +1489,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1593142824667,
       },
-      Object {
+      {
         "amount": 156443,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 170001,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 338398,
           "name": "Tactics",
         },
         "hardModeLevel": 0,
         "name": "Blindasun",
-        "report": Object {
+        "report": {
           "code": "f2TBzr7JChVAMcFR",
           "fightID": 9,
           "startTime": 1594258462363,
         },
-        "server": Object {
+        "server": {
           "id": 18,
           "name": "Area 52",
           "region": "US",
@@ -1514,24 +1514,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1594266312009,
       },
-      Object {
+      {
         "amount": 156370,
         "bracketData": 476,
         "class": "DemonHunter",
         "duration": 212670,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 512504,
           "name": "Shadowmeld",
         },
         "hardModeLevel": 0,
         "name": "Druffe",
-        "report": Object {
+        "report": {
           "code": "JNxHYCAVRtaGgKyv",
           "fightID": 5,
           "startTime": 1598465973861,
         },
-        "server": Object {
+        "server": {
           "id": 338,
           "name": "Sylvanas",
           "region": "EU",
@@ -1539,24 +1539,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1598468095938,
       },
-      Object {
+      {
         "amount": 156174,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 153226,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 412635,
           "name": "Dead Light District",
         },
         "hardModeLevel": 0,
         "name": "Needeyedrops",
-        "report": Object {
+        "report": {
           "code": "k7Nw26MvHdcxgWfj",
           "fightID": 32,
           "startTime": 1594777188822,
         },
-        "server": Object {
+        "server": {
           "id": 222,
           "name": "Tichondrius",
           "region": "US",
@@ -1564,19 +1564,19 @@ Object {
         "spec": "Vengeance",
         "startTime": 1594787376152,
       },
-      Object {
+      {
         "amount": 155956,
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 191840,
         "hardModeLevel": 0,
         "name": "Joelovessm",
-        "report": Object {
+        "report": {
           "code": "gGmTbPWzr82dJjxR",
           "fightID": 35,
           "startTime": 1592480749691,
         },
-        "server": Object {
+        "server": {
           "id": 750,
           "name": "燃烧之刃",
           "region": "CN",
@@ -1584,24 +1584,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1592489058167,
       },
-      Object {
+      {
         "amount": 155317,
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 142943,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 353327,
           "name": "Familiar with Drama",
         },
         "hardModeLevel": 0,
         "name": "Demonnish",
-        "report": Object {
+        "report": {
           "code": "2ajxCLtKYnvJ7wPq",
           "fightID": 4,
           "startTime": 1592416157301,
         },
-        "server": Object {
+        "server": {
           "id": 350,
           "name": "Twisting Nether",
           "region": "EU",
@@ -1609,24 +1609,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1592416558761,
       },
-      Object {
+      {
         "amount": 154970,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 224796,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 481381,
           "name": "La Familia",
         },
         "hardModeLevel": 0,
         "name": "Glaivediggar",
-        "report": Object {
+        "report": {
           "code": "AaYCwqzMZm8kjnTF",
           "fightID": 7,
           "startTime": 1593943877906,
         },
-        "server": Object {
+        "server": {
           "id": 30,
           "name": "Barthilas",
           "region": "US",
@@ -1634,24 +1634,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1593947493712,
       },
-      Object {
+      {
         "amount": 154245,
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 141241,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 219833,
           "name": "Mesmerize",
         },
         "hardModeLevel": 0,
         "name": "Treptei",
-        "report": Object {
+        "report": {
           "code": "K9wd8ZzMGj6LHfWJ",
           "fightID": 3,
           "startTime": 1595978726195,
         },
-        "server": Object {
+        "server": {
           "id": 18,
           "name": "Area 52",
           "region": "US",
@@ -1659,24 +1659,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1595980850946,
       },
-      Object {
+      {
         "amount": 154184,
         "bracketData": 476,
         "class": "DemonHunter",
         "duration": 269901,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 10069,
           "name": "Innervision",
         },
         "hardModeLevel": 0,
         "name": "Blindavocado",
-        "report": Object {
+        "report": {
           "code": "HKDWwpTf2bFRMyCz",
           "fightID": 16,
           "startTime": 1600623696530,
         },
-        "server": Object {
+        "server": {
           "id": 407,
           "name": "Blackmoore",
           "region": "EU",
@@ -1684,24 +1684,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1600626223606,
       },
-      Object {
+      {
         "amount": 154145,
         "bracketData": 476,
         "class": "DemonHunter",
         "duration": 209418,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 114149,
           "name": "그래 우리 발꼬락으루 컨한다",
         },
         "hardModeLevel": 0,
         "name": "애니멀린",
-        "report": Object {
+        "report": {
           "code": "QVGRMXLmpK1dFH39",
           "fightID": 23,
           "startTime": 1591958483461,
         },
-        "server": Object {
+        "server": {
           "id": 531,
           "name": "윈드러너",
           "region": "KR",
@@ -1709,19 +1709,19 @@ Object {
         "spec": "Vengeance",
         "startTime": 1591961745633,
       },
-      Object {
+      {
         "amount": 153819,
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 206006,
         "hardModeLevel": 0,
         "name": "Deralanmao",
-        "report": Object {
+        "report": {
           "code": "n7VGq196d4ZMaRDj",
           "fightID": 12,
           "startTime": 1591273301868,
         },
-        "server": Object {
+        "server": {
           "id": 713,
           "name": "格瑞姆巴托",
           "region": "CN",
@@ -1729,19 +1729,19 @@ Object {
         "spec": "Vengeance",
         "startTime": 1591275130526,
       },
-      Object {
+      {
         "amount": 153297,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 252643,
         "hardModeLevel": 0,
         "name": "슈킹악",
-        "report": Object {
+        "report": {
           "code": "wRtxpBrv3kYVFjX1",
           "fightID": 19,
           "startTime": 1594985959073,
         },
-        "server": Object {
+        "server": {
           "id": 535,
           "name": "하이잘",
           "region": "KR",
@@ -1749,24 +1749,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1594988586752,
       },
-      Object {
+      {
         "amount": 153088,
         "bracketData": 480,
         "class": "DemonHunter",
         "duration": 191537,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 263408,
           "name": "Apes Together Strong",
         },
         "hardModeLevel": 0,
         "name": "Captharambe",
-        "report": Object {
+        "report": {
           "code": "g9MWPTpq2yxfd6Fb",
           "fightID": 2,
           "startTime": 1591329682608,
         },
-        "server": Object {
+        "server": {
           "id": 222,
           "name": "Tichondrius",
           "region": "US",
@@ -1774,19 +1774,19 @@ Object {
         "spec": "Vengeance",
         "startTime": 1591330411770,
       },
-      Object {
+      {
         "amount": 152849,
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 203696,
         "hardModeLevel": 0,
         "name": "Elliemvp",
-        "report": Object {
+        "report": {
           "code": "3xRyfrYvKP47ZjAG",
           "fightID": 13,
           "startTime": 1592482783107,
         },
-        "server": Object {
+        "server": {
           "id": 859,
           "name": "阿克蒙德",
           "region": "CN",
@@ -1794,24 +1794,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1592484146452,
       },
-      Object {
+      {
         "amount": 152625,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 195077,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 486568,
           "name": "LEGOS",
         },
         "hardModeLevel": 0,
         "name": "Käisa",
-        "report": Object {
+        "report": {
           "code": "PHdNZjJD3tA4fQcY",
           "fightID": 10,
           "startTime": 1592356218965,
         },
-        "server": Object {
+        "server": {
           "id": 176,
           "name": "Ragnaros",
           "region": "US",
@@ -1819,24 +1819,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1592361952465,
       },
-      Object {
+      {
         "amount": 152509,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 193220,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 152263,
           "name": "Pixel Enthusiasts",
         },
         "hardModeLevel": 0,
         "name": "Nietzchette",
-        "report": Object {
+        "report": {
           "code": "vb2Xa7frG6mwHzLP",
           "fightID": 15,
           "startTime": 1595377411929,
         },
-        "server": Object {
+        "server": {
           "id": 57,
           "name": "Dalaran",
           "region": "US",
@@ -1844,24 +1844,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1595379563774,
       },
-      Object {
+      {
         "amount": 152478,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 138746,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 17772,
           "name": "BDG",
         },
         "hardModeLevel": 0,
         "name": "Dbzydh",
-        "report": Object {
+        "report": {
           "code": "zZxRpcmhanY6Tb8v",
           "fightID": 6,
           "startTime": 1599102617340,
         },
-        "server": Object {
+        "server": {
           "id": 123,
           "name": "Illidan",
           "region": "US",
@@ -1869,24 +1869,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1599103692953,
       },
-      Object {
+      {
         "amount": 152307,
         "bracketData": 475,
         "class": "DemonHunter",
         "duration": 196168,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 4371,
           "name": "Aspects",
         },
         "hardModeLevel": 0,
         "name": "Dhrix",
-        "report": Object {
+        "report": {
           "code": "JBWz2964GFZKgPyL",
           "fightID": 21,
           "startTime": 1598468706186,
         },
-        "server": Object {
+        "server": {
           "id": 368,
           "name": "Elune",
           "region": "EU",
@@ -1894,24 +1894,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1598471802940,
       },
-      Object {
+      {
         "amount": 152077,
         "bracketData": 480,
         "class": "DemonHunter",
         "duration": 175666,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 341226,
           "name": "Fire Dawn",
         },
         "hardModeLevel": 0,
         "name": "Exträ",
-        "report": Object {
+        "report": {
           "code": "b7MCVa49mKrBAY2X",
           "fightID": 12,
           "startTime": 1592424992232,
         },
-        "server": Object {
+        "server": {
           "id": 358,
           "name": "Archimonde",
           "region": "EU",
@@ -1919,24 +1919,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1592427458677,
       },
-      Object {
+      {
         "amount": 152018,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 185921,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 428238,
           "name": "Blacklisted",
         },
         "hardModeLevel": 0,
         "name": "Dzoshua",
-        "report": Object {
+        "report": {
           "code": "pFxAzX94fktJW8jD",
           "fightID": 13,
           "startTime": 1591291810336,
         },
-        "server": Object {
+        "server": {
           "id": 286,
           "name": "Drak'thul",
           "region": "EU",
@@ -1944,24 +1944,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1591293454587,
       },
-      Object {
+      {
         "amount": 151896,
         "bracketData": 482,
         "class": "DemonHunter",
         "duration": 164006,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 517468,
           "name": "Ookers",
         },
         "hardModeLevel": 0,
         "name": "Silvikk",
-        "report": Object {
+        "report": {
           "code": "ZGxrMzwt8FbmHqQX",
           "fightID": 34,
           "startTime": 1599008819375,
         },
-        "server": Object {
+        "server": {
           "id": 123,
           "name": "Illidan",
           "region": "US",
@@ -1969,24 +1969,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1599017800137,
       },
-      Object {
+      {
         "amount": 151614,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 168626,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 322593,
           "name": "Melee Mechanics",
         },
         "hardModeLevel": 0,
         "name": "Solardh",
-        "report": Object {
+        "report": {
           "code": "CqXatLZ3wx8MVy29",
           "fightID": 15,
           "startTime": 1595724618192,
         },
-        "server": Object {
+        "server": {
           "id": 123,
           "name": "Illidan",
           "region": "US",
@@ -1994,24 +1994,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1595727418209,
       },
-      Object {
+      {
         "amount": 151464,
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 200608,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 538846,
           "name": "Mounstritos",
         },
         "hardModeLevel": 0,
         "name": "Pleaides",
-        "report": Object {
+        "report": {
           "code": "7tFTnzg6Ja2B38wM",
           "fightID": 4,
           "startTime": 1598061480639,
         },
-        "server": Object {
+        "server": {
           "id": 176,
           "name": "Ragnaros",
           "region": "US",
@@ -2019,19 +2019,19 @@ Object {
         "spec": "Vengeance",
         "startTime": 1598064329868,
       },
-      Object {
+      {
         "amount": 151335,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 188134,
         "hardModeLevel": 0,
         "name": "Farplane",
-        "report": Object {
+        "report": {
           "code": "DwQZpY9TWBqAgNtd",
           "fightID": 23,
           "startTime": 1594958620155,
         },
-        "server": Object {
+        "server": {
           "id": 245,
           "name": "Zul'jin",
           "region": "US",
@@ -2039,24 +2039,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1595477883125,
       },
-      Object {
+      {
         "amount": 151261,
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 179173,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 290811,
           "name": "Royal Empire",
         },
         "hardModeLevel": 0,
         "name": "Lilydana",
-        "report": Object {
+        "report": {
           "code": "d64pM231mb8zWDPG",
           "fightID": 1,
           "startTime": 1599355043405,
         },
-        "server": Object {
+        "server": {
           "id": 25,
           "name": "Azralon",
           "region": "US",
@@ -2064,24 +2064,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1599355043405,
       },
-      Object {
+      {
         "amount": 151223,
         "bracketData": 475,
         "class": "DemonHunter",
         "duration": 195303,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 470131,
           "name": "Meowdy",
         },
         "hardModeLevel": 0,
         "name": "Hdh",
-        "report": Object {
+        "report": {
           "code": "DRYLrGBWh2HdyKQ1",
           "fightID": 16,
           "startTime": 1591665555215,
         },
-        "server": Object {
+        "server": {
           "id": 38,
           "name": "Bleeding Hollow",
           "region": "US",
@@ -2089,24 +2089,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1591667470822,
       },
-      Object {
+      {
         "amount": 151099,
         "bracketData": 483,
         "class": "DemonHunter",
         "duration": 202196,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 479035,
           "name": "Pull bei Eins",
         },
         "hardModeLevel": 0,
         "name": "Idrosdh",
-        "report": Object {
+        "report": {
           "code": "4VvPYbR1mt7rak3H",
           "fightID": 15,
           "startTime": 1599068564441,
         },
-        "server": Object {
+        "server": {
           "id": 469,
           "name": "Thrall",
           "region": "EU",
@@ -2114,24 +2114,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1599073870522,
       },
-      Object {
+      {
         "amount": 150773,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 184024,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 292362,
           "name": "Efficient",
         },
         "hardModeLevel": 0,
         "name": "Citríné",
-        "report": Object {
+        "report": {
           "code": "BnZ3pcvF8C1GrQ96",
           "fightID": 24,
           "startTime": 1597450061062,
         },
-        "server": Object {
+        "server": {
           "id": 206,
           "name": "Stormrage",
           "region": "US",
@@ -2139,24 +2139,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1597451749728,
       },
-      Object {
+      {
         "amount": 150325,
         "bracketData": 475,
         "class": "DemonHunter",
         "duration": 211034,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 1773,
           "name": "Slow Motion",
         },
         "hardModeLevel": 0,
         "name": "Pyxs",
-        "report": Object {
+        "report": {
           "code": "YMVRFtQkGPTbnjL8",
           "fightID": 15,
           "startTime": 1591209830783,
         },
-        "server": Object {
+        "server": {
           "id": 392,
           "name": "Ysondre",
           "region": "EU",
@@ -2164,24 +2164,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1591217657820,
       },
-      Object {
+      {
         "amount": 149873,
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 162905,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 65,
           "name": "Daybreak",
         },
         "hardModeLevel": 0,
         "name": "Mailbox",
-        "report": Object {
+        "report": {
           "code": "hTVq9nkwQbBgDKfA",
           "fightID": 188,
           "startTime": 1597812167185,
         },
-        "server": Object {
+        "server": {
           "id": 226,
           "name": "Turalyon",
           "region": "US",
@@ -2189,19 +2189,19 @@ Object {
         "spec": "Vengeance",
         "startTime": 1598418806805,
       },
-      Object {
+      {
         "amount": 148751,
         "bracketData": 479,
         "class": "DemonHunter",
         "duration": 175587,
         "hardModeLevel": 0,
         "name": "안녕난댕이",
-        "report": Object {
+        "report": {
           "code": "d3GJWYF2hN6vw9Va",
           "fightID": 20,
           "startTime": 1596801751920,
         },
-        "server": Object {
+        "server": {
           "id": 526,
           "name": "아즈샤라",
           "region": "KR",
@@ -2209,24 +2209,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1596803893952,
       },
-      Object {
+      {
         "amount": 148683,
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 158780,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 219370,
           "name": "Greggs",
         },
         "hardModeLevel": 0,
         "name": "Rásban",
-        "report": Object {
+        "report": {
           "code": "HAxP3MNb24rYF9cf",
           "fightID": 16,
           "startTime": 1596740484503,
         },
-        "server": Object {
+        "server": {
           "id": 283,
           "name": "Draenor",
           "region": "EU",
@@ -2234,24 +2234,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1596745269031,
       },
-      Object {
+      {
         "amount": 148334,
         "bracketData": 475,
         "class": "DemonHunter",
         "duration": 251595,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 95684,
           "name": "Zeroes to Heroes",
         },
         "hardModeLevel": 0,
         "name": "Elruth",
-        "report": Object {
+        "report": {
           "code": "MVFnjgctZ4AC1L3Q",
           "fightID": 20,
           "startTime": 1591141964459,
         },
-        "server": Object {
+        "server": {
           "id": 206,
           "name": "Stormrage",
           "region": "US",
@@ -2259,24 +2259,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1591146223010,
       },
-      Object {
+      {
         "amount": 148295,
         "bracketData": 482,
         "class": "DemonHunter",
         "duration": 145780,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 29295,
           "name": "Nascent",
         },
         "hardModeLevel": 0,
         "name": "Lanfelera",
-        "report": Object {
+        "report": {
           "code": "LAJPjHQ84Nv7YG2y",
           "fightID": 17,
           "startTime": 1596592364730,
         },
-        "server": Object {
+        "server": {
           "id": 88,
           "name": "Emerald Dream",
           "region": "US",
@@ -2284,24 +2284,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1596597519305,
       },
-      Object {
+      {
         "amount": 148253,
         "bracketData": 476,
         "class": "DemonHunter",
         "duration": 355095,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 140757,
           "name": "Rumor Has It",
         },
         "hardModeLevel": 0,
         "name": "Ligertron",
-        "report": Object {
+        "report": {
           "code": "JpR2trCymVKwQPhZ",
           "fightID": 18,
           "startTime": 1594473218059,
         },
-        "server": Object {
+        "server": {
           "id": 141,
           "name": "Lightbringer",
           "region": "US",
@@ -2309,24 +2309,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1594478728656,
       },
-      Object {
+      {
         "amount": 148103,
         "bracketData": 480,
         "class": "DemonHunter",
         "duration": 176395,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 79173,
           "name": "Chaos Reborn",
         },
         "hardModeLevel": 0,
         "name": "Gesbane",
-        "report": Object {
+        "report": {
           "code": "c7Lm9h3JQ6qdkPCg",
           "fightID": 10,
           "startTime": 1592438435264,
         },
-        "server": Object {
+        "server": {
           "id": 150,
           "name": "Mal'Ganis",
           "region": "US",
@@ -2334,24 +2334,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1592440232233,
       },
-      Object {
+      {
         "amount": 147965,
         "bracketData": 481,
         "class": "DemonHunter",
         "duration": 159529,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 497031,
           "name": "SOS",
         },
         "hardModeLevel": 0,
         "name": "Fèaver",
-        "report": Object {
+        "report": {
           "code": "KRMDz8Yjhav79xXn",
           "fightID": 17,
           "startTime": 1598521933758,
         },
-        "server": Object {
+        "server": {
           "id": 99,
           "name": "Frostmourne",
           "region": "US",
@@ -2359,19 +2359,19 @@ Object {
         "spec": "Vengeance",
         "startTime": 1598527161244,
       },
-      Object {
+      {
         "amount": 147827,
         "bracketData": 475,
         "class": "DemonHunter",
         "duration": 180042,
         "hardModeLevel": 0,
         "name": "Paranoid",
-        "report": Object {
+        "report": {
           "code": "dQ79tChbyZ8k6Kcg",
           "fightID": 8,
           "startTime": 1593321063573,
         },
-        "server": Object {
+        "server": {
           "id": 526,
           "name": "아즈샤라",
           "region": "KR",
@@ -2379,24 +2379,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1593321959698,
       },
-      Object {
+      {
         "amount": 147509,
         "bracketData": 476,
         "class": "DemonHunter",
         "duration": 216457,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 375210,
           "name": "Gamebreakers",
         },
         "hardModeLevel": 0,
         "name": "Rívalthel",
-        "report": Object {
+        "report": {
           "code": "NayFpfXWjQBqbJL9",
           "fightID": 16,
           "startTime": 1591898315768,
         },
-        "server": Object {
+        "server": {
           "id": 321,
           "name": "Ravencrest",
           "region": "EU",
@@ -2404,24 +2404,24 @@ Object {
         "spec": "Vengeance",
         "startTime": 1591900546866,
       },
-      Object {
+      {
         "amount": 147285,
         "bracketData": 477,
         "class": "DemonHunter",
         "duration": 184892,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 1662,
           "name": "Winters Heart",
         },
         "hardModeLevel": 0,
         "name": "Aíza",
-        "report": Object {
+        "report": {
           "code": "mTX3GZk2c8CNrvPB",
           "fightID": 29,
           "startTime": 1591810969562,
         },
-        "server": Object {
+        "server": {
           "id": 329,
           "name": "Silvermoon",
           "region": "EU",

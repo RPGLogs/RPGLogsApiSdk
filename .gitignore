@@ -14,3 +14,4 @@ coverage
 src/credentials.ts
 src/queries/.graphqlconfig
 src/queries/schema.graphql
+package-lock.json

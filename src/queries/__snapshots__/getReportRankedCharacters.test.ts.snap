@@ -1,118 +1,118 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`returns data 1`] = `
-Array [
-  Object {
+[
+  {
     "classID": 5,
     "id": 1039279,
     "name": "Heaat",
   },
-  Object {
+  {
     "classID": 9,
     "id": 19415756,
     "name": "Centarios",
   },
-  Object {
+  {
     "classID": 12,
     "id": 31557524,
     "name": "Màrz",
   },
-  Object {
+  {
     "classID": 10,
     "id": 34288357,
     "name": "Xenubis",
   },
-  Object {
+  {
     "classID": 10,
     "id": 34288364,
     "name": "Dissident",
   },
-  Object {
+  {
     "classID": 9,
     "id": 34317966,
     "name": "Gärth",
   },
-  Object {
+  {
     "classID": 7,
     "id": 34557854,
     "name": "Lambkorma",
   },
-  Object {
+  {
     "classID": 4,
     "id": 35012063,
     "name": "Poorsorcero",
   },
-  Object {
+  {
     "classID": 9,
     "id": 35563395,
     "name": "Mangochutney",
   },
-  Object {
+  {
     "classID": 4,
     "id": 35774109,
     "name": "Mercurymage",
   },
-  Object {
+  {
     "classID": 5,
     "id": 37462621,
     "name": "Pandamanium",
   },
-  Object {
+  {
     "classID": 2,
     "id": 37491830,
     "name": "Flucloxx",
   },
-  Object {
+  {
     "classID": 3,
     "id": 37962356,
     "name": "Rustedarrow",
   },
-  Object {
+  {
     "classID": 11,
     "id": 40067043,
     "name": "Flyxw",
   },
-  Object {
+  {
     "classID": 2,
     "id": 40483585,
     "name": "Betwixt",
   },
-  Object {
+  {
     "classID": 10,
     "id": 40777050,
     "name": "Nògg",
   },
-  Object {
+  {
     "classID": 12,
     "id": 46159040,
     "name": "Xyä",
   },
-  Object {
+  {
     "classID": 7,
     "id": 51175867,
     "name": "Scárý",
   },
-  Object {
+  {
     "classID": 9,
     "id": 53075143,
     "name": "Antakka",
   },
-  Object {
+  {
     "classID": 1,
     "id": 53801762,
     "name": "Heamx",
   },
-  Object {
+  {
     "classID": 6,
     "id": 56286106,
     "name": "Éxory",
   },
-  Object {
+  {
     "classID": 7,
     "id": 59060651,
     "name": "Dragobbi",
   },
-  Object {
+  {
     "classID": 3,
     "id": 59991946,
     "name": "Matreira",

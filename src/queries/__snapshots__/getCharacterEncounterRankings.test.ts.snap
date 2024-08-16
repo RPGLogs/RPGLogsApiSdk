@@ -1,8 +1,8 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`returns data 1`] = `
-Object {
-  "encounterRankings": Object {
+{
+  "encounterRankings": {
     "averagePerformance": 68.0780088892181,
     "bestAmount": 255365,
     "difficulty": 5,
@@ -10,14 +10,14 @@ Object {
     "medianPerformance": 71.49022998782577,
     "metric": "dps",
     "partition": -1,
-    "ranks": Array [
-      Object {
+    "ranks": [
+      {
         "amount": 255365,
         "bestSpec": "Vengeance",
         "bracketData": 482,
         "class": 12,
         "duration": 79259,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -27,7 +27,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 100,
         "rankTotalParses": 4961,
-        "report": Object {
+        "report": {
           "code": "ANw6Fynq8W3P1Bkg",
           "fightID": 15,
           "startTime": 1602092886405,
@@ -37,13 +37,13 @@ Object {
         "todayPercent": 100,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 119065,
         "bestSpec": "Vengeance",
         "bracketData": 482,
         "class": 12,
         "duration": 159698,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -53,7 +53,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 94.1402647302821,
         "rankTotalParses": 4223,
-        "report": Object {
+        "report": {
           "code": "fKr2nkaQZgh8ptwx",
           "fightID": 28,
           "startTime": 1597256183915,
@@ -63,13 +63,13 @@ Object {
         "todayPercent": 92.77916666666667,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 118174,
         "bestSpec": "Vengeance",
         "bracketData": 482,
         "class": 12,
         "duration": 154152,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -79,7 +79,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 94.00671895625695,
         "rankTotalParses": 3780,
-        "report": Object {
+        "report": {
           "code": "vRyg7N9K2bpZmn3J",
           "fightID": 28,
           "startTime": 1596045585493,
@@ -89,13 +89,13 @@ Object {
         "todayPercent": 92.52313218390805,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 102224,
         "bestSpec": "Vengeance",
         "bracketData": 482,
         "class": 12,
         "duration": 124528,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -105,7 +105,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 86.53504593883822,
         "rankTotalParses": 4629,
-        "report": Object {
+        "report": {
           "code": "M7CLFvqzZJ26g4fQ",
           "fightID": 2,
           "startTime": 1598896777240,
@@ -115,13 +115,13 @@ Object {
         "todayPercent": 85.79066954745073,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 99913.6,
         "bestSpec": "Vengeance",
         "bracketData": 482,
         "class": 12,
         "duration": 148862,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -131,7 +131,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 84.56445256683966,
         "rankTotalParses": 4898,
-        "report": Object {
+        "report": {
           "code": "cPtj6y8nmAgD4rak",
           "fightID": 31,
           "startTime": 1600886616343,
@@ -141,13 +141,13 @@ Object {
         "todayPercent": 84.4341960029121,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 99480.6,
         "bestSpec": "Vengeance",
         "bracketData": 482,
         "class": 12,
         "duration": 167505,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -157,7 +157,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 85.5069965458024,
         "rankTotalParses": 4145,
-        "report": Object {
+        "report": {
           "code": "2Adwp1G76yJRL3qz",
           "fightID": 2,
           "startTime": 1597082905477,
@@ -167,13 +167,13 @@ Object {
         "todayPercent": 84.179974636575,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 94270.7,
         "bestSpec": "Vengeance",
         "bracketData": 482,
         "class": 12,
         "duration": 152267,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -183,7 +183,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 81.64145485765974,
         "rankTotalParses": 4382,
-        "report": Object {
+        "report": {
           "code": "bpzPRfCXKcDyTNL1",
           "fightID": 27,
           "startTime": 1597860136054,
@@ -193,13 +193,13 @@ Object {
         "todayPercent": 81.12115732368896,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 88940.1,
         "bestSpec": "Vengeance",
         "bracketData": 482,
         "class": 12,
         "duration": 93608,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -209,7 +209,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 77.27003597251668,
         "rankTotalParses": 4760,
-        "report": Object {
+        "report": {
           "code": "h36FTtvMyapcY9kg",
           "fightID": 25,
           "startTime": 1599674841193,
@@ -219,13 +219,13 @@ Object {
         "todayPercent": 77.05284377745998,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 83378.5,
         "bestSpec": "Vengeance",
         "bracketData": 481,
         "class": 12,
         "duration": 168555,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -235,7 +235,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 74.6859870506115,
         "rankTotalParses": 2931,
-        "report": Object {
+        "report": {
           "code": "3Q8tqnMNdZKzvmYg",
           "fightID": 25,
           "startTime": 1594231012083,
@@ -245,13 +245,13 @@ Object {
         "todayPercent": 71.61656856379525,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 81635.1,
         "bestSpec": "Vengeance",
         "bracketData": 482,
         "class": 12,
         "duration": 142274,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -261,7 +261,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 71.49022998782577,
         "rankTotalParses": 3245,
-        "report": Object {
+        "report": {
           "code": "WXP6wYcJG2RmaFQD",
           "fightID": 31,
           "startTime": 1594836297665,
@@ -271,13 +271,13 @@ Object {
         "todayPercent": 69.72736154177565,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 72266.5,
         "bestSpec": "Vengeance",
         "bracketData": 482,
         "class": 12,
         "duration": 104770,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -287,7 +287,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 58.22399673927708,
         "rankTotalParses": 4884,
-        "report": Object {
+        "report": {
           "code": "NyXmf1FZYK9kaHtn",
           "fightID": 41,
           "startTime": 1600279573912,
@@ -297,13 +297,13 @@ Object {
         "todayPercent": 58.05562738844353,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 71664.7,
         "bestSpec": "Vengeance",
         "bracketData": 476,
         "class": 12,
         "duration": 172698,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -313,7 +313,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 61.783651713401625,
         "rankTotalParses": 1730,
-        "report": Object {
+        "report": {
           "code": "txfY4hApvkj3HCzD",
           "fightID": 1,
           "startTime": 1592244507200,
@@ -323,13 +323,13 @@ Object {
         "todayPercent": 57.19104674884349,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 69915.1,
         "bestSpec": "Vengeance",
         "bracketData": 480,
         "class": 12,
         "duration": 188375,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -339,7 +339,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 57.44566270011859,
         "rankTotalParses": 1860,
-        "report": Object {
+        "report": {
           "code": "LjmKgCa34GNbA19c",
           "fightID": 26,
           "startTime": 1592416914988,
@@ -349,13 +349,13 @@ Object {
         "todayPercent": 54.677470333017276,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 68095.1,
         "bestSpec": "Vengeance",
         "bracketData": 482,
         "class": 12,
         "duration": 154647,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -365,7 +365,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 52.55988111195291,
         "rankTotalParses": 3518,
-        "report": Object {
+        "report": {
           "code": "p6HVdwvMA2T7XqKJ",
           "fightID": 6,
           "startTime": 1595441042430,
@@ -375,13 +375,13 @@ Object {
         "todayPercent": 52.0627532109301,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 67423.1,
         "bestSpec": "Vengeance",
         "bracketData": 482,
         "class": 12,
         "duration": 108960,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -391,7 +391,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 51.088228949449935,
         "rankTotalParses": 4947,
-        "report": Object {
+        "report": {
           "code": "KMqV9ZApxaQR7P3y",
           "fightID": 7,
           "startTime": 1601924511596,
@@ -401,13 +401,13 @@ Object {
         "todayPercent": 51.09731919662099,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 66312.1,
         "bestSpec": "Vengeance",
         "bracketData": 482,
         "class": 12,
         "duration": 101795,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -417,7 +417,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 49.499117817006514,
         "rankTotalParses": 4674,
-        "report": Object {
+        "report": {
           "code": "V4YfPm9h7FZq8GKx",
           "fightID": 29,
           "startTime": 1599069929729,
@@ -427,13 +427,13 @@ Object {
         "todayPercent": 49.473979243996666,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 65746.1,
         "bestSpec": "Vengeance",
         "bracketData": 481,
         "class": 12,
         "duration": 181446,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -443,7 +443,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 51.20363589503429,
         "rankTotalParses": 2590,
-        "report": Object {
+        "report": {
           "code": "xCz8BRdZW9hVL2fY",
           "fightID": 30,
           "startTime": 1593624601476,
@@ -453,13 +453,13 @@ Object {
         "todayPercent": 48.6164684493599,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 60595.1,
         "bestSpec": "Vengeance",
         "bracketData": 481,
         "class": 12,
         "duration": 170086,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -469,7 +469,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 41.39043499840465,
         "rankTotalParses": 2247,
-        "report": Object {
+        "report": {
           "code": "qxWj3dpFYMPhJBHQ",
           "fightID": 31,
           "startTime": 1593021592628,
@@ -479,13 +479,13 @@ Object {
         "todayPercent": 40.812514203469426,
         "todayTotalParses": 4977,
       },
-      Object {
+      {
         "amount": 48619.4,
         "bestSpec": "Vengeance",
         "bracketData": 474,
         "class": 12,
         "duration": 273679,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -495,7 +495,7 @@ Object {
         "lockedIn": true,
         "rankPercent": 20.446372363865287,
         "rankTotalParses": 1087,
-        "report": Object {
+        "report": {
           "code": "AYxJpkCtLazwfgdQ",
           "fightID": 2,
           "startTime": 1591639509560,

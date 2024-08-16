@@ -1,12 +1,12 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`returns data 1`] = `
-Object {
+{
   "id": 46159040,
   "name": "Xyä",
-  "zoneRankings": Object {
-    "allStars": Array [
-      Object {
+  "zoneRankings": {
+    "allStars": [
+      {
         "partition": 3,
         "points": 963.45,
         "possiblePoints": 1080,
@@ -17,7 +17,7 @@ Object {
         "spec": "Vengeance",
         "total": 13189,
       },
-      Object {
+      {
         "partition": 2,
         "points": 87.4102,
         "possiblePoints": 1320,
@@ -28,7 +28,7 @@ Object {
         "spec": "Vengeance",
         "total": 8796,
       },
-      Object {
+      {
         "partition": 3,
         "points": 111.307,
         "possiblePoints": 1080,
@@ -45,9 +45,9 @@ Object {
     "medianPerformanceAverage": 65.55116666666666,
     "metric": "dps",
     "partition": -1,
-    "rankings": Array [
-      Object {
-        "allStars": Object {
+    "rankings": [
+      {
+        "allStars": {
           "partition": 3,
           "points": 115.92,
           "possiblePoints": 120,
@@ -59,7 +59,7 @@ Object {
         },
         "bestAmount": 69568.1,
         "bestSpec": "Vengeance",
-        "encounter": Object {
+        "encounter": {
           "id": 2329,
           "name": "Wrathion",
         },
@@ -70,8 +70,8 @@ Object {
         "spec": "Vengeance",
         "totalKills": 20,
       },
-      Object {
-        "allStars": Object {
+      {
+        "allStars": {
           "partition": 3,
           "points": 115.21,
           "possiblePoints": 120,
@@ -83,7 +83,7 @@ Object {
         },
         "bestAmount": 91289.5,
         "bestSpec": "Vengeance",
-        "encounter": Object {
+        "encounter": {
           "id": 2327,
           "name": "Maut",
         },
@@ -94,8 +94,8 @@ Object {
         "spec": "Vengeance",
         "totalKills": 18,
       },
-      Object {
-        "allStars": Object {
+      {
+        "allStars": {
           "partition": 3,
           "points": 0,
           "possiblePoints": 0,
@@ -107,7 +107,7 @@ Object {
         },
         "bestAmount": 49920.8,
         "bestSpec": "Vengeance",
-        "encounter": Object {
+        "encounter": {
           "id": 2334,
           "name": "Prophet Skitra",
         },
@@ -118,8 +118,8 @@ Object {
         "spec": "Vengeance",
         "totalKills": 19,
       },
-      Object {
-        "allStars": Object {
+      {
+        "allStars": {
           "partition": 3,
           "points": 111.08,
           "possiblePoints": 120,
@@ -131,7 +131,7 @@ Object {
         },
         "bestAmount": 71138.5,
         "bestSpec": "Vengeance",
-        "encounter": Object {
+        "encounter": {
           "id": 2328,
           "name": "Dark Inquisitor Xanesh",
         },
@@ -142,8 +142,8 @@ Object {
         "spec": "Vengeance",
         "totalKills": 14,
       },
-      Object {
-        "allStars": Object {
+      {
+        "allStars": {
           "partition": 3,
           "points": 0,
           "possiblePoints": 0,
@@ -155,7 +155,7 @@ Object {
         },
         "bestAmount": 255365,
         "bestSpec": "Vengeance",
-        "encounter": Object {
+        "encounter": {
           "id": 2333,
           "name": "The Hivemind",
         },
@@ -166,8 +166,8 @@ Object {
         "spec": "Vengeance",
         "totalKills": 19,
       },
-      Object {
-        "allStars": Object {
+      {
+        "allStars": {
           "partition": 3,
           "points": 102.5,
           "possiblePoints": 120,
@@ -179,7 +179,7 @@ Object {
         },
         "bestAmount": 62138.2,
         "bestSpec": "Vengeance",
-        "encounter": Object {
+        "encounter": {
           "id": 2335,
           "name": "Shad'har the Insatiable",
         },
@@ -190,8 +190,8 @@ Object {
         "spec": "Vengeance",
         "totalKills": 18,
       },
-      Object {
-        "allStars": Object {
+      {
+        "allStars": {
           "partition": 3,
           "points": 0,
           "possiblePoints": 0,
@@ -203,7 +203,7 @@ Object {
         },
         "bestAmount": 75561,
         "bestSpec": "Vengeance",
-        "encounter": Object {
+        "encounter": {
           "id": 2343,
           "name": "Drest'agath",
         },
@@ -214,8 +214,8 @@ Object {
         "spec": "Vengeance",
         "totalKills": 17,
       },
-      Object {
-        "allStars": Object {
+      {
+        "allStars": {
           "partition": 3,
           "points": 111.49,
           "possiblePoints": 120,
@@ -227,7 +227,7 @@ Object {
         },
         "bestAmount": 115720,
         "bestSpec": "Vengeance",
-        "encounter": Object {
+        "encounter": {
           "id": 2336,
           "name": "Vexiona",
         },
@@ -238,8 +238,8 @@ Object {
         "spec": "Vengeance",
         "totalKills": 14,
       },
-      Object {
-        "allStars": Object {
+      {
+        "allStars": {
           "partition": 3,
           "points": 105.65,
           "possiblePoints": 120,
@@ -251,7 +251,7 @@ Object {
         },
         "bestAmount": 79258.7,
         "bestSpec": "Vengeance",
-        "encounter": Object {
+        "encounter": {
           "id": 2331,
           "name": "Ra-den the Despoiled",
         },
@@ -262,8 +262,8 @@ Object {
         "spec": "Vengeance",
         "totalKills": 18,
       },
-      Object {
-        "allStars": Object {
+      {
+        "allStars": {
           "partition": 3,
           "points": 114.06,
           "possiblePoints": 120,
@@ -275,7 +275,7 @@ Object {
         },
         "bestAmount": 69776.1,
         "bestSpec": "Vengeance",
-        "encounter": Object {
+        "encounter": {
           "id": 2345,
           "name": "Il'gynoth, Corruption Reborn",
         },
@@ -286,8 +286,8 @@ Object {
         "spec": "Vengeance",
         "totalKills": 15,
       },
-      Object {
-        "allStars": Object {
+      {
+        "allStars": {
           "partition": 3,
           "points": 111.17,
           "possiblePoints": 120,
@@ -299,7 +299,7 @@ Object {
         },
         "bestAmount": 60696.7,
         "bestSpec": "Vengeance",
-        "encounter": Object {
+        "encounter": {
           "id": 2337,
           "name": "Carapace of N'Zoth",
         },
@@ -310,8 +310,8 @@ Object {
         "spec": "Vengeance",
         "totalKills": 15,
       },
-      Object {
-        "allStars": Object {
+      {
+        "allStars": {
           "partition": 3,
           "points": 76.37,
           "possiblePoints": 120,
@@ -323,7 +323,7 @@ Object {
         },
         "bestAmount": 57766.1,
         "bestSpec": "Vengeance",
-        "encounter": Object {
+        "encounter": {
           "id": 2344,
           "name": "N'Zoth the Corruptor",
         },

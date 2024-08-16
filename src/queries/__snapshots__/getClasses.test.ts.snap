@@ -1,287 +1,287 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`returns data 1`] = `
-Array [
-  Object {
+[
+  {
     "id": 1,
     "name": "Death Knight",
     "slug": "DeathKnight",
-    "specs": Array [
-      Object {
+    "specs": [
+      {
         "id": 1,
         "name": "Blood",
         "slug": "Blood",
       },
-      Object {
+      {
         "id": 2,
         "name": "Frost",
         "slug": "Frost",
       },
-      Object {
+      {
         "id": 3,
         "name": "Unholy",
         "slug": "Unholy",
       },
     ],
   },
-  Object {
+  {
     "id": 2,
     "name": "Druid",
     "slug": "Druid",
-    "specs": Array [
-      Object {
+    "specs": [
+      {
         "id": 1,
         "name": "Balance",
         "slug": "Balance",
       },
-      Object {
+      {
         "id": 2,
         "name": "Feral",
         "slug": "Feral",
       },
-      Object {
+      {
         "id": 3,
         "name": "Guardian",
         "slug": "Guardian",
       },
-      Object {
+      {
         "id": 4,
         "name": "Restoration",
         "slug": "Restoration",
       },
     ],
   },
-  Object {
+  {
     "id": 3,
     "name": "Hunter",
     "slug": "Hunter",
-    "specs": Array [
-      Object {
+    "specs": [
+      {
         "id": 1,
         "name": "Beast Mastery",
         "slug": "BeastMastery",
       },
-      Object {
+      {
         "id": 2,
         "name": "Marksmanship",
         "slug": "Marksmanship",
       },
-      Object {
+      {
         "id": 3,
         "name": "Survival",
         "slug": "Survival",
       },
     ],
   },
-  Object {
+  {
     "id": 4,
     "name": "Mage",
     "slug": "Mage",
-    "specs": Array [
-      Object {
+    "specs": [
+      {
         "id": 1,
         "name": "Arcane",
         "slug": "Arcane",
       },
-      Object {
+      {
         "id": 2,
         "name": "Fire",
         "slug": "Fire",
       },
-      Object {
+      {
         "id": 3,
         "name": "Frost",
         "slug": "Frost",
       },
     ],
   },
-  Object {
+  {
     "id": 5,
     "name": "Monk",
     "slug": "Monk",
-    "specs": Array [
-      Object {
+    "specs": [
+      {
         "id": 1,
         "name": "Brewmaster",
         "slug": "Brewmaster",
       },
-      Object {
+      {
         "id": 2,
         "name": "Mistweaver",
         "slug": "Mistweaver",
       },
-      Object {
+      {
         "id": 3,
         "name": "Windwalker",
         "slug": "Windwalker",
       },
     ],
   },
-  Object {
+  {
     "id": 6,
     "name": "Paladin",
     "slug": "Paladin",
-    "specs": Array [
-      Object {
+    "specs": [
+      {
         "id": 1,
         "name": "Holy",
         "slug": "Holy",
       },
-      Object {
+      {
         "id": 2,
         "name": "Protection",
         "slug": "Protection",
       },
-      Object {
+      {
         "id": 3,
         "name": "Retribution",
         "slug": "Retribution",
       },
     ],
   },
-  Object {
+  {
     "id": 7,
     "name": "Priest",
     "slug": "Priest",
-    "specs": Array [
-      Object {
+    "specs": [
+      {
         "id": 1,
         "name": "Discipline",
         "slug": "Discipline",
       },
-      Object {
+      {
         "id": 2,
         "name": "Holy",
         "slug": "Holy",
       },
-      Object {
+      {
         "id": 3,
         "name": "Shadow",
         "slug": "Shadow",
       },
     ],
   },
-  Object {
+  {
     "id": 8,
     "name": "Rogue",
     "slug": "Rogue",
-    "specs": Array [
-      Object {
+    "specs": [
+      {
         "id": 1,
         "name": "Assassination",
         "slug": "Assassination",
       },
-      Object {
+      {
         "id": 3,
         "name": "Subtlety",
         "slug": "Subtlety",
       },
-      Object {
+      {
         "id": 4,
         "name": "Outlaw",
         "slug": "Outlaw",
       },
     ],
   },
-  Object {
+  {
     "id": 9,
     "name": "Shaman",
     "slug": "Shaman",
-    "specs": Array [
-      Object {
+    "specs": [
+      {
         "id": 1,
         "name": "Elemental",
         "slug": "Elemental",
       },
-      Object {
+      {
         "id": 2,
         "name": "Enhancement",
         "slug": "Enhancement",
       },
-      Object {
+      {
         "id": 3,
         "name": "Restoration",
         "slug": "Restoration",
       },
     ],
   },
-  Object {
+  {
     "id": 10,
     "name": "Warlock",
     "slug": "Warlock",
-    "specs": Array [
-      Object {
+    "specs": [
+      {
         "id": 1,
         "name": "Affliction",
         "slug": "Affliction",
       },
-      Object {
+      {
         "id": 2,
         "name": "Demonology",
         "slug": "Demonology",
       },
-      Object {
+      {
         "id": 3,
         "name": "Destruction",
         "slug": "Destruction",
       },
     ],
   },
-  Object {
+  {
     "id": 11,
     "name": "Warrior",
     "slug": "Warrior",
-    "specs": Array [
-      Object {
+    "specs": [
+      {
         "id": 1,
         "name": "Arms",
         "slug": "Arms",
       },
-      Object {
+      {
         "id": 2,
         "name": "Fury",
         "slug": "Fury",
       },
-      Object {
+      {
         "id": 3,
         "name": "Protection",
         "slug": "Protection",
       },
     ],
   },
-  Object {
+  {
     "id": 12,
     "name": "Demon Hunter",
     "slug": "DemonHunter",
-    "specs": Array [
-      Object {
+    "specs": [
+      {
         "id": 1,
         "name": "Havoc",
         "slug": "Havoc",
       },
-      Object {
+      {
         "id": 2,
         "name": "Vengeance",
         "slug": "Vengeance",
       },
     ],
   },
-  Object {
+  {
     "id": 13,
     "name": "Evoker",
     "slug": "Evoker",
-    "specs": Array [
-      Object {
+    "specs": [
+      {
         "id": 1,
         "name": "Devastation",
         "slug": "Devastation",
       },
-      Object {
+      {
         "id": 2,
         "name": "Preservation",
         "slug": "Preservation",
       },
-      Object {
+      {
         "id": 3,
         "name": "Augmentation",
         "slug": "Augmentation",

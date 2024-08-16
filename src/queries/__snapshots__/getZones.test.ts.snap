@@ -1,78 +1,78 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`returns data 1`] = `
-Array [
-  Object {
-    "brackets": Object {
+[
+  {
+    "brackets": {
       "bucket": 1,
       "max": 40,
       "min": 1,
       "type": "Keystone Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 10,
         "name": "Dungeon",
-        "sizes": Array [
+        "sizes": [
           5,
         ],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 11501,
         "name": "Black Rook Hold",
       },
-      Object {
+      {
         "id": 11677,
         "name": "Cathedral of Eternal Night",
       },
-      Object {
+      {
         "id": 11571,
         "name": "Court of Stars",
       },
-      Object {
+      {
         "id": 11466,
         "name": "Darkheart Thicket",
       },
-      Object {
+      {
         "id": 11456,
         "name": "Eye of Azshara",
       },
-      Object {
+      {
         "id": 11477,
         "name": "Halls of Valor",
       },
-      Object {
+      {
         "id": 11651,
         "name": "Lower Karazhan",
       },
-      Object {
+      {
         "id": 11492,
         "name": "Maw of Souls",
       },
-      Object {
+      {
         "id": 11458,
         "name": "Neltharion's Lair",
       },
-      Object {
+      {
         "id": 11753,
         "name": "Seat of the Triumvirate",
       },
-      Object {
+      {
         "id": 11516,
         "name": "The Arcway",
       },
-      Object {
+      {
         "id": 11652,
         "name": "Upper Karazhan",
       },
-      Object {
+      {
         "id": 11493,
         "name": "Vault of the Wardens",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 2,
       "name": "Legion",
     },
@@ -80,73 +80,73 @@ Array [
     "id": 9,
     "name": "Mythic+ Dungeons",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 1,
       "max": 30,
       "min": 1,
       "type": "Keystone Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 10,
         "name": "Dungeon",
-        "sizes": Array [
+        "sizes": [
           5,
         ],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 11763,
         "name": "Atal'Dazar",
       },
-      Object {
+      {
         "id": 11754,
         "name": "Freehold",
       },
-      Object {
+      {
         "id": 11762,
         "name": "Kings' Rest",
       },
-      Object {
+      {
         "id": 12097,
         "name": "Operation: Mechagon - Junkyard",
       },
-      Object {
+      {
         "id": 12098,
         "name": "Operation: Mechagon - Workshop",
       },
-      Object {
+      {
         "id": 11864,
         "name": "Shrine of the Storm",
       },
-      Object {
+      {
         "id": 11822,
         "name": "Siege of Boralus",
       },
-      Object {
+      {
         "id": 11877,
         "name": "Temple of Sethraliss",
       },
-      Object {
+      {
         "id": 11594,
         "name": "The MOTHERLODE!!",
       },
-      Object {
+      {
         "id": 11841,
         "name": "The Underrot",
       },
-      Object {
+      {
         "id": 11771,
         "name": "Tol Dagor",
       },
-      Object {
+      {
         "id": 11862,
         "name": "Waycrest Manor",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 3,
       "name": "Battle for Azeroth",
     },
@@ -154,84 +154,84 @@ Array [
     "id": 20,
     "name": "Mythic+ Dungeons",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 3,
       "max": 986,
       "min": 908,
       "type": "Item Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 5,
         "name": "Mythic",
-        "sizes": Array [
+        "sizes": [
           20,
         ],
       },
-      Object {
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [],
+        "sizes": [],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 2076,
         "name": "Garothi Worldbreaker",
       },
-      Object {
+      {
         "id": 2074,
         "name": "Felhounds of Sargeras",
       },
-      Object {
+      {
         "id": 2070,
         "name": "Antoran High Command",
       },
-      Object {
+      {
         "id": 2075,
         "name": "The Defense of Eonar",
       },
-      Object {
+      {
         "id": 2064,
         "name": "Portal Keeper Hasabel",
       },
-      Object {
+      {
         "id": 2082,
         "name": "Imonar the Soulhunter",
       },
-      Object {
+      {
         "id": 2088,
         "name": "Kin'garoth",
       },
-      Object {
+      {
         "id": 2069,
         "name": "Varimathras",
       },
-      Object {
+      {
         "id": 2073,
         "name": "The Coven of Shivarra",
       },
-      Object {
+      {
         "id": 2063,
         "name": "Aggramar",
       },
-      Object {
+      {
         "id": 2092,
         "name": "Argus the Unmaker",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 2,
       "name": "Legion",
     },
@@ -239,76 +239,76 @@ Array [
     "id": 17,
     "name": "Antorus, The Burning Throne",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 3,
       "max": 955,
       "min": 862,
       "type": "Item Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 5,
         "name": "Mythic",
-        "sizes": Array [
+        "sizes": [
           20,
         ],
       },
-      Object {
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [],
+        "sizes": [],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 2032,
         "name": "Goroth",
       },
-      Object {
+      {
         "id": 2048,
         "name": "Demonic Inquisition",
       },
-      Object {
+      {
         "id": 2036,
         "name": "Harjatan",
       },
-      Object {
+      {
         "id": 2037,
         "name": "Mistress Sassz'ine",
       },
-      Object {
+      {
         "id": 2050,
         "name": "Sisters of the Moon",
       },
-      Object {
+      {
         "id": 2054,
         "name": "The Desolate Host",
       },
-      Object {
+      {
         "id": 2052,
         "name": "Maiden of Vigilance",
       },
-      Object {
+      {
         "id": 2038,
         "name": "Fallen Avatar",
       },
-      Object {
+      {
         "id": 2051,
         "name": "Kil'jaeden",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 2,
       "name": "Legion",
     },
@@ -316,80 +316,80 @@ Array [
     "id": 13,
     "name": "Tomb of Sargeras",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 3,
       "max": 935,
       "min": 842,
       "type": "Item Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 5,
         "name": "Mythic",
-        "sizes": Array [
+        "sizes": [
           20,
         ],
       },
-      Object {
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [],
+        "sizes": [],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 1849,
         "name": "Skorpyron",
       },
-      Object {
+      {
         "id": 1865,
         "name": "Chronomatic Anomaly",
       },
-      Object {
+      {
         "id": 1867,
         "name": "Trilliax",
       },
-      Object {
+      {
         "id": 1871,
         "name": "Spellblade Aluriel",
       },
-      Object {
+      {
         "id": 1862,
         "name": "Tichondrius",
       },
-      Object {
+      {
         "id": 1863,
         "name": "Star Augur Etraeus",
       },
-      Object {
+      {
         "id": 1842,
         "name": "Krosus",
       },
-      Object {
+      {
         "id": 1886,
         "name": "High Botanist Tel'arn",
       },
-      Object {
+      {
         "id": 1872,
         "name": "Grand Magistrix Elisande",
       },
-      Object {
+      {
         "id": 1866,
         "name": "Gul'dan",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 2,
       "name": "Legion",
     },
@@ -397,65 +397,65 @@ Array [
     "id": 11,
     "name": "The Nighthold",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 1,
       "max": 35,
       "min": 1,
       "type": "Keystone Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 10,
         "name": "Dungeon",
-        "sizes": Array [
+        "sizes": [
           5,
         ],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 12291,
         "name": "De Other Side",
       },
-      Object {
+      {
         "id": 12287,
         "name": "Halls of Atonement",
       },
-      Object {
+      {
         "id": 12290,
         "name": "Mists of Tirna Scithe",
       },
-      Object {
+      {
         "id": 12289,
         "name": "Plaguefall",
       },
-      Object {
+      {
         "id": 12284,
         "name": "Sanguine Depths",
       },
-      Object {
+      {
         "id": 12285,
         "name": "Spires of Ascension",
       },
-      Object {
+      {
         "id": 12442,
         "name": "Tazavesh: So'leah's Gambit",
       },
-      Object {
+      {
         "id": 12441,
         "name": "Tazavesh: Streets of Wonder",
       },
-      Object {
+      {
         "id": 12286,
         "name": "The Necrotic Wake",
       },
-      Object {
+      {
         "id": 12293,
         "name": "Theater of Pain",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 4,
       "name": "Shadowlands",
     },
@@ -463,88 +463,88 @@ Array [
     "id": 25,
     "name": "Mythic+ Seasons 1 - 3",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 3,
       "max": 487,
       "min": 430,
       "type": "Item Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 5,
         "name": "Mythic",
-        "sizes": Array [
+        "sizes": [
           20,
         ],
       },
-      Object {
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [],
+        "sizes": [],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 2329,
         "name": "Wrathion",
       },
-      Object {
+      {
         "id": 2327,
         "name": "Maut",
       },
-      Object {
+      {
         "id": 2334,
         "name": "Prophet Skitra",
       },
-      Object {
+      {
         "id": 2328,
         "name": "Dark Inquisitor Xanesh",
       },
-      Object {
+      {
         "id": 2333,
         "name": "The Hivemind",
       },
-      Object {
+      {
         "id": 2335,
         "name": "Shad'har the Insatiable",
       },
-      Object {
+      {
         "id": 2343,
         "name": "Drest'agath",
       },
-      Object {
+      {
         "id": 2336,
         "name": "Vexiona",
       },
-      Object {
+      {
         "id": 2331,
         "name": "Ra-den the Despoiled",
       },
-      Object {
+      {
         "id": 2345,
         "name": "Il'gynoth, Corruption Reborn",
       },
-      Object {
+      {
         "id": 2337,
         "name": "Carapace of N'Zoth",
       },
-      Object {
+      {
         "id": 2344,
         "name": "N'Zoth the Corruptor",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 3,
       "name": "Battle for Azeroth",
     },
@@ -552,72 +552,72 @@ Array [
     "id": 24,
     "name": "Ny'alotha",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 3,
       "max": 457,
       "min": 400,
       "type": "Item Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 5,
         "name": "Mythic",
-        "sizes": Array [
+        "sizes": [
           20,
         ],
       },
-      Object {
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [],
+        "sizes": [],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 2298,
         "name": "Abyssal Commander Sivara",
       },
-      Object {
+      {
         "id": 2305,
         "name": "Radiance of Azshara",
       },
-      Object {
+      {
         "id": 2289,
         "name": "Blackwater Behemoth",
       },
-      Object {
+      {
         "id": 2304,
         "name": "Lady Ashvane",
       },
-      Object {
+      {
         "id": 2303,
         "name": "Orgozoa",
       },
-      Object {
+      {
         "id": 2311,
         "name": "The Queen's Court",
       },
-      Object {
+      {
         "id": 2293,
         "name": "Za'qul",
       },
-      Object {
+      {
         "id": 2299,
         "name": "Queen Azshara",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 3,
       "name": "Battle for Azeroth",
     },
@@ -625,48 +625,48 @@ Array [
     "id": 23,
     "name": "The Eternal Palace",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 3,
       "max": 427,
       "min": 370,
       "type": "Item Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 5,
         "name": "Mythic",
-        "sizes": Array [
+        "sizes": [
           20,
         ],
       },
-      Object {
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [],
+        "sizes": [],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 2269,
         "name": "The Restless Cabal",
       },
-      Object {
+      {
         "id": 2273,
         "name": "Uu'nat, Harbinger of the Void",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 3,
       "name": "Battle for Azeroth",
     },
@@ -674,76 +674,76 @@ Array [
     "id": 22,
     "name": "Crucible of Storms",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 3,
       "max": 427,
       "min": 370,
       "type": "Item Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 5,
         "name": "Mythic",
-        "sizes": Array [
+        "sizes": [
           20,
         ],
       },
-      Object {
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [],
+        "sizes": [],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 2265,
         "name": "Champion of the Light",
       },
-      Object {
+      {
         "id": 2266,
         "name": "Jadefire Masters",
       },
-      Object {
+      {
         "id": 2263,
         "name": "Grong",
       },
-      Object {
+      {
         "id": 2271,
         "name": "Opulence",
       },
-      Object {
+      {
         "id": 2268,
         "name": "Conclave of the Chosen",
       },
-      Object {
+      {
         "id": 2272,
         "name": "King Rastakhan",
       },
-      Object {
+      {
         "id": 2276,
         "name": "Mekkatorque",
       },
-      Object {
+      {
         "id": 2280,
         "name": "Stormwall Blockade",
       },
-      Object {
+      {
         "id": 2281,
         "name": "Lady Jaina Proudmoore",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 3,
       "name": "Battle for Azeroth",
     },
@@ -751,72 +751,72 @@ Array [
     "id": 21,
     "name": "Battle of Dazar'alor",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 3,
       "max": 397,
       "min": 340,
       "type": "Item Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 5,
         "name": "Mythic",
-        "sizes": Array [
+        "sizes": [
           20,
         ],
       },
-      Object {
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [],
+        "sizes": [],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 2144,
         "name": "Taloc",
       },
-      Object {
+      {
         "id": 2141,
         "name": "MOTHER",
       },
-      Object {
+      {
         "id": 2128,
         "name": "Fetid Devourer",
       },
-      Object {
+      {
         "id": 2136,
         "name": "Zek'voz",
       },
-      Object {
+      {
         "id": 2134,
         "name": "Vectis",
       },
-      Object {
+      {
         "id": 2145,
         "name": "Zul",
       },
-      Object {
+      {
         "id": 2135,
         "name": "Mythrax",
       },
-      Object {
+      {
         "id": 2122,
         "name": "G'huun",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 3,
       "name": "Battle for Azeroth",
     },
@@ -824,52 +824,52 @@ Array [
     "id": 19,
     "name": "Uldir",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 3,
       "max": 920,
       "min": 827,
       "type": "Item Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 5,
         "name": "Mythic",
-        "sizes": Array [
+        "sizes": [
           20,
         ],
       },
-      Object {
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [],
+        "sizes": [],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 1958,
         "name": "Odyn",
       },
-      Object {
+      {
         "id": 1962,
         "name": "Guarm",
       },
-      Object {
+      {
         "id": 2008,
         "name": "Helya",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 2,
       "name": "Legion",
     },
@@ -877,68 +877,68 @@ Array [
     "id": 12,
     "name": "Trial of Valor",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 3,
       "max": 920,
       "min": 827,
       "type": "Item Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 5,
         "name": "Mythic",
-        "sizes": Array [
+        "sizes": [
           20,
         ],
       },
-      Object {
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [],
+        "sizes": [],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 1853,
         "name": "Nythendra",
       },
-      Object {
+      {
         "id": 1873,
         "name": "Il'gynoth, The Heart of Corruption",
       },
-      Object {
+      {
         "id": 1876,
         "name": "Elerethe Renferal",
       },
-      Object {
+      {
         "id": 1841,
         "name": "Ursoc",
       },
-      Object {
+      {
         "id": 1854,
         "name": "Dragons of Nightmare",
       },
-      Object {
+      {
         "id": 1877,
         "name": "Cenarius",
       },
-      Object {
+      {
         "id": 1864,
         "name": "Xavius",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 2,
       "name": "Legion",
     },
@@ -946,92 +946,92 @@ Array [
     "id": 10,
     "name": "Emerald Nightmare",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 3,
       "max": 745,
       "min": 682,
       "type": "Item Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 5,
         "name": "Mythic",
-        "sizes": Array [
+        "sizes": [
           20,
         ],
       },
-      Object {
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [],
+        "sizes": [],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 1778,
         "name": "Hellfire Assault",
       },
-      Object {
+      {
         "id": 1785,
         "name": "Iron Reaver",
       },
-      Object {
+      {
         "id": 1787,
         "name": "Kormrok",
       },
-      Object {
+      {
         "id": 1798,
         "name": "Hellfire High Council",
       },
-      Object {
+      {
         "id": 1786,
         "name": "Kilrogg Deadeye",
       },
-      Object {
+      {
         "id": 1783,
         "name": "Gorefiend",
       },
-      Object {
+      {
         "id": 1788,
         "name": "Shadow-Lord Iskar",
       },
-      Object {
+      {
         "id": 1777,
         "name": "Fel Lord Zakuun",
       },
-      Object {
+      {
         "id": 1800,
         "name": "Xhul'horac",
       },
-      Object {
+      {
         "id": 1794,
         "name": "Socrethar the Eternal",
       },
-      Object {
+      {
         "id": 1784,
         "name": "Tyrant Velhari",
       },
-      Object {
+      {
         "id": 1795,
         "name": "Mannoroth",
       },
-      Object {
+      {
         "id": 1799,
         "name": "Archimonde",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 1,
       "name": "Warlords of Draenor",
     },
@@ -1039,80 +1039,80 @@ Array [
     "id": 8,
     "name": "Hellfire Citadel",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 15,
       "max": 695,
       "min": 650,
       "type": "Item Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 5,
         "name": "Mythic",
-        "sizes": Array [
+        "sizes": [
           20,
         ],
       },
-      Object {
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [],
+        "sizes": [],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 1691,
         "name": "Gruul",
       },
-      Object {
+      {
         "id": 1696,
         "name": "Oregorger the Devourer",
       },
-      Object {
+      {
         "id": 1690,
         "name": "Blast Furnace",
       },
-      Object {
+      {
         "id": 1693,
         "name": "Hans'gar & Franzok",
       },
-      Object {
+      {
         "id": 1689,
         "name": "Flamebender Ka'graz",
       },
-      Object {
+      {
         "id": 1713,
         "name": "Kromog, Legend of the Mountain",
       },
-      Object {
+      {
         "id": 1694,
         "name": "Beastlord Darmac",
       },
-      Object {
+      {
         "id": 1692,
         "name": "Operator Thogar",
       },
-      Object {
+      {
         "id": 1695,
         "name": "The Iron Maidens",
       },
-      Object {
+      {
         "id": 1704,
         "name": "Blackhand",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 1,
       "name": "Warlords of Draenor",
     },
@@ -1120,68 +1120,68 @@ Array [
     "id": 7,
     "name": "Blackrock Foundry",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 15,
       "max": 693,
       "min": 633,
       "type": "Item Level",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 5,
         "name": "Mythic",
-        "sizes": Array [
+        "sizes": [
           20,
         ],
       },
-      Object {
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [],
+        "sizes": [],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 1721,
         "name": "Kargath Bladefist",
       },
-      Object {
+      {
         "id": 1706,
         "name": "The Butcher",
       },
-      Object {
+      {
         "id": 1722,
         "name": "Tectus, The Living Mountain",
       },
-      Object {
+      {
         "id": 1720,
         "name": "Brackenspore",
       },
-      Object {
+      {
         "id": 1719,
         "name": "Twin Ogron",
       },
-      Object {
+      {
         "id": 1723,
         "name": "Ko'ragh",
       },
-      Object {
+      {
         "id": 1705,
         "name": "Imperator Mar'gok",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 1,
       "name": "Warlords of Draenor",
     },
@@ -1189,104 +1189,104 @@ Array [
     "id": 6,
     "name": "Highmaul",
   },
-  Object {
+  {
     "brackets": null,
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 5,
         "name": "Mythic",
-        "sizes": Array [
+        "sizes": [
           20,
         ],
       },
-      Object {
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [
+        "sizes": [
           25,
           10,
         ],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [
+        "sizes": [
           25,
           10,
         ],
       },
-      Object {
+      {
         "id": 2,
         "name": "Flex",
-        "sizes": Array [],
+        "sizes": [],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [
+        "sizes": [
           25,
         ],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 1602,
         "name": "Immerseus",
       },
-      Object {
+      {
         "id": 1598,
         "name": "Fallen Protectors",
       },
-      Object {
+      {
         "id": 1624,
         "name": "Norushen",
       },
-      Object {
+      {
         "id": 1604,
         "name": "Sha of Pride",
       },
-      Object {
+      {
         "id": 1622,
         "name": "Galakras",
       },
-      Object {
+      {
         "id": 1600,
         "name": "Iron Juggernaut",
       },
-      Object {
+      {
         "id": 1606,
         "name": "Kor'kron Dark Shaman",
       },
-      Object {
+      {
         "id": 1603,
         "name": "General Nazgrim",
       },
-      Object {
+      {
         "id": 1595,
         "name": "Malkorok",
       },
-      Object {
+      {
         "id": 1594,
         "name": "Spoils of Pandaria",
       },
-      Object {
+      {
         "id": 1599,
         "name": "Thok the Bloodthirsty",
       },
-      Object {
+      {
         "id": 1601,
         "name": "Siegecrafter Blackfuse",
       },
-      Object {
+      {
         "id": 1593,
         "name": "Paragons of the Klaxxi",
       },
-      Object {
+      {
         "id": 1623,
         "name": "Garrosh Hellscream",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 0,
       "name": "Mists of Pandaria",
     },
@@ -1294,88 +1294,88 @@ Array [
     "id": 5,
     "name": "Siege of Orgrimmar",
   },
-  Object {
+  {
     "brackets": null,
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 4,
         "name": "Heroic",
-        "sizes": Array [
+        "sizes": [
           25,
           10,
         ],
       },
-      Object {
+      {
         "id": 3,
         "name": "Normal",
-        "sizes": Array [
+        "sizes": [
           25,
           10,
         ],
       },
-      Object {
+      {
         "id": 1,
         "name": "LFR",
-        "sizes": Array [
+        "sizes": [
           25,
         ],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 1577,
         "name": "Jin'rokh the Breaker",
       },
-      Object {
+      {
         "id": 1575,
         "name": "Horridon",
       },
-      Object {
+      {
         "id": 1570,
         "name": "Council of Elders",
       },
-      Object {
+      {
         "id": 1565,
         "name": "Tortos",
       },
-      Object {
+      {
         "id": 1578,
         "name": "Megaera",
       },
-      Object {
+      {
         "id": 1573,
         "name": "Ji-Kun",
       },
-      Object {
+      {
         "id": 1572,
         "name": "Durumu the Forgotten",
       },
-      Object {
+      {
         "id": 1574,
         "name": "Primordius",
       },
-      Object {
+      {
         "id": 1576,
         "name": "Dark Animus",
       },
-      Object {
+      {
         "id": 1559,
         "name": "Iron Qon",
       },
-      Object {
+      {
         "id": 1560,
         "name": "Twin Empyreans",
       },
-      Object {
+      {
         "id": 1579,
         "name": "Lei Shen",
       },
-      Object {
+      {
         "id": 1580,
         "name": "Ra-den",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 0,
       "name": "Mists of Pandaria",
     },
@@ -1383,57 +1383,57 @@ Array [
     "id": 4,
     "name": "Throne of Thunder",
   },
-  Object {
-    "brackets": Object {
+  {
+    "brackets": {
       "bucket": 0.1,
       "max": 6.2,
       "min": 6,
       "type": "Patch",
     },
-    "difficulties": Array [
-      Object {
+    "difficulties": [
+      {
         "id": 10,
         "name": "Dungeon",
-        "sizes": Array [
+        "sizes": [
           5,
         ],
       },
     ],
-    "encounters": Array [
-      Object {
+    "encounters": [
+      {
         "id": 11182,
         "name": "Auchindoun",
       },
-      Object {
+      {
         "id": 11175,
         "name": "Bloodmaul Slag Mines",
       },
-      Object {
+      {
         "id": 11208,
         "name": "Grimrail Depot",
       },
-      Object {
+      {
         "id": 11195,
         "name": "Iron Docks",
       },
-      Object {
+      {
         "id": 11176,
         "name": "Shadowmoon Burial Grounds",
       },
-      Object {
+      {
         "id": 11209,
         "name": "Skyreach",
       },
-      Object {
+      {
         "id": 11279,
         "name": "The Everbloom",
       },
-      Object {
+      {
         "id": 11358,
         "name": "Upper Blackrock Spire",
       },
     ],
-    "expansion": Object {
+    "expansion": {
       "id": 1,
       "name": "Warlords of Draenor",
     },

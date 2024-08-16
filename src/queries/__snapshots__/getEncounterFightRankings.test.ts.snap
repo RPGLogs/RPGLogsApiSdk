@@ -1,18 +1,18 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`returns data 1`] = `
-Object {
-  "fightRankings": Object {
+{
+  "fightRankings": {
     "count": 50,
     "hasMorePages": true,
     "page": 1,
-    "rankings": Array [
-      Object {
+    "rankings": [
+      {
         "bracketData": 478.85,
         "damageTaken": 24805168,
         "deaths": 0,
         "duration": 75052,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 6956,
           "name": "Honestly",
@@ -20,12 +20,12 @@ Object {
         "healers": 0,
         "melee": 3,
         "ranged": 16,
-        "report": Object {
+        "report": {
           "code": "nhjg1p4kBMr39GYz",
           "fightID": 28,
           "startTime": 1599383830672,
         },
-        "server": Object {
+        "server": {
           "id": 99,
           "name": "Frostmourne",
           "region": "US",
@@ -33,12 +33,12 @@ Object {
         "startTime": 1599388705134,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 479.45,
         "damageTaken": 39292516,
         "deaths": 7,
         "duration": 79259,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 369203,
           "name": "Reaction",
@@ -46,12 +46,12 @@ Object {
         "healers": 0,
         "melee": 7,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "ANw6Fynq8W3P1Bkg",
           "fightID": 15,
           "startTime": 1602092886405,
         },
-        "server": Object {
+        "server": {
           "id": 304,
           "name": "Kazzak",
           "region": "EU",
@@ -59,12 +59,12 @@ Object {
         "startTime": 1602097935818,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 480.25,
         "damageTaken": 35081151,
         "deaths": 2,
         "duration": 80280,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 395,
           "name": "Vindicatum",
@@ -72,12 +72,12 @@ Object {
         "healers": 0,
         "melee": 7,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "XNyTkmDGWQaxjVH7",
           "fightID": 57,
           "startTime": 1601251210248,
         },
-        "server": Object {
+        "server": {
           "id": 122,
           "name": "Icecrown",
           "region": "US",
@@ -85,12 +85,12 @@ Object {
         "startTime": 1601265597400,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 479.15,
         "damageTaken": 41660316,
         "deaths": 6,
         "duration": 81192,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 12337,
           "name": "Fused",
@@ -98,12 +98,12 @@ Object {
         "healers": 0,
         "melee": 8,
         "ranged": 11,
-        "report": Object {
+        "report": {
           "code": "MaqL183nhkw4gTAW",
           "fightID": 50,
           "startTime": 1595981346954,
         },
-        "server": Object {
+        "server": {
           "id": 123,
           "name": "Illidan",
           "region": "US",
@@ -111,12 +111,12 @@ Object {
         "startTime": 1595992634128,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 479.6,
         "damageTaken": 40512978,
         "deaths": 12,
         "duration": 82696,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 100393,
           "name": "xD",
@@ -124,12 +124,12 @@ Object {
         "healers": 0,
         "melee": 7,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "tgcC7qx94bZGQBdz",
           "fightID": 24,
           "startTime": 1600908513332,
         },
-        "server": Object {
+        "server": {
           "id": 18,
           "name": "Area 52",
           "region": "US",
@@ -137,12 +137,12 @@ Object {
         "startTime": 1600912630524,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 478.55,
         "damageTaken": 32061090,
         "deaths": 4,
         "duration": 83670,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 507188,
           "name": "poptart corndoG",
@@ -150,12 +150,12 @@ Object {
         "healers": 0,
         "melee": 5,
         "ranged": 14,
-        "report": Object {
+        "report": {
           "code": "kLPfV8d6xvcDJWb4",
           "fightID": 33,
           "startTime": 1595989753024,
         },
-        "server": Object {
+        "server": {
           "id": 222,
           "name": "Tichondrius",
           "region": "US",
@@ -163,12 +163,12 @@ Object {
         "startTime": 1595996370298,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 479.4,
         "damageTaken": 39267370,
         "deaths": 7,
         "duration": 84531,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 350026,
           "name": "Northern Sky",
@@ -176,12 +176,12 @@ Object {
         "healers": 0,
         "melee": 4,
         "ranged": 15,
-        "report": Object {
+        "report": {
           "code": "JKgMDzC3dtHa4vRp",
           "fightID": 3,
           "startTime": 1594315918743,
         },
-        "server": Object {
+        "server": {
           "id": 406,
           "name": "Blackhand",
           "region": "EU",
@@ -189,12 +189,12 @@ Object {
         "startTime": 1594316480681,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 478.8,
         "damageTaken": 39916866,
         "deaths": 7,
         "duration": 84748,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 230717,
           "name": "Elicit",
@@ -202,12 +202,12 @@ Object {
         "healers": 0,
         "melee": 5,
         "ranged": 14,
-        "report": Object {
+        "report": {
           "code": "yZTGgNmD2K1LQaAM",
           "fightID": 25,
           "startTime": 1599643158795,
         },
-        "server": Object {
+        "server": {
           "id": 99,
           "name": "Frostmourne",
           "region": "US",
@@ -215,12 +215,12 @@ Object {
         "startTime": 1599647126127,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 479.4,
         "damageTaken": 46609457,
         "deaths": 5,
         "duration": 86571,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 381999,
           "name": "Virtual",
@@ -228,12 +228,12 @@ Object {
         "healers": 0,
         "melee": 7,
         "ranged": 11,
-        "report": Object {
+        "report": {
           "code": "CHWygGNMXVQx6z9p",
           "fightID": 25,
           "startTime": 1596042456157,
         },
-        "server": Object {
+        "server": {
           "id": 350,
           "name": "Twisting Nether",
           "region": "EU",
@@ -241,12 +241,12 @@ Object {
         "startTime": 1596046022034,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.35,
         "damageTaken": 48402992,
         "deaths": 0,
         "duration": 88762,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 10210,
           "name": "Colour",
@@ -254,12 +254,12 @@ Object {
         "healers": 2,
         "melee": 4,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "rRDpj62cP9KHtdz4",
           "fightID": 8,
           "startTime": 1596131696761,
         },
-        "server": Object {
+        "server": {
           "id": 335,
           "name": "Stormreaver",
           "region": "EU",
@@ -267,12 +267,12 @@ Object {
         "startTime": 1596132271526,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.6,
         "damageTaken": 49251366,
         "deaths": 2,
         "duration": 90661,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 461134,
           "name": "Райдо",
@@ -280,12 +280,12 @@ Object {
         "healers": 1,
         "melee": 6,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "VNp82PR7Gvyc439X",
           "fightID": 20,
           "startTime": 1595438120565,
         },
-        "server": Object {
+        "server": {
           "id": 495,
           "name": "Ревущий фьорд",
           "region": "EU",
@@ -293,12 +293,12 @@ Object {
         "startTime": 1595444538236,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 478.65,
         "damageTaken": 54132102,
         "deaths": 1,
         "duration": 91570,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 361199,
           "name": "Casual Raiders",
@@ -306,12 +306,12 @@ Object {
         "healers": 1,
         "melee": 6,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "wpTWNgaHZB42Lvb7",
           "fightID": 5,
           "startTime": 1594057995089,
         },
-        "server": Object {
+        "server": {
           "id": 340,
           "name": "Tarren Mill",
           "region": "EU",
@@ -319,12 +319,12 @@ Object {
         "startTime": 1594060328603,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 479.55,
         "damageTaken": 45802004,
         "deaths": 1,
         "duration": 93932,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 19537,
           "name": "Spike Flail",
@@ -332,12 +332,12 @@ Object {
         "healers": 0,
         "melee": 6,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "HF8y6dZLpVkvafP7",
           "fightID": 9,
           "startTime": 1594943726488,
         },
-        "server": Object {
+        "server": {
           "id": 150,
           "name": "Mal'Ganis",
           "region": "US",
@@ -345,12 +345,12 @@ Object {
         "startTime": 1594950103099,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 480.1,
         "damageTaken": 49941538,
         "deaths": 1,
         "duration": 94913,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 87928,
           "name": "Инвинсибл",
@@ -358,12 +358,12 @@ Object {
         "healers": 1,
         "melee": 7,
         "ranged": 11,
-        "report": Object {
+        "report": {
           "code": "ZTLtQ3vAx8PrdC2R",
           "fightID": 36,
           "startTime": 1600884251175,
         },
-        "server": Object {
+        "server": {
           "id": 488,
           "name": "Гордунни",
           "region": "EU",
@@ -371,12 +371,12 @@ Object {
         "startTime": 1600892606422,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 479.75,
         "damageTaken": 64320473,
         "deaths": 7,
         "duration": 97166,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 492201,
           "name": "Sanity",
@@ -384,12 +384,12 @@ Object {
         "healers": 1,
         "melee": 5,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "ZCgQJ1PLp9HG3vat",
           "fightID": 24,
           "startTime": 1597859595003,
         },
-        "server": Object {
+        "server": {
           "id": 283,
           "name": "Draenor",
           "region": "EU",
@@ -397,12 +397,12 @@ Object {
         "startTime": 1597865114149,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 480.15,
         "damageTaken": 43694885,
         "deaths": 4,
         "duration": 99000,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 473786,
           "name": "ad hoc",
@@ -410,12 +410,12 @@ Object {
         "healers": 0,
         "melee": 8,
         "ranged": 10,
-        "report": Object {
+        "report": {
           "code": "pTRtmQJgHdWLGBCq",
           "fightID": 35,
           "startTime": 1599695977604,
         },
-        "server": Object {
+        "server": {
           "id": 206,
           "name": "Stormrage",
           "region": "US",
@@ -423,12 +423,12 @@ Object {
         "startTime": 1599701610136,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.75,
         "damageTaken": 50121884,
         "deaths": 8,
         "duration": 99295,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 448946,
           "name": "Consequence",
@@ -436,12 +436,12 @@ Object {
         "healers": 0,
         "melee": 5,
         "ranged": 13,
-        "report": Object {
+        "report": {
           "code": "Y4bT1Fv7HZR36Ajz",
           "fightID": 30,
           "startTime": 1597799310848,
         },
-        "server": Object {
+        "server": {
           "id": 206,
           "name": "Stormrage",
           "region": "US",
@@ -449,12 +449,12 @@ Object {
         "startTime": 1597803994006,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 478.25,
         "damageTaken": 60939426,
         "deaths": 2,
         "duration": 99798,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 372899,
           "name": "Counting Globals",
@@ -462,12 +462,12 @@ Object {
         "healers": 1,
         "melee": 5,
         "ranged": 13,
-        "report": Object {
+        "report": {
           "code": "XB2AmpYq7djT4FnN",
           "fightID": 2,
           "startTime": 1592503155689,
         },
-        "server": Object {
+        "server": {
           "id": 304,
           "name": "Kazzak",
           "region": "EU",
@@ -475,12 +475,12 @@ Object {
         "startTime": 1592503396194,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 479.1,
         "damageTaken": 63625982,
         "deaths": 4,
         "duration": 99847,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 529369,
           "name": "Экзекьют",
@@ -488,12 +488,12 @@ Object {
         "healers": 1,
         "melee": 6,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "YhG9NJR8zf1kZm2v",
           "fightID": 44,
           "startTime": 1602090063583,
         },
-        "server": Object {
+        "server": {
           "id": 495,
           "name": "Ревущий фьорд",
           "region": "EU",
@@ -501,12 +501,12 @@ Object {
         "startTime": 1602103258015,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 478.9,
         "damageTaken": 40516110,
         "deaths": 4,
         "duration": 100821,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 514858,
           "name": "Лё Резистанс",
@@ -514,12 +514,12 @@ Object {
         "healers": 0,
         "melee": 6,
         "ranged": 13,
-        "report": Object {
+        "report": {
           "code": "LfKchndNpXGaMWxz",
           "fightID": 24,
           "startTime": 1600276432766,
         },
-        "server": Object {
+        "server": {
           "id": 488,
           "name": "Гордунни",
           "region": "EU",
@@ -527,12 +527,12 @@ Object {
         "startTime": 1600281518357,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 480.25,
         "damageTaken": 54408697,
         "deaths": 1,
         "duration": 101186,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 559813,
           "name": "燃烧之刃-黑手军团",
@@ -540,12 +540,12 @@ Object {
         "healers": 1,
         "melee": 3,
         "ranged": 15,
-        "report": Object {
+        "report": {
           "code": "L4mdfQ2zVb3gXh76",
           "fightID": 20,
           "startTime": 1602417350263,
         },
-        "server": Object {
+        "server": {
           "id": 750,
           "name": "燃烧之刃",
           "region": "CN",
@@ -553,12 +553,12 @@ Object {
         "startTime": 1602420179174,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 480.35,
         "damageTaken": 60706790,
         "deaths": 4,
         "duration": 102706,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 7731,
           "name": "永恒理想",
@@ -566,12 +566,12 @@ Object {
         "healers": 1,
         "melee": 4,
         "ranged": 13,
-        "report": Object {
+        "report": {
           "code": "MPx61KRYLbfy3mD7",
           "fightID": 19,
           "startTime": 1599739719949,
         },
-        "server": Object {
+        "server": {
           "id": 564,
           "name": "主宰之剑",
           "region": "CN",
@@ -579,12 +579,12 @@ Object {
         "startTime": 1599742644693,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.45,
         "damageTaken": 46928093,
         "deaths": 1,
         "duration": 103368,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 324679,
           "name": "it's my life",
@@ -592,12 +592,12 @@ Object {
         "healers": 1,
         "melee": 3,
         "ranged": 14,
-        "report": Object {
+        "report": {
           "code": "Mkj9YtRAvhF2WmDw",
           "fightID": 4,
           "startTime": 1599135985250,
         },
-        "server": Object {
+        "server": {
           "id": 901,
           "name": "黑铁",
           "region": "CN",
@@ -605,12 +605,12 @@ Object {
         "startTime": 1599138907272,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 478.85,
         "damageTaken": 50284567,
         "deaths": 0,
         "duration": 103985,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 22317,
           "name": "Hyped",
@@ -618,12 +618,12 @@ Object {
         "healers": 3,
         "melee": 6,
         "ranged": 9,
-        "report": Object {
+        "report": {
           "code": "z3t9LvphVaFGkRnd",
           "fightID": 39,
           "startTime": 1598551260907,
         },
-        "server": Object {
+        "server": {
           "id": 340,
           "name": "Tarren Mill",
           "region": "EU",
@@ -631,12 +631,12 @@ Object {
         "startTime": 1598559685411,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 478.5,
         "damageTaken": 59942454,
         "deaths": 3,
         "duration": 105381,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 359204,
           "name": "Big Damage",
@@ -644,12 +644,12 @@ Object {
         "healers": 1,
         "melee": 8,
         "ranged": 10,
-        "report": Object {
+        "report": {
           "code": "gzNwqybnvc6FA47m",
           "fightID": 34,
           "startTime": 1600560627912,
         },
-        "server": Object {
+        "server": {
           "id": 18,
           "name": "Area 52",
           "region": "US",
@@ -657,12 +657,12 @@ Object {
         "startTime": 1600565446976,
         "tanks": 1,
       },
-      Object {
+      {
         "bracketData": 480,
         "damageTaken": 63186548,
         "deaths": 1,
         "duration": 106139,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 20616,
           "name": "Twisted Vortex",
@@ -670,12 +670,12 @@ Object {
         "healers": 2,
         "melee": 5,
         "ranged": 11,
-        "report": Object {
+        "report": {
           "code": "aLRKmgwXc214hFjW",
           "fightID": 34,
           "startTime": 1601431189931,
         },
-        "server": Object {
+        "server": {
           "id": 25,
           "name": "Azralon",
           "region": "US",
@@ -683,12 +683,12 @@ Object {
         "startTime": 1601436081085,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 480.05,
         "damageTaken": 61139942,
         "deaths": 0,
         "duration": 107619,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 238024,
           "name": "Pescorus",
@@ -696,12 +696,12 @@ Object {
         "healers": 1,
         "melee": 8,
         "ranged": 9,
-        "report": Object {
+        "report": {
           "code": "KdbN8Rfjac3Vr9Wh",
           "fightID": 26,
           "startTime": 1602179918021,
         },
-        "server": Object {
+        "server": {
           "id": 304,
           "name": "Kazzak",
           "region": "EU",
@@ -709,12 +709,12 @@ Object {
         "startTime": 1602186428398,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 478,
         "damageTaken": 53756873,
         "deaths": 0,
         "duration": 107713,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 511071,
           "name": "endeavør",
@@ -722,12 +722,12 @@ Object {
         "healers": 1,
         "melee": 4,
         "ranged": 13,
-        "report": Object {
+        "report": {
           "code": "Fb8Jk2p4nvXh1dmx",
           "fightID": 48,
           "startTime": 1591813665454,
         },
-        "server": Object {
+        "server": {
           "id": 370,
           "name": "Hyjal",
           "region": "EU",
@@ -735,12 +735,12 @@ Object {
         "startTime": 1591823532930,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 478.95,
         "damageTaken": 59249641,
         "deaths": 2,
         "duration": 108386,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 1031,
           "name": "gn",
@@ -748,12 +748,12 @@ Object {
         "healers": 1,
         "melee": 5,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "8V4XpRLfTjqxnHNG",
           "fightID": 18,
           "startTime": 1594771326872,
         },
-        "server": Object {
+        "server": {
           "id": 150,
           "name": "Mal'Ganis",
           "region": "US",
@@ -761,12 +761,12 @@ Object {
         "startTime": 1594773216181,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.75,
         "damageTaken": 56798082,
         "deaths": 3,
         "duration": 109160,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 2046,
           "name": "Wiping As Intended",
@@ -774,12 +774,12 @@ Object {
         "healers": 2,
         "melee": 4,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "fHYWtN3d6XQCbKTF",
           "fightID": 11,
           "startTime": 1597860235994,
         },
-        "server": Object {
+        "server": {
           "id": 283,
           "name": "Draenor",
           "region": "EU",
@@ -787,12 +787,12 @@ Object {
         "startTime": 1597864184506,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.6,
         "damageTaken": 59868361,
         "deaths": 2,
         "duration": 111034,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 95321,
           "name": "Dinosaur Cowboys",
@@ -800,12 +800,12 @@ Object {
         "healers": 1,
         "melee": 7,
         "ranged": 10,
-        "report": Object {
+        "report": {
           "code": "KZ8PHhcdaQRr3VqC",
           "fightID": 22,
           "startTime": 1600819458992,
         },
-        "server": Object {
+        "server": {
           "id": 18,
           "name": "Area 52",
           "region": "US",
@@ -813,12 +813,12 @@ Object {
         "startTime": 1600824618372,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.7,
         "damageTaken": 74995122,
         "deaths": 1,
         "duration": 111078,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 54728,
           "name": "Security",
@@ -826,12 +826,12 @@ Object {
         "healers": 2,
         "melee": 8,
         "ranged": 8,
-        "report": Object {
+        "report": {
           "code": "vkw2bcTB9A6gDpYR",
           "fightID": 27,
           "startTime": 1599068032177,
         },
-        "server": Object {
+        "server": {
           "id": 340,
           "name": "Tarren Mill",
           "region": "EU",
@@ -839,12 +839,12 @@ Object {
         "startTime": 1599071885317,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 480.15,
         "damageTaken": 67279444,
         "deaths": 5,
         "duration": 111359,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 346132,
           "name": "Versatile",
@@ -852,12 +852,12 @@ Object {
         "healers": 1,
         "melee": 5,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "dWvyzrMp6VJRYjct",
           "fightID": 11,
           "startTime": 1597861735779,
         },
-        "server": Object {
+        "server": {
           "id": 329,
           "name": "Silvermoon",
           "region": "EU",
@@ -865,12 +865,12 @@ Object {
         "startTime": 1597865299440,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 480.3,
         "damageTaken": 61226004,
         "deaths": 2,
         "duration": 112244,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 494425,
           "name": "SliverHand_9.0",
@@ -878,12 +878,12 @@ Object {
         "healers": 2,
         "melee": 4,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "t6c7nyXGARrHDFMj",
           "fightID": 37,
           "startTime": 1599996676505,
         },
-        "server": Object {
+        "server": {
           "id": 770,
           "name": "白银之手",
           "region": "CN",
@@ -891,12 +891,12 @@ Object {
         "startTime": 1600001372148,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.95,
         "damageTaken": 54435935,
         "deaths": 0,
         "duration": 112521,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 517468,
           "name": "Ookers",
@@ -904,12 +904,12 @@ Object {
         "healers": 2,
         "melee": 3,
         "ranged": 13,
-        "report": Object {
+        "report": {
           "code": "TnJkQ8m9Lg3aCX6B",
           "fightID": 27,
           "startTime": 1600215549400,
         },
-        "server": Object {
+        "server": {
           "id": 123,
           "name": "Illidan",
           "region": "US",
@@ -917,12 +917,12 @@ Object {
         "startTime": 1600223364149,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.6,
         "damageTaken": 62122766,
         "deaths": 5,
         "duration": 112999,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 493088,
           "name": "Imagine Progress",
@@ -930,12 +930,12 @@ Object {
         "healers": 1,
         "melee": 4,
         "ranged": 13,
-        "report": Object {
+        "report": {
           "code": "kF9g72WxLQtdfTYZ",
           "fightID": 9,
           "startTime": 1597802457301,
         },
-        "server": Object {
+        "server": {
           "id": 150,
           "name": "Mal'Ganis",
           "region": "US",
@@ -943,12 +943,12 @@ Object {
         "startTime": 1597807128496,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.2,
         "damageTaken": 63221234,
         "deaths": 4,
         "duration": 113314,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 28064,
           "name": "Slack",
@@ -956,12 +956,12 @@ Object {
         "healers": 2,
         "melee": 5,
         "ranged": 11,
-        "report": Object {
+        "report": {
           "code": "GBMzj7md3Z2ALFtf",
           "fightID": 46,
           "startTime": 1599058650697,
         },
-        "server": Object {
+        "server": {
           "id": 335,
           "name": "Stormreaver",
           "region": "EU",
@@ -969,12 +969,12 @@ Object {
         "startTime": 1599065817725,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.45,
         "damageTaken": 69866417,
         "deaths": 8,
         "duration": 114533,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 195039,
           "name": "Legends of Hell",
@@ -982,12 +982,12 @@ Object {
         "healers": 1,
         "melee": 5,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "a9MyGj4WqbnTYZgv",
           "fightID": 29,
           "startTime": 1600880952542,
         },
-        "server": Object {
+        "server": {
           "id": 408,
           "name": "Blackrock",
           "region": "EU",
@@ -995,12 +995,12 @@ Object {
         "startTime": 1600887312996,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.85,
         "damageTaken": 65207254,
         "deaths": 0,
         "duration": 114653,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 10239,
           "name": "Vex Thal",
@@ -1008,12 +1008,12 @@ Object {
         "healers": 2,
         "melee": 5,
         "ranged": 11,
-        "report": Object {
+        "report": {
           "code": "2wVxLGWQpXCn8qYy",
           "fightID": 16,
           "startTime": 1597254707642,
         },
-        "server": Object {
+        "server": {
           "id": 336,
           "name": "Stormscale",
           "region": "EU",
@@ -1021,12 +1021,12 @@ Object {
         "startTime": 1597256514282,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.6,
         "damageTaken": 75958436,
         "deaths": 4,
         "duration": 115296,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 278849,
           "name": "Early Night",
@@ -1034,12 +1034,12 @@ Object {
         "healers": 2,
         "melee": 4,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "mxvkAbzHr2wVWC3t",
           "fightID": 29,
           "startTime": 1595413045972,
         },
-        "server": Object {
+        "server": {
           "id": 99,
           "name": "Frostmourne",
           "region": "US",
@@ -1047,12 +1047,12 @@ Object {
         "startTime": 1595418143712,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 478.95,
         "damageTaken": 63051900,
         "deaths": 1,
         "duration": 115361,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 432379,
           "name": "Origin",
@@ -1060,12 +1060,12 @@ Object {
         "healers": 1,
         "melee": 8,
         "ranged": 9,
-        "report": Object {
+        "report": {
           "code": "PJFAXVbtvB7C6zLn",
           "fightID": 7,
           "startTime": 1599504998633,
         },
-        "server": Object {
+        "server": {
           "id": 384,
           "name": "Sargeras",
           "region": "EU",
@@ -1073,12 +1073,12 @@ Object {
         "startTime": 1599506541353,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.35,
         "damageTaken": 70641973,
         "deaths": 1,
         "duration": 116393,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 11917,
           "name": "傲  血  荣  耀",
@@ -1086,12 +1086,12 @@ Object {
         "healers": 2,
         "melee": 5,
         "ranged": 11,
-        "report": Object {
+        "report": {
           "code": "rwKdpBQnc62ZqCyA",
           "fightID": 5,
           "startTime": 1597321198448,
         },
-        "server": Object {
+        "server": {
           "id": 676,
           "name": "影之哀伤",
           "region": "CN",
@@ -1099,12 +1099,12 @@ Object {
         "startTime": 1597323156136,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 479.45,
         "damageTaken": 65491807,
         "deaths": 2,
         "duration": 116679,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 452113,
           "name": "Ethical",
@@ -1112,12 +1112,12 @@ Object {
         "healers": 3,
         "melee": 5,
         "ranged": 10,
-        "report": Object {
+        "report": {
           "code": "PHjdTrc3gpbDwvMG",
           "fightID": 13,
           "startTime": 1597224493534,
         },
-        "server": Object {
+        "server": {
           "id": 99,
           "name": "Frostmourne",
           "region": "US",
@@ -1125,12 +1125,12 @@ Object {
         "startTime": 1597226021024,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 480.05,
         "damageTaken": 64885019,
         "deaths": 8,
         "duration": 117703,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 313476,
           "name": "Aurora RF1",
@@ -1138,12 +1138,12 @@ Object {
         "healers": 1,
         "melee": 5,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "RJbK2fXNC3wVM468",
           "fightID": 25,
           "startTime": 1597844330793,
         },
-        "server": Object {
+        "server": {
           "id": 575,
           "name": "克尔苏加德",
           "region": "CN",
@@ -1151,12 +1151,12 @@ Object {
         "startTime": 1597935220932,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 480.3,
         "damageTaken": 62789294,
         "deaths": 0,
         "duration": 118349,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 74255,
           "name": "Blur",
@@ -1164,12 +1164,12 @@ Object {
         "healers": 2,
         "melee": 5,
         "ranged": 11,
-        "report": Object {
+        "report": {
           "code": "bmtGxrL2aYZBN9cn",
           "fightID": 1,
           "startTime": 1599619275816,
         },
-        "server": Object {
+        "server": {
           "id": 222,
           "name": "Tichondrius",
           "region": "US",
@@ -1177,12 +1177,12 @@ Object {
         "startTime": 1599619317148,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 478.8,
         "damageTaken": 72650401,
         "deaths": 6,
         "duration": 118399,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 76908,
           "name": "The Great Adventure",
@@ -1190,12 +1190,12 @@ Object {
         "healers": 1,
         "melee": 7,
         "ranged": 10,
-        "report": Object {
+        "report": {
           "code": "Kcvxg4DXtT61rmGV",
           "fightID": 13,
           "startTime": 1597795334136,
         },
-        "server": Object {
+        "server": {
           "id": 57,
           "name": "Dalaran",
           "region": "US",
@@ -1203,12 +1203,12 @@ Object {
         "startTime": 1597805700213,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 480.15,
         "damageTaken": 72202052,
         "deaths": 3,
         "duration": 118603,
-        "guild": Object {
+        "guild": {
           "faction": 0,
           "id": 3929,
           "name": "Vision",
@@ -1216,12 +1216,12 @@ Object {
         "healers": 2,
         "melee": 7,
         "ranged": 9,
-        "report": Object {
+        "report": {
           "code": "bYBtgLT8vKy1j9zG",
           "fightID": 25,
           "startTime": 1597173805223,
         },
-        "server": Object {
+        "server": {
           "id": 219,
           "name": "Thrall",
           "region": "US",
@@ -1229,12 +1229,12 @@ Object {
         "startTime": 1597187897263,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 480.45,
         "damageTaken": 59133836,
         "deaths": 1,
         "duration": 119097,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 563170,
           "name": "Oblivion",
@@ -1242,12 +1242,12 @@ Object {
         "healers": 2,
         "melee": 4,
         "ranged": 12,
-        "report": Object {
+        "report": {
           "code": "B87CVQDngtdvWMAG",
           "fightID": 18,
           "startTime": 1600361500824,
         },
-        "server": Object {
+        "server": {
           "id": 408,
           "name": "Blackrock",
           "region": "EU",
@@ -1255,12 +1255,12 @@ Object {
         "startTime": 1600364358696,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 480.15,
         "damageTaken": 57537737,
         "deaths": 1,
         "duration": 119143,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 476272,
           "name": "stay hydrated",
@@ -1268,12 +1268,12 @@ Object {
         "healers": 2,
         "melee": 6,
         "ranged": 10,
-        "report": Object {
+        "report": {
           "code": "an9JFfchGjrWAw6M",
           "fightID": 6,
           "startTime": 1600279540372,
         },
-        "server": Object {
+        "server": {
           "id": 469,
           "name": "Thrall",
           "region": "EU",
@@ -1281,12 +1281,12 @@ Object {
         "startTime": 1600281182175,
         "tanks": 2,
       },
-      Object {
+      {
         "bracketData": 480,
         "damageTaken": 67016397,
         "deaths": 0,
         "duration": 119150,
-        "guild": Object {
+        "guild": {
           "faction": 1,
           "id": 363022,
           "name": "永恒归宿WCL",
@@ -1294,12 +1294,12 @@ Object {
         "healers": 3,
         "melee": 5,
         "ranged": 10,
-        "report": Object {
+        "report": {
           "code": "NCbAn9m2f7BaFckp",
           "fightID": 6,
           "startTime": 1598961513701,
         },
-        "server": Object {
+        "server": {
           "id": 837,
           "name": "达尔坎",
           "region": "CN",

@@ -1,11 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`returns data 1`] = `
-Object {
+{
   "code": "cFZ274xvNgTbLXCj",
-  "events": Object {
-    "data": Array [
-      Object {
+  "events": {
+    "data": [
+      {
         "abilityGameID": 422691,
         "fight": 26,
         "sourceID": 135,
@@ -13,13 +13,13 @@ Object {
         "timestamp": 4247776,
         "type": "begincast",
       },
-      Object {
+      {
         "abilityGameID": 422691,
         "absorb": 0,
         "armor": 5024,
         "attackPower": 0,
-        "classResources": Array [
-          Object {
+        "classResources": [
+          {
             "amount": 43,
             "max": 100,
             "type": 3,
@@ -40,7 +40,7 @@ Object {
         "x": -1311624,
         "y": 403040,
       },
-      Object {
+      {
         "abilityGameID": 422691,
         "fight": 26,
         "sourceID": 135,
@@ -48,13 +48,13 @@ Object {
         "timestamp": 4272723,
         "type": "begincast",
       },
-      Object {
+      {
         "abilityGameID": 422691,
         "absorb": 0,
         "armor": 5024,
         "attackPower": 0,
-        "classResources": Array [
-          Object {
+        "classResources": [
+          {
             "amount": 83,
             "max": 100,
             "type": 3,
@@ -75,7 +75,7 @@ Object {
         "x": -1313361,
         "y": 403347,
       },
-      Object {
+      {
         "abilityGameID": 422823,
         "absorbed": 660556,
         "amount": 0,
@@ -88,7 +88,7 @@ Object {
         "type": "damage",
         "unmitigatedAmount": 759841,
       },
-      Object {
+      {
         "abilityGameID": 422691,
         "fight": 26,
         "sourceID": 135,
@@ -96,13 +96,13 @@ Object {
         "timestamp": 4346357,
         "type": "begincast",
       },
-      Object {
+      {
         "abilityGameID": 422691,
         "absorb": 0,
         "armor": 5024,
         "attackPower": 0,
-        "classResources": Array [
-          Object {
+        "classResources": [
+          {
             "amount": 43,
             "max": 100,
             "type": 3,
@@ -123,7 +123,7 @@ Object {
         "x": -1314935,
         "y": 406635,
       },
-      Object {
+      {
         "abilityGameID": 422691,
         "fight": 26,
         "sourceID": 135,
@@ -131,13 +131,13 @@ Object {
         "timestamp": 4371330,
         "type": "begincast",
       },
-      Object {
+      {
         "abilityGameID": 422691,
         "absorb": 0,
         "armor": 5024,
         "attackPower": 0,
-        "classResources": Array [
-          Object {
+        "classResources": [
+          {
             "amount": 85,
             "max": 100,
             "type": 3,
@@ -158,15 +158,15 @@ Object {
         "x": -1314114,
         "y": 409084,
       },
-      Object {
+      {
         "abilityGameID": 422823,
         "absorb": 0,
         "absorbed": 515414,
         "amount": 74962,
         "armor": 58996,
         "attackPower": 25766,
-        "classResources": Array [
-          Object {
+        "classResources": [
+          {
             "amount": 67,
             "max": 120,
             "type": 17,
@@ -190,7 +190,7 @@ Object {
         "x": -1314484,
         "y": 410114,
       },
-      Object {
+      {
         "abilityGameID": 422691,
         "fight": 26,
         "sourceID": 135,
@@ -198,13 +198,13 @@ Object {
         "timestamp": 4444732,
         "type": "begincast",
       },
-      Object {
+      {
         "abilityGameID": 422691,
         "absorb": 0,
         "armor": 5024,
         "attackPower": 0,
-        "classResources": Array [
-          Object {
+        "classResources": [
+          {
             "amount": 44,
             "max": 100,
             "type": 3,
@@ -225,7 +225,7 @@ Object {
         "x": -1310398,
         "y": 409370,
       },
-      Object {
+      {
         "abilityGameID": 422691,
         "amount": 0,
         "fight": 26,
@@ -235,7 +235,7 @@ Object {
         "timestamp": 4446732,
         "type": "damage",
       },
-      Object {
+      {
         "abilityGameID": 422691,
         "fight": 26,
         "sourceID": 135,
@@ -243,13 +243,13 @@ Object {
         "timestamp": 4469731,
         "type": "begincast",
       },
-      Object {
+      {
         "abilityGameID": 422691,
         "absorb": 0,
         "armor": 5024,
         "attackPower": 0,
-        "classResources": Array [
-          Object {
+        "classResources": [
+          {
             "amount": 85,
             "max": 100,
             "type": 3,

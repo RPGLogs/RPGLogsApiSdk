@@ -1,10 +1,10 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`returns data 1`] = `
-Object {
+{
   "code": "pJTWtB8Yj4F1rc9Q",
-  "fights": Array [
-    Object {
+  "fights": [
+    {
       "averageItemLevel": 226.4736785888672,
       "bossPercentage": null,
       "completeRaid": false,
@@ -12,36 +12,36 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 158791,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 168337,
           "groupCount": 1,
           "id": 25,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173446,
           "groupCount": 1,
           "id": 27,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173444,
           "groupCount": 1,
           "id": 24,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173445,
           "groupCount": 1,
           "id": 26,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -79,7 +79,7 @@ Object {
       "startTime": 117046,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.4736785888672,
       "bossPercentage": null,
       "completeRaid": false,
@@ -87,30 +87,30 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 182419,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 168337,
           "groupCount": 1,
           "id": 25,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 164406,
           "groupCount": 1,
           "id": 46,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173446,
           "groupCount": 1,
           "id": 27,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -148,7 +148,7 @@ Object {
       "startTime": 163633,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.5500030517578,
       "bossPercentage": 0.01,
       "completeRaid": false,
@@ -156,18 +156,18 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2398,
       "endTime": 516005,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 164406,
           "groupCount": 1,
           "id": 46,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 0.01,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -199,8 +199,8 @@ Object {
       "lastPhase": 1,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1735,
         },
       ],
@@ -210,7 +210,7 @@ Object {
       "startTime": 336592,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.89999389648438,
       "bossPercentage": null,
       "completeRaid": false,
@@ -218,78 +218,78 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 758756,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 174338,
           "groupCount": 1,
           "id": 86,
           "instanceCount": 7,
         },
-        Object {
+        {
           "gameID": 174336,
           "groupCount": 1,
           "id": 85,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 174070,
           "groupCount": 2,
           "id": 95,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 174071,
           "groupCount": 1,
           "id": 93,
           "instanceCount": 4,
         },
-        Object {
+        {
           "gameID": 173189,
           "groupCount": 3,
           "id": 90,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 173973,
           "groupCount": 1,
           "id": 87,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 174069,
           "groupCount": 1,
           "id": 94,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 165066,
           "groupCount": 1,
           "id": 50,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 174092,
           "groupCount": 1,
           "id": 84,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 173949,
           "groupCount": 1,
           "id": 89,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 174141,
           "groupCount": 2,
           "id": 91,
           "instanceCount": 7,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -328,7 +328,7 @@ Object {
       "startTime": 654584,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.25,
       "bossPercentage": null,
       "completeRaid": false,
@@ -336,24 +336,24 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 808047,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 165066,
           "groupCount": 1,
           "id": 50,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 165067,
           "groupCount": 1,
           "id": 51,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -392,7 +392,7 @@ Object {
       "startTime": 802120,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.9166717529297,
       "bossPercentage": null,
       "completeRaid": false,
@@ -400,24 +400,24 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 881223,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 165066,
           "groupCount": 1,
           "id": 50,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 165067,
           "groupCount": 1,
           "id": 51,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -456,7 +456,7 @@ Object {
       "startTime": 872662,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.9499969482422,
       "bossPercentage": 9.9,
       "completeRaid": false,
@@ -464,67 +464,67 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2418,
       "endTime": 1154859,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 169458,
           "groupCount": 1,
           "id": 103,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169457,
           "groupCount": 1,
           "id": 99,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 171557,
           "groupCount": 1,
           "id": 101,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 165066,
           "groupCount": 1,
           "id": 50,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 165067,
           "groupCount": 1,
           "id": 51,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 171577,
           "groupCount": 2,
           "id": 100,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 174141,
           "groupCount": 1,
           "id": 91,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 9.9,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 173112,
           "groupCount": 2,
           "id": 102,
           "instanceCount": 11,
         },
-        Object {
+        {
           "gameID": 171577,
           "groupCount": 2,
           "id": 100,
           "instanceCount": 2,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -556,8 +556,8 @@ Object {
       "lastPhase": 3,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1735,
         },
       ],
@@ -567,7 +567,7 @@ Object {
       "startTime": 976089,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.9499969482422,
       "bossPercentage": 0.01,
       "completeRaid": false,
@@ -575,61 +575,61 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2418,
       "endTime": 1452137,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 169458,
           "groupCount": 1,
           "id": 103,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169457,
           "groupCount": 1,
           "id": 99,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 171557,
           "groupCount": 1,
           "id": 101,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 165066,
           "groupCount": 1,
           "id": 50,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 165067,
           "groupCount": 1,
           "id": 51,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 171577,
           "groupCount": 2,
           "id": 100,
           "instanceCount": 2,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 0.01,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 173112,
           "groupCount": 3,
           "id": 102,
           "instanceCount": 15,
         },
-        Object {
+        {
           "gameID": 171577,
           "groupCount": 2,
           "id": 100,
           "instanceCount": 2,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -661,8 +661,8 @@ Object {
       "lastPhase": 4,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1735,
         },
       ],
@@ -672,7 +672,7 @@ Object {
       "startTime": 1283983,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.55555725097656,
       "bossPercentage": null,
       "completeRaid": false,
@@ -680,18 +680,18 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 1500931,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 173798,
           "groupCount": 1,
           "id": 110,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         6,
         11,
         13,
@@ -720,7 +720,7 @@ Object {
       "startTime": 1499891,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.8947296142578,
       "bossPercentage": null,
       "completeRaid": false,
@@ -728,30 +728,30 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 1564428,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 174338,
           "groupCount": 1,
           "id": 86,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 174092,
           "groupCount": 1,
           "id": 84,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 174093,
           "groupCount": 1,
           "id": 83,
           "instanceCount": 2,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         45,
@@ -789,7 +789,7 @@ Object {
       "startTime": 1521058,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.88888549804688,
       "bossPercentage": 99.95,
       "completeRaid": false,
@@ -797,18 +797,18 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2399,
       "endTime": 1630195,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 164407,
           "groupCount": 1,
           "id": 111,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 99.95,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -839,8 +839,8 @@ Object {
       "lastPhase": 1,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1735,
         },
       ],
@@ -850,7 +850,7 @@ Object {
       "startTime": 1585581,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.85000610351562,
       "bossPercentage": 0.01,
       "completeRaid": false,
@@ -858,18 +858,18 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2399,
       "endTime": 2327628,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 164407,
           "groupCount": 1,
           "id": 111,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 0.01,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -901,8 +901,8 @@ Object {
       "lastPhase": 1,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1735,
         },
       ],
@@ -912,7 +912,7 @@ Object {
       "startTime": 1993348,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.3125,
       "bossPercentage": null,
       "completeRaid": false,
@@ -920,30 +920,30 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 2533587,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 173280,
           "groupCount": 2,
           "id": 138,
           "instanceCount": 7,
         },
-        Object {
+        {
           "gameID": 173178,
           "groupCount": 1,
           "id": 137,
           "instanceCount": 4,
         },
-        Object {
+        {
           "gameID": 173276,
           "groupCount": 3,
           "id": 139,
           "instanceCount": 7,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -978,7 +978,7 @@ Object {
       "startTime": 2433334,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.94444274902344,
       "bossPercentage": null,
       "completeRaid": false,
@@ -986,30 +986,30 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 2721048,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 168112,
           "groupCount": 1,
           "id": 142,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 168113,
           "groupCount": 1,
           "id": 152,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 172858,
           "groupCount": 1,
           "id": 151,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -1048,7 +1048,7 @@ Object {
       "startTime": 2713890,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.0500030517578,
       "bossPercentage": 48.91,
       "completeRaid": false,
@@ -1056,61 +1056,61 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2417,
       "endTime": 3151265,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 168112,
           "groupCount": 1,
           "id": 142,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 168113,
           "groupCount": 1,
           "id": 152,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169601,
           "groupCount": 4,
           "id": 156,
           "instanceCount": 20,
         },
-        Object {
+        {
           "gameID": 172858,
           "groupCount": 4,
           "id": 151,
           "instanceCount": 6,
         },
-        Object {
+        {
           "gameID": 175102,
           "groupCount": 6,
           "id": 159,
           "instanceCount": 6,
         },
-        Object {
+        {
           "gameID": 174335,
           "groupCount": 5,
           "id": 153,
           "instanceCount": 15,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 48.91,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 170404,
           "groupCount": 3,
           "id": 145,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169835,
           "groupCount": 5,
           "id": 143,
           "instanceCount": 1,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -1142,8 +1142,8 @@ Object {
       "lastPhase": 2,
       "lastPhaseIsIntermission": true,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1747,
         },
       ],
@@ -1153,7 +1153,7 @@ Object {
       "startTime": 2757321,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.0500030517578,
       "bossPercentage": 48.6,
       "completeRaid": false,
@@ -1161,61 +1161,61 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2417,
       "endTime": 3653198,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 168112,
           "groupCount": 1,
           "id": 142,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 168113,
           "groupCount": 1,
           "id": 152,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169601,
           "groupCount": 4,
           "id": 156,
           "instanceCount": 20,
         },
-        Object {
+        {
           "gameID": 172858,
           "groupCount": 2,
           "id": 151,
           "instanceCount": 6,
         },
-        Object {
+        {
           "gameID": 175102,
           "groupCount": 5,
           "id": 159,
           "instanceCount": 5,
         },
-        Object {
+        {
           "gameID": 174335,
           "groupCount": 3,
           "id": 153,
           "instanceCount": 15,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 48.6,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 170404,
           "groupCount": 3,
           "id": 145,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169835,
           "groupCount": 4,
           "id": 143,
           "instanceCount": 1,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -1247,8 +1247,8 @@ Object {
       "lastPhase": 2,
       "lastPhaseIsIntermission": true,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1747,
         },
       ],
@@ -1258,7 +1258,7 @@ Object {
       "startTime": 3288859,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.0500030517578,
       "bossPercentage": 0.01,
       "completeRaid": false,
@@ -1266,61 +1266,61 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2417,
       "endTime": 4247411,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 168112,
           "groupCount": 1,
           "id": 142,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 168113,
           "groupCount": 1,
           "id": 152,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169601,
           "groupCount": 4,
           "id": 156,
           "instanceCount": 21,
         },
-        Object {
+        {
           "gameID": 172858,
           "groupCount": 3,
           "id": 151,
           "instanceCount": 6,
         },
-        Object {
+        {
           "gameID": 175102,
           "groupCount": 9,
           "id": 159,
           "instanceCount": 9,
         },
-        Object {
+        {
           "gameID": 174335,
           "groupCount": 4,
           "id": 153,
           "instanceCount": 21,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 0.01,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 170404,
           "groupCount": 4,
           "id": 145,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169835,
           "groupCount": 7,
           "id": 143,
           "instanceCount": 1,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -1352,8 +1352,8 @@ Object {
       "lastPhase": 3,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1747,
         },
       ],
@@ -1363,7 +1363,7 @@ Object {
       "startTime": 3745337,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.1666717529297,
       "bossPercentage": null,
       "completeRaid": false,
@@ -1371,24 +1371,24 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 4247635,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 168112,
           "groupCount": 1,
           "id": 142,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 168113,
           "groupCount": 1,
           "id": 152,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -1426,7 +1426,7 @@ Object {
       "startTime": 4247522,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.9499969482422,
       "bossPercentage": 64.64,
       "completeRaid": false,
@@ -1434,79 +1434,79 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2407,
       "endTime": 5103841,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 175205,
           "groupCount": 1,
           "id": 178,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 169813,
           "groupCount": 1,
           "id": 179,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173162,
           "groupCount": 1,
           "id": 174,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173163,
           "groupCount": 2,
           "id": 175,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173161,
           "groupCount": 1,
           "id": 177,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167406,
           "groupCount": 1,
           "id": 165,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 168158,
           "groupCount": 4,
           "id": 173,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167999,
           "groupCount": 6,
           "id": 171,
           "instanceCount": 60,
         },
-        Object {
+        {
           "gameID": 168156,
           "groupCount": 3,
           "id": 169,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173164,
           "groupCount": 2,
           "id": 176,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 64.64,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 168474,
           "groupCount": 6,
           "id": 172,
           "instanceCount": 18,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -1538,11 +1538,11 @@ Object {
       "lastPhase": 2,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1747,
         },
-        Object {
+        {
           "id": 1748,
         },
       ],
@@ -1552,7 +1552,7 @@ Object {
       "startTime": 4849171,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.9499969482422,
       "bossPercentage": 8.94,
       "completeRaid": false,
@@ -1560,97 +1560,97 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2407,
       "endTime": 5771641,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 175205,
           "groupCount": 1,
           "id": 178,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 173162,
           "groupCount": 1,
           "id": 174,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173163,
           "groupCount": 2,
           "id": 175,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173161,
           "groupCount": 1,
           "id": 177,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167406,
           "groupCount": 1,
           "id": 165,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173164,
           "groupCount": 2,
           "id": 176,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169196,
           "groupCount": 2,
           "id": 181,
           "instanceCount": 8,
         },
-        Object {
+        {
           "gameID": 170710,
           "groupCount": 3,
           "id": 184,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 169813,
           "groupCount": 5,
           "id": 179,
           "instanceCount": 5,
         },
-        Object {
+        {
           "gameID": 168158,
           "groupCount": 3,
           "id": 173,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169470,
           "groupCount": 1,
           "id": 182,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167999,
           "groupCount": 6,
           "id": 171,
           "instanceCount": 59,
         },
-        Object {
+        {
           "gameID": 168156,
           "groupCount": 3,
           "id": 169,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 8.94,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 168474,
           "groupCount": 6,
           "id": 172,
           "instanceCount": 18,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -1682,11 +1682,11 @@ Object {
       "lastPhase": 3,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1747,
         },
-        Object {
+        {
           "id": 1748,
         },
       ],
@@ -1696,7 +1696,7 @@ Object {
       "startTime": 5196407,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.0500030517578,
       "bossPercentage": 17.66,
       "completeRaid": false,
@@ -1704,97 +1704,97 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2407,
       "endTime": 6363627,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 175205,
           "groupCount": 1,
           "id": 178,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 173162,
           "groupCount": 1,
           "id": 174,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173163,
           "groupCount": 2,
           "id": 175,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173161,
           "groupCount": 1,
           "id": 177,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167406,
           "groupCount": 1,
           "id": 165,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173164,
           "groupCount": 2,
           "id": 176,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169196,
           "groupCount": 2,
           "id": 181,
           "instanceCount": 8,
         },
-        Object {
+        {
           "gameID": 170710,
           "groupCount": 1,
           "id": 184,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169813,
           "groupCount": 5,
           "id": 179,
           "instanceCount": 5,
         },
-        Object {
+        {
           "gameID": 168158,
           "groupCount": 3,
           "id": 173,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169470,
           "groupCount": 1,
           "id": 182,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167999,
           "groupCount": 6,
           "id": 171,
           "instanceCount": 60,
         },
-        Object {
+        {
           "gameID": 168156,
           "groupCount": 3,
           "id": 169,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 17.66,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 168474,
           "groupCount": 6,
           "id": 172,
           "instanceCount": 18,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -1826,11 +1826,11 @@ Object {
       "lastPhase": 3,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1747,
         },
-        Object {
+        {
           "id": 1748,
         },
       ],
@@ -1840,7 +1840,7 @@ Object {
       "startTime": 5861498,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.10000610351562,
       "bossPercentage": 56.03,
       "completeRaid": false,
@@ -1848,91 +1848,91 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2407,
       "endTime": 7164477,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 175205,
           "groupCount": 1,
           "id": 178,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 169813,
           "groupCount": 3,
           "id": 179,
           "instanceCount": 3,
         },
-        Object {
+        {
           "gameID": 173162,
           "groupCount": 1,
           "id": 174,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173163,
           "groupCount": 2,
           "id": 175,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173161,
           "groupCount": 1,
           "id": 177,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167406,
           "groupCount": 2,
           "id": 165,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 168158,
           "groupCount": 4,
           "id": 173,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169470,
           "groupCount": 1,
           "id": 182,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167999,
           "groupCount": 6,
           "id": 171,
           "instanceCount": 58,
         },
-        Object {
+        {
           "gameID": 168156,
           "groupCount": 3,
           "id": 169,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173164,
           "groupCount": 2,
           "id": 176,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169196,
           "groupCount": 2,
           "id": 181,
           "instanceCount": 4,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 56.03,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 168474,
           "groupCount": 6,
           "id": 172,
           "instanceCount": 18,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -1964,14 +1964,14 @@ Object {
       "lastPhase": 2,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1747,
         },
-        Object {
+        {
           "id": 1748,
         },
-        Object {
+        {
           "id": 1747,
         },
       ],
@@ -1981,7 +1981,7 @@ Object {
       "startTime": 6851356,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.10000610351562,
       "bossPercentage": 16.93,
       "completeRaid": false,
@@ -1989,97 +1989,97 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2407,
       "endTime": 7803360,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 175205,
           "groupCount": 1,
           "id": 178,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 173162,
           "groupCount": 1,
           "id": 174,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173163,
           "groupCount": 2,
           "id": 175,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173161,
           "groupCount": 1,
           "id": 177,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167406,
           "groupCount": 1,
           "id": 165,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173164,
           "groupCount": 2,
           "id": 176,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169196,
           "groupCount": 2,
           "id": 181,
           "instanceCount": 8,
         },
-        Object {
+        {
           "gameID": 170710,
           "groupCount": 1,
           "id": 184,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169813,
           "groupCount": 5,
           "id": 179,
           "instanceCount": 5,
         },
-        Object {
+        {
           "gameID": 168158,
           "groupCount": 4,
           "id": 173,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169470,
           "groupCount": 1,
           "id": 182,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167999,
           "groupCount": 6,
           "id": 171,
           "instanceCount": 60,
         },
-        Object {
+        {
           "gameID": 168156,
           "groupCount": 3,
           "id": 169,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 16.93,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 168474,
           "groupCount": 6,
           "id": 172,
           "instanceCount": 18,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -2111,11 +2111,11 @@ Object {
       "lastPhase": 3,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1747,
         },
-        Object {
+        {
           "id": 1748,
         },
       ],
@@ -2125,7 +2125,7 @@ Object {
       "startTime": 7276800,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.10000610351562,
       "bossPercentage": 64.89,
       "completeRaid": false,
@@ -2133,79 +2133,79 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2407,
       "endTime": 8125152,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 175205,
           "groupCount": 1,
           "id": 178,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 169813,
           "groupCount": 1,
           "id": 179,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173162,
           "groupCount": 1,
           "id": 174,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173163,
           "groupCount": 1,
           "id": 175,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173161,
           "groupCount": 1,
           "id": 177,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167406,
           "groupCount": 1,
           "id": 165,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 168158,
           "groupCount": 4,
           "id": 173,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167999,
           "groupCount": 6,
           "id": 171,
           "instanceCount": 59,
         },
-        Object {
+        {
           "gameID": 168156,
           "groupCount": 4,
           "id": 169,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173164,
           "groupCount": 2,
           "id": 176,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 64.89,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 168474,
           "groupCount": 6,
           "id": 172,
           "instanceCount": 18,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -2237,11 +2237,11 @@ Object {
       "lastPhase": 2,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1747,
         },
-        Object {
+        {
           "id": 1748,
         },
       ],
@@ -2251,7 +2251,7 @@ Object {
       "startTime": 7888037,
       "wipeCalledTime": 8120212,
     },
-    Object {
+    {
       "averageItemLevel": 227.10000610351562,
       "bossPercentage": 0.01,
       "completeRaid": false,
@@ -2259,97 +2259,97 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2407,
       "endTime": 8814699,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 175205,
           "groupCount": 1,
           "id": 178,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 173162,
           "groupCount": 1,
           "id": 174,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173163,
           "groupCount": 2,
           "id": 175,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173161,
           "groupCount": 1,
           "id": 177,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167406,
           "groupCount": 1,
           "id": 165,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173164,
           "groupCount": 2,
           "id": 176,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169196,
           "groupCount": 2,
           "id": 181,
           "instanceCount": 8,
         },
-        Object {
+        {
           "gameID": 170710,
           "groupCount": 5,
           "id": 184,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 169813,
           "groupCount": 5,
           "id": 179,
           "instanceCount": 5,
         },
-        Object {
+        {
           "gameID": 168158,
           "groupCount": 4,
           "id": 173,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169470,
           "groupCount": 1,
           "id": 182,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167999,
           "groupCount": 6,
           "id": 171,
           "instanceCount": 58,
         },
-        Object {
+        {
           "gameID": 168156,
           "groupCount": 2,
           "id": 169,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 0.01,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 168474,
           "groupCount": 6,
           "id": 172,
           "instanceCount": 18,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -2381,11 +2381,11 @@ Object {
       "lastPhase": 3,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1747,
         },
-        Object {
+        {
           "id": 1748,
         },
       ],
@@ -2395,7 +2395,7 @@ Object {
       "startTime": 8219547,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.11764526367188,
       "bossPercentage": null,
       "completeRaid": false,
@@ -2403,25 +2403,25 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 8825666,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 167406,
           "groupCount": 1,
           "id": 165,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 171908,
           "groupCount": 1,
           "id": 189,
           "instanceCount": 1,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         2,
         7,
         45,
@@ -2457,7 +2457,7 @@ Object {
       "startTime": 8814852,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.6666717529297,
       "bossPercentage": null,
       "completeRaid": false,
@@ -2465,18 +2465,18 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 9045592,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 174141,
           "groupCount": 1,
           "id": 91,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         11,
         13,
         114,
@@ -2498,7 +2498,7 @@ Object {
       "startTime": 9045559,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.1904754638672,
       "bossPercentage": null,
       "completeRaid": false,
@@ -2506,48 +2506,48 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 9207726,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 173798,
           "groupCount": 1,
           "id": 110,
           "instanceCount": 4,
         },
-        Object {
+        {
           "gameID": 173142,
           "groupCount": 1,
           "id": 195,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 173146,
           "groupCount": 1,
           "id": 197,
           "instanceCount": 5,
         },
-        Object {
+        {
           "gameID": 173800,
           "groupCount": 1,
           "id": 109,
           "instanceCount": 29,
         },
-        Object {
+        {
           "gameID": 173145,
           "groupCount": 1,
           "id": 196,
           "instanceCount": 9,
         },
-        Object {
+        {
           "gameID": 174141,
           "groupCount": 2,
           "id": 91,
           "instanceCount": 12,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -2587,7 +2587,7 @@ Object {
       "startTime": 9069542,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.05882263183594,
       "bossPercentage": null,
       "completeRaid": false,
@@ -2595,24 +2595,24 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 9214623,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 164261,
           "groupCount": 1,
           "id": 82,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173146,
           "groupCount": 1,
           "id": 197,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -2650,7 +2650,7 @@ Object {
       "startTime": 9207836,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227,
       "bossPercentage": null,
       "completeRaid": false,
@@ -2658,18 +2658,18 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 9216950,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 173146,
           "groupCount": 1,
           "id": 197,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         45,
@@ -2706,7 +2706,7 @@ Object {
       "startTime": 9214715,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.14999389648438,
       "bossPercentage": 0.01,
       "completeRaid": false,
@@ -2714,18 +2714,18 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2383,
       "endTime": 9602423,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 164261,
           "groupCount": 1,
           "id": 82,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 0.01,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -2757,8 +2757,8 @@ Object {
       "lastPhase": 0,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1735,
         },
       ],
@@ -2768,7 +2768,7 @@ Object {
       "startTime": 9360491,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.14999389648438,
       "bossPercentage": null,
       "completeRaid": false,
@@ -2776,54 +2776,54 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 9686559,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 173568,
           "groupCount": 1,
           "id": 203,
           "instanceCount": 8,
         },
-        Object {
+        {
           "gameID": 173466,
           "groupCount": 1,
           "id": 201,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173448,
           "groupCount": 1,
           "id": 199,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173464,
           "groupCount": 1,
           "id": 202,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173512,
           "groupCount": 2,
           "id": 204,
           "instanceCount": 4,
         },
-        Object {
+        {
           "gameID": 173484,
           "groupCount": 1,
           "id": 205,
           "instanceCount": 3,
         },
-        Object {
+        {
           "gameID": 173469,
           "groupCount": 1,
           "id": 200,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -2862,7 +2862,7 @@ Object {
       "startTime": 9620324,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.0500030517578,
       "bossPercentage": null,
       "completeRaid": false,
@@ -2870,18 +2870,18 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 9730708,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 165521,
           "groupCount": 1,
           "id": 207,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -2920,7 +2920,7 @@ Object {
       "startTime": 9719711,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.0500030517578,
       "bossPercentage": 0.01,
       "completeRaid": false,
@@ -2928,36 +2928,36 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2406,
       "endTime": 10009163,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 165521,
           "groupCount": 1,
           "id": 207,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 170199,
           "groupCount": 3,
           "id": 213,
           "instanceCount": 3,
         },
-        Object {
+        {
           "gameID": 170197,
           "groupCount": 3,
           "id": 212,
           "instanceCount": 6,
         },
-        Object {
+        {
           "gameID": 166766,
           "groupCount": 5,
           "id": 211,
           "instanceCount": 20,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 0.01,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -2989,8 +2989,8 @@ Object {
       "lastPhase": 0,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1744,
         },
       ],
@@ -3000,7 +3000,7 @@ Object {
       "startTime": 9772818,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.0500030517578,
       "bossPercentage": null,
       "completeRaid": false,
@@ -3008,24 +3008,24 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 10013525,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 165521,
           "groupCount": 1,
           "id": 207,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 170199,
           "groupCount": 1,
           "id": 213,
           "instanceCount": 3,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -3064,7 +3064,7 @@ Object {
       "startTime": 10009224,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.14999389648438,
       "bossPercentage": null,
       "completeRaid": false,
@@ -3072,66 +3072,66 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 10140552,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 174194,
           "groupCount": 1,
           "id": 49,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 165474,
           "groupCount": 1,
           "id": 219,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173190,
           "groupCount": 1,
           "id": 220,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 174100,
           "groupCount": 2,
           "id": 217,
           "instanceCount": 3,
         },
-        Object {
+        {
           "gameID": 173189,
           "groupCount": 1,
           "id": 90,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173973,
           "groupCount": 1,
           "id": 87,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 174090,
           "groupCount": 1,
           "id": 216,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 165469,
           "groupCount": 1,
           "id": 215,
           "instanceCount": 4,
         },
-        Object {
+        {
           "gameID": 173949,
           "groupCount": 1,
           "id": 89,
           "instanceCount": 4,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         45,
@@ -3170,7 +3170,7 @@ Object {
       "startTime": 10069554,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.14999389648438,
       "bossPercentage": null,
       "completeRaid": false,
@@ -3178,72 +3178,72 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 10235133,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 165474,
           "groupCount": 3,
           "id": 219,
           "instanceCount": 8,
         },
-        Object {
+        {
           "gameID": 165472,
           "groupCount": 2,
           "id": 218,
           "instanceCount": 8,
         },
-        Object {
+        {
           "gameID": 173190,
           "groupCount": 1,
           "id": 220,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 165479,
           "groupCount": 1,
           "id": 221,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 173189,
           "groupCount": 1,
           "id": 90,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 165483,
           "groupCount": 2,
           "id": 222,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 165481,
           "groupCount": 1,
           "id": 60,
           "instanceCount": 5,
         },
-        Object {
+        {
           "gameID": 165470,
           "groupCount": 1,
           "id": 223,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 174092,
           "groupCount": 1,
           "id": 84,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 165469,
           "groupCount": 1,
           "id": 215,
           "instanceCount": 3,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         45,
@@ -3282,7 +3282,7 @@ Object {
       "startTime": 10151461,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.14999389648438,
       "bossPercentage": null,
       "completeRaid": false,
@@ -3290,43 +3290,43 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 10310037,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 165479,
           "groupCount": 1,
           "id": 221,
           "instanceCount": 3,
         },
-        Object {
+        {
           "gameID": 173802,
           "groupCount": 1,
           "id": 227,
           "instanceCount": 5,
         },
-        Object {
+        {
           "gameID": 174012,
           "groupCount": 1,
           "id": 226,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 165760,
           "groupCount": 1,
           "id": 229,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 174017,
           "groupCount": 1,
           "id": 228,
           "instanceCount": 3,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         45,
@@ -3365,7 +3365,7 @@ Object {
       "startTime": 10272399,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227,
       "bossPercentage": null,
       "completeRaid": false,
@@ -3373,24 +3373,24 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 10344691,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 167566,
           "groupCount": 1,
           "id": 231,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 168973,
           "groupCount": 1,
           "id": 230,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -3429,7 +3429,7 @@ Object {
       "startTime": 10335911,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.89999389648438,
       "bossPercentage": 90.52,
       "completeRaid": false,
@@ -3437,67 +3437,67 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2402,
       "endTime": 10676508,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 168962,
           "groupCount": 1,
           "id": 238,
           "instanceCount": 4,
         },
-        Object {
+        {
           "gameID": 165763,
           "groupCount": 2,
           "id": 225,
           "instanceCount": 7,
         },
-        Object {
+        {
           "gameID": 165764,
           "groupCount": 2,
           "id": 240,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167566,
           "groupCount": 3,
           "id": 231,
           "instanceCount": 5,
         },
-        Object {
+        {
           "gameID": 168700,
           "groupCount": 1,
           "id": 241,
           "instanceCount": 5,
         },
-        Object {
+        {
           "gameID": 168973,
           "groupCount": 1,
           "id": 230,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 165805,
           "groupCount": 2,
           "id": 237,
           "instanceCount": 2,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 11.85,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 165778,
           "groupCount": 2,
           "id": 234,
           "instanceCount": 7,
         },
-        Object {
+        {
           "gameID": 165759,
           "groupCount": 3,
           "id": 233,
           "instanceCount": 1,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -3529,8 +3529,8 @@ Object {
       "lastPhase": 0,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1746,
         },
       ],
@@ -3540,7 +3540,7 @@ Object {
       "startTime": 10444574,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.6666717529297,
       "bossPercentage": null,
       "completeRaid": false,
@@ -3548,18 +3548,18 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 10689506,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 165759,
           "groupCount": 1,
           "id": 233,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         45,
@@ -3594,7 +3594,7 @@ Object {
       "startTime": 10689503,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227,
       "bossPercentage": null,
       "completeRaid": false,
@@ -3602,66 +3602,66 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 10811341,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 174208,
           "groupCount": 1,
           "id": 243,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173633,
           "groupCount": 1,
           "id": 246,
           "instanceCount": 4,
         },
-        Object {
+        {
           "gameID": 165479,
           "groupCount": 1,
           "id": 221,
           "instanceCount": 4,
         },
-        Object {
+        {
           "gameID": 173604,
           "groupCount": 1,
           "id": 248,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 173973,
           "groupCount": 1,
           "id": 87,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173609,
           "groupCount": 1,
           "id": 247,
           "instanceCount": 4,
         },
-        Object {
+        {
           "gameID": 165470,
           "groupCount": 1,
           "id": 223,
           "instanceCount": 2,
         },
-        Object {
+        {
           "gameID": 165471,
           "groupCount": 1,
           "id": 244,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 173613,
           "groupCount": 1,
           "id": 245,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         45,
@@ -3700,7 +3700,7 @@ Object {
       "startTime": 10747958,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227,
       "bossPercentage": null,
       "completeRaid": false,
@@ -3708,18 +3708,18 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 10839274,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 166644,
           "groupCount": 1,
           "id": 249,
           "instanceCount": 1,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -3758,7 +3758,7 @@ Object {
       "startTime": 10829725,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 226.94444274902344,
       "bossPercentage": null,
       "completeRaid": false,
@@ -3766,11 +3766,11 @@ Object {
       "dungeonPulls": null,
       "encounterID": 0,
       "endTime": 10844011,
-      "enemyNPCs": Array [],
-      "enemyPlayers": Array [],
+      "enemyNPCs": [],
+      "enemyPlayers": [],
       "fightPercentage": null,
-      "friendlyNPCs": Array [],
-      "friendlyPlayers": Array [
+      "friendlyNPCs": [],
+      "friendlyPlayers": [
         4,
         2,
         45,
@@ -3807,7 +3807,7 @@ Object {
       "startTime": 10844011,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.0500030517578,
       "bossPercentage": 58.09,
       "completeRaid": false,
@@ -3815,55 +3815,55 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2405,
       "endTime": 11020303,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 169267,
           "groupCount": 3,
           "id": 252,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 168512,
           "groupCount": 5,
           "id": 250,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169062,
           "groupCount": 1,
           "id": 256,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169271,
           "groupCount": 1,
           "id": 253,
           "instanceCount": 5,
         },
-        Object {
+        {
           "gameID": 166644,
           "groupCount": 1,
           "id": 249,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167691,
           "groupCount": 1,
           "id": 255,
           "instanceCount": 3,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 58.09,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 169219,
           "groupCount": 2,
           "id": 254,
           "instanceCount": 8,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -3895,8 +3895,8 @@ Object {
       "lastPhase": 3,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1745,
         },
       ],
@@ -3906,7 +3906,7 @@ Object {
       "startTime": 10909730,
       "wipeCalledTime": null,
     },
-    Object {
+    {
       "averageItemLevel": 227.0500030517578,
       "bossPercentage": 0.01,
       "completeRaid": false,
@@ -3914,55 +3914,55 @@ Object {
       "dungeonPulls": null,
       "encounterID": 2405,
       "endTime": 11335831,
-      "enemyNPCs": Array [
-        Object {
+      "enemyNPCs": [
+        {
           "gameID": 169267,
           "groupCount": 1,
           "id": 252,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 168512,
           "groupCount": 14,
           "id": 250,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169062,
           "groupCount": 1,
           "id": 256,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 169271,
           "groupCount": 5,
           "id": 253,
           "instanceCount": 25,
         },
-        Object {
+        {
           "gameID": 166644,
           "groupCount": 1,
           "id": 249,
           "instanceCount": 1,
         },
-        Object {
+        {
           "gameID": 167691,
           "groupCount": 2,
           "id": 255,
           "instanceCount": 2,
         },
       ],
-      "enemyPlayers": Array [],
+      "enemyPlayers": [],
       "fightPercentage": 0.01,
-      "friendlyNPCs": Array [
-        Object {
+      "friendlyNPCs": [
+        {
           "gameID": 169219,
           "groupCount": 6,
           "id": 254,
           "instanceCount": 24,
         },
       ],
-      "friendlyPlayers": Array [
+      "friendlyPlayers": [
         4,
         2,
         7,
@@ -3994,8 +3994,8 @@ Object {
       "lastPhase": 3,
       "lastPhaseIsIntermission": false,
       "layer": null,
-      "maps": Array [
-        Object {
+      "maps": [
+        {
           "id": 1745,
         },
       ],

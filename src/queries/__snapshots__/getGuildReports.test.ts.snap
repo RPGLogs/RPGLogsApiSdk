@@ -1,15 +1,15 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`returns data 1`] = `
-Object {
+{
   "current_page": 1,
-  "data": Array [
-    Object {
+  "data": [
+    {
       "code": "TLbM9tGKj162JAyp",
       "endTime": 1603137864064,
       "exportedSegments": 53,
-      "fights": Array [
-        Object {
+      "fights": [
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": 0,
           "completeRaid": false,
@@ -32,7 +32,7 @@ Object {
           "startTime": 700368,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": null,
           "completeRaid": false,
@@ -55,7 +55,7 @@ Object {
           "startTime": 765210,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": null,
           "completeRaid": false,
@@ -78,7 +78,7 @@ Object {
           "startTime": 793984,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": null,
           "completeRaid": false,
@@ -101,7 +101,7 @@ Object {
           "startTime": 884833,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": null,
           "completeRaid": false,
@@ -124,7 +124,7 @@ Object {
           "startTime": 950659,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 133.3333282470703,
           "bossPercentage": null,
           "completeRaid": false,
@@ -147,7 +147,7 @@ Object {
           "startTime": 1080126,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": 0,
           "completeRaid": false,
@@ -170,7 +170,7 @@ Object {
           "startTime": 1097908,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.44444274902344,
           "bossPercentage": null,
           "completeRaid": false,
@@ -193,7 +193,7 @@ Object {
           "startTime": 1261908,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.44444274902344,
           "bossPercentage": null,
           "completeRaid": false,
@@ -216,7 +216,7 @@ Object {
           "startTime": 1287846,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.44444274902344,
           "bossPercentage": null,
           "completeRaid": false,
@@ -239,7 +239,7 @@ Object {
           "startTime": 1320256,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": null,
           "completeRaid": false,
@@ -262,7 +262,7 @@ Object {
           "startTime": 1373371,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": 0,
           "completeRaid": false,
@@ -285,7 +285,7 @@ Object {
           "startTime": 1595531,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.39999389648438,
           "bossPercentage": null,
           "completeRaid": false,
@@ -308,7 +308,7 @@ Object {
           "startTime": 1818547,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 132.3333282470703,
           "bossPercentage": null,
           "completeRaid": false,
@@ -331,7 +331,7 @@ Object {
           "startTime": 1837657,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 132.3333282470703,
           "bossPercentage": null,
           "completeRaid": false,
@@ -354,7 +354,7 @@ Object {
           "startTime": 1914677,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": null,
           "completeRaid": false,
@@ -377,7 +377,7 @@ Object {
           "startTime": 2007525,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": null,
           "completeRaid": false,
@@ -400,7 +400,7 @@ Object {
           "startTime": 2178923,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 128.5,
           "bossPercentage": null,
           "completeRaid": false,
@@ -423,7 +423,7 @@ Object {
           "startTime": 2284991,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": 0,
           "completeRaid": false,
@@ -446,7 +446,7 @@ Object {
           "startTime": 2294282,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.7142791748047,
           "bossPercentage": null,
           "completeRaid": false,
@@ -469,7 +469,7 @@ Object {
           "startTime": 2904714,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": null,
           "completeRaid": false,
@@ -492,7 +492,7 @@ Object {
           "startTime": 2953075,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.5,
           "bossPercentage": 0,
           "completeRaid": false,
@@ -515,7 +515,7 @@ Object {
           "startTime": 3159061,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": null,
           "completeRaid": false,
@@ -538,7 +538,7 @@ Object {
           "startTime": 3387874,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 128,
           "bossPercentage": null,
           "completeRaid": false,
@@ -561,7 +561,7 @@ Object {
           "startTime": 3641221,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": 0,
           "completeRaid": false,
@@ -584,7 +584,7 @@ Object {
           "startTime": 3655096,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": null,
           "completeRaid": false,
@@ -607,7 +607,7 @@ Object {
           "startTime": 3793861,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": null,
           "completeRaid": false,
@@ -630,7 +630,7 @@ Object {
           "startTime": 3838371,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": null,
           "completeRaid": false,
@@ -653,7 +653,7 @@ Object {
           "startTime": 3858864,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": 0,
           "completeRaid": false,
@@ -676,7 +676,7 @@ Object {
           "startTime": 3921659,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": null,
           "completeRaid": false,
@@ -699,7 +699,7 @@ Object {
           "startTime": 4041348,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": 93.02,
           "completeRaid": false,
@@ -722,7 +722,7 @@ Object {
           "startTime": 4151369,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": null,
           "completeRaid": false,
@@ -745,7 +745,7 @@ Object {
           "startTime": 4371259,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": 0.38,
           "completeRaid": false,
@@ -768,7 +768,7 @@ Object {
           "startTime": 4392922,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.11111450195312,
           "bossPercentage": null,
           "completeRaid": false,
@@ -791,7 +791,7 @@ Object {
           "startTime": 4757810,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.55555725097656,
           "bossPercentage": null,
           "completeRaid": false,
@@ -814,7 +814,7 @@ Object {
           "startTime": 4819328,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.42857360839844,
           "bossPercentage": null,
           "completeRaid": false,
@@ -837,7 +837,7 @@ Object {
           "startTime": 4919005,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": 0,
           "completeRaid": false,
@@ -860,7 +860,7 @@ Object {
           "startTime": 5034947,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 133.75,
           "bossPercentage": null,
           "completeRaid": false,
@@ -883,7 +883,7 @@ Object {
           "startTime": 5134624,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": null,
           "completeRaid": false,
@@ -906,7 +906,7 @@ Object {
           "startTime": 5154647,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": null,
           "completeRaid": false,
@@ -929,7 +929,7 @@ Object {
           "startTime": 5178426,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": null,
           "completeRaid": false,
@@ -952,7 +952,7 @@ Object {
           "startTime": 5188705,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": null,
           "completeRaid": false,
@@ -975,7 +975,7 @@ Object {
           "startTime": 5235939,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": 0,
           "completeRaid": false,
@@ -998,7 +998,7 @@ Object {
           "startTime": 5344361,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": null,
           "completeRaid": false,
@@ -1021,7 +1021,7 @@ Object {
           "startTime": 5595613,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": null,
           "completeRaid": false,
@@ -1044,7 +1044,7 @@ Object {
           "startTime": 5709335,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.3000030517578,
           "bossPercentage": 65.58,
           "completeRaid": false,
@@ -1067,7 +1067,7 @@ Object {
           "startTime": 5886429,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 129.8333282470703,
           "bossPercentage": null,
           "completeRaid": false,
@@ -1090,7 +1090,7 @@ Object {
           "startTime": 6244383,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": 37.56,
           "completeRaid": false,
@@ -1113,7 +1113,7 @@ Object {
           "startTime": 6280122,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": 36.35,
           "completeRaid": false,
@@ -1136,7 +1136,7 @@ Object {
           "startTime": 6603189,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": 0,
           "completeRaid": false,
@@ -1159,7 +1159,7 @@ Object {
           "startTime": 6927144,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.10000610351562,
           "bossPercentage": 0,
           "completeRaid": false,
@@ -1182,7 +1182,7 @@ Object {
           "startTime": 7307734,
           "wipeCalledTime": null,
         },
-        Object {
+        {
           "averageItemLevel": 131.39999389648438,
           "bossPercentage": null,
           "completeRaid": false,
@@ -1207,7 +1207,7 @@ Object {
         },
       ],
       "guildTag": null,
-      "owner": Object {
+      "owner": {
         "id": 381152,
         "name": "Fluclox",
       },
@@ -1216,7 +1216,7 @@ Object {
       "startTime": 1603130114982,
       "title": "Glory of the Nyalotha Raider",
       "visibility": "public",
-      "zone": Object {
+      "zone": {
         "id": 24,
         "name": "Ny'alotha",
       },

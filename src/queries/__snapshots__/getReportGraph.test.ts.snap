@@ -1,14 +1,14 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`returns data 1`] = `
-Object {
+{
   "code": "cFZ274xvNgTbLXCj",
-  "graph": Object {
-    "data": Object {
+  "graph": {
+    "data": {
       "endTime": 4513183,
-      "series": Array [
-        Object {
-          "data": Array [
+      "series": [
+        {
+          "data": [
             0,
             0,
             0,
@@ -257,8 +257,8 @@ Object {
           "pointStart": 4223842,
           "type": "Damage Done",
         },
-        Object {
-          "data": Array [
+        {
+          "data": [
             0,
             0,
             0,
@@ -507,8 +507,8 @@ Object {
           "pointStart": 4223842,
           "type": "Damage Taken",
         },
-        Object {
-          "data": Array [
+        {
+          "data": [
             0,
             0,
             0,
@@ -757,8 +757,8 @@ Object {
           "pointStart": 4223842,
           "type": "Healing Done",
         },
-        Object {
-          "data": Array [
+        {
+          "data": [
             0,
             0,
             0,
