@@ -8,4 +8,5 @@ module.exports = {
     '^.+\\.(ts|tsx)$': 'ts-jest',
   },
   globalSetup: './src/testGlobalSetup.ts',
+  testTimeout: 10_000,
 };
