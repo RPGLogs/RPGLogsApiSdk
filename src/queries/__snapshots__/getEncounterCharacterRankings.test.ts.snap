@@ -347,11 +347,6 @@ exports[`returns data 1`] = `
         "bracketData": 478,
         "class": "DemonHunter",
         "duration": 212267,
-        "guild": {
-          "faction": 1,
-          "id": 474691,
-          "name": "Sultans",
-        },
         "hardModeLevel": 0,
         "name": "Asyc",
         "report": {
