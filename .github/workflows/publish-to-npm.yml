@@ -8,20 +8,24 @@ on:
 jobs:
   publish-to-npm:
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write # Required for OIDC
+      contents: read # This is required for actions/checkout
     steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: '24'
+          registry-url: 'https://registry.npmjs.org/'
+          package-manager-cache: false  # never use caching in release builds
       - run: yarn install
       - run: yarn lint
       - run: "echo 'const credentials = { clientId: \"${{ secrets.RPGLOGS_API_CLIENT_ID }}\", clientSecret: \"${{ secrets.RPGLOGS_API_CLIENT_SECRET }}\" }; export default credentials;' > src/credentials.ts"
       - run: yarn generate
       - run: yarn test
       - run: yarn build-all
-      - uses: JS-DevTools/npm-publish@v1
+      - uses: JS-DevTools/npm-publish@v4
         with:
-          token: ${{ secrets.NPM_TOKEN }}
           access: public
 
       - run: yarn docs
