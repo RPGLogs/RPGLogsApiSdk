@@ -3,7 +3,10 @@
   "version": "2.0.1",
   "description": "Sends HTTP requests to the RPGLogs v2 API.",
   "author": "RPGLogs LLC",
-  "repository": "https://github.com/RPGLogs/RPGLogsApiSdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RPGLogs/RPGLogsApiSdk.git"
+  },
   "license": "MIT",
   "keywords": [
     "typescript",
