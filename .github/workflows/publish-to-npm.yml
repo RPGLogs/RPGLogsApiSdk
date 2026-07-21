@@ -33,7 +33,6 @@ jobs:
       - uses: JS-DevTools/npm-publish@v4
         with:
           access: public
-          dry-run: true
 
       - run: yarn docs
         env:
