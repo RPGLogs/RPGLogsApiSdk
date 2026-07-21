@@ -264,6 +264,11 @@ exports[`returns data 1`] = `
         "name": "Vengeance",
         "slug": "Vengeance",
       },
+      {
+        "id": 3,
+        "name": "Devourer",
+        "slug": "Devourer",
+      },
     ],
   },
   {
