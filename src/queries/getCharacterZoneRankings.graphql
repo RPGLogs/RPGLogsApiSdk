@@ -4,7 +4,7 @@ query getCharacterZoneRankings(
   $characterName: String,
   $characterServerSlug: String,
   $characterRegion: String,
-  $metric: CharacterRankingMetricType,
+  $metric: CharacterPageRankingMetricType,
   $difficulty: Int,
   $size: Int,
   $partition: Int,
