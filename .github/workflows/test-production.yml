@@ -16,6 +16,11 @@ jobs:
           node-version: 20
       - run: yarn install
       - run: yarn lint
-      - run: "echo 'const credentials = { clientId: \"${{ secrets.RPGLOGS_API_CLIENT_ID }}\", clientSecret: \"${{ secrets.RPGLOGS_API_CLIENT_SECRET }}\" }; export default credentials;' > src/credentials.ts"
       - run: yarn generate
+        env:
+          RPGLOGS_API_CLIENT_ID: ${{ secrets.RPGLOGS_API_CLIENT_ID }}
+          RPGLOGS_API_CLIENT_SECRET: ${{ secrets.RPGLOGS_API_CLIENT_SECRET }}
       - run: yarn test
+        env:
+          RPGLOGS_API_CLIENT_ID: ${{ secrets.RPGLOGS_API_CLIENT_ID }}
+          RPGLOGS_API_CLIENT_SECRET: ${{ secrets.RPGLOGS_API_CLIENT_SECRET }}

@@ -2,16 +2,18 @@ import { getIntrospectionQuery } from 'graphql/utilities/getIntrospectionQuery';
 import request from 'sync-request';
 import fs from 'fs';
 import btoa from 'btoa';
-import credentials from './credentials';
 import { IncomingHttpHeaders } from 'http';
+import { getCredentials } from './env';
 
 downloadWarcraftLogsSchema();
 
 function downloadWarcraftLogsSchema() {
+  const { clientId, clientSecret } = getCredentials();
+
   const accessToken = getAccessToken(
     'https://www.warcraftlogs.com/oauth/token',
-    credentials.clientId,
-    credentials.clientSecret
+    clientId,
+    clientSecret
   );
 
   downloadRemoteSchema('https://www.warcraftlogs.com/api/v2/client', {
