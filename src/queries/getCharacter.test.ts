@@ -17,12 +17,12 @@ test('returns data', async () => {
       name: 'Horde',
     },
     hidden: false,
-    id: 46159040,
-    level: 60,
-    name: 'Xyä',
+    id: 63478284,
+    level: 80,
+    name: 'Yäx',
     server: {
-      id: 304,
-      name: 'Kazzak',
+      id: 350,
+      name: 'Twisting Nether',
       region: {
         compactName: 'EU',
         id: 2,
