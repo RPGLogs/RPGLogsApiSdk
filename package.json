@@ -1,9 +1,12 @@
 {
   "name": "@rpglogs/api-sdk",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Sends HTTP requests to the RPGLogs v2 API.",
   "author": "RPGLogs LLC",
-  "repository": "https://github.com/RPGLogs/RPGLogsApiSdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RPGLogs/RPGLogsApiSdk.git"
+  },
   "license": "MIT",
   "keywords": [
     "typescript",
@@ -53,6 +56,7 @@
     "@typescript-eslint/eslint-plugin": "^4.19.0",
     "@typescript-eslint/parser": "^4.19.0",
     "btoa": "^1.2.1",
+    "dotenv": "^16.4.5",
     "esbuild": "^0.11.11",
     "eslint": "^7.22.0",
     "eslint-config-prettier": "^8.3.0",

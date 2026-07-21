@@ -1,9 +1,8 @@
 import { getAccessToken } from './testHelpers';
-import credentials from './credentials';
+import { getCredentials } from './env';
 
 export default async (): Promise<void> => {
-  process.env.TEST_ACCESS_TOKEN = await getAccessToken(
-    credentials.clientId,
-    credentials.clientSecret
-  );
+  const { clientId, clientSecret } = getCredentials();
+
+  process.env.TEST_ACCESS_TOKEN = await getAccessToken(clientId, clientSecret);
 };

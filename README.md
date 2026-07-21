@@ -90,6 +90,8 @@ There are still some high-level features that would be good to add:
 
 ### Developing in this repository:
 
+Copy the example `.env` file and fill in your client id/secret from https://www.warcraftlogs.com/api/clients/
+
 ```bash
 # Install dependencies
 yarn install
